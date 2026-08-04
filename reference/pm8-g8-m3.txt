@@ -1,0 +1,227 @@
+Job Family Group: Product
+Job Family: Product Management
+Job Profile: Product Management M3 (G8)
+Last Updated: April 30th, 2025
+What You Do
+Job Profile Summary
+Helps teams identify customers’ unmet or unknown needs and market opportunities for
+enhancement and development of feature(s)/feature areas. Leads teams to demonstrate
+and build experiences to solve unmet user needs. Leads teams who work across multiple
+feature(s)/feature areas. Owns and coaches teams in driving business impact across the
+organization and tracking success criteria and performance metrics. Leads teams in
+identifying data-informed, long-term investment opportunities, and prioritizing
+investments in consultation with cross-functional partners for feature(s)/feature areas.
+Leads teams to engage with cross-functional internal partners, external partners including
+early adopting customers, senior leadership, and other key stakeholders to gather input
+and garner support for product/service vision, strategy, and roadmap for
+feature(s)/feature areas. Defines and coaches teams in defining the feature(s) or feature
+set and guides them to partner with Design teams to connect multiple design factors.
+Supervises collaboration with Product Marketing, Business Planning, and Engineering, to
+identify product release criteria, customer acquisition, usage, retention and monetization
+strategies. Guides teams to evangelize the feature(s)/feature areas they work on with
+internal and external stakeholders and customers in the industry via presentations, and
+other forums. In addition, this role has people management responsibilities including
+driving employee growth and development, executing projects, and managing
+performance.
+Responsibilities
+Analysis of Customer and Market Signals
+● Helps teams identify customers’ unmet or unknown needs and market
+opportunities for enhancement and development of feature(s)/feature areas (e.g.,
+product, service) via quantitative (e.g., usage, telemetry) and qualitative analyses
+(e.g., customer usage, various listening systems, feedback channels of market and
+industry trends), looks for patterns in the data across a portfolio, and scopes the
+impact and prioritization of a problem. Leads teams to bring together internal and
+external customer groups and engage in direct 1:1 (e.g., visits, interviews) or many
+(e.g., social media, events) customer engagements to solicit feedback and
+understand their experiences with GitHub’s products and services using industry
+
+accepted methods. Helps teams to perform market or user research in
+collaboration with the User Research team, conduct competitive analyses, and
+examine market and industry trends as well as industry specific requirements or
+regulations. Leads teams to share insights with senior internal/external
+stakeholders and internal team to ensure cross-team alignment.
+● Leads teams to demonstrate and build experiences to solve unmet user needs.
+Guides and coaches teams to develop problem statements and form hypotheses of
+new feature(s)/feature areas (e.g., product, service) to address complex customer
+needs and/or market opportunities. Identifies dependencies of other feature areas.
+Helps teams perform experiments to test hypotheses and inform decisions on what
+new feature areas to introduce. Establishes clarity of patterns of root problem and
+how it relates with previously seen trends across customers, determines the
+customers/sectors impacted, and provides research evidence to determine
+priorities. Determines and leads process improvements to quickly scope insights.
+Uses industry understanding to direct teams to ensure alignment between the
+customer, the market, and the goals and strategy of GitHub. Holds teams
+accountable for collaborating with others (e.g., Software Engineering [SWE],
+Hardware Engineering [HWE], Product Marketing, Design) to ensure that they can
+satisfy customer requirements. Coaches teams to validate the market size and
+opportunity to determine products or features of greatest value. Leads teams in
+defining solution options across feature(s)/feature areas (e.g., product, service).
+Engages team to partners with Software Engineering [SWE], Hardware Engineering
+[HWE], and senior colleagues on other teams in refinement sessions to synthesize
+hypothesis results into solutions tied with Objectives and Key Results (OKRs) and
+Key Performance Indicators (KPIs) progress.
+Product/Service Definition
+● Leads teams who work across multiple feature(s)/feature areas (e.g., product,
+service). Coaches teams to define and influence the long-term vision and strategy
+for the feature(s)/feature areas (e.g., product, service) based on a deep
+understanding of customer needs, market and user research, the competitive
+landscape, and GitHub’s business goals and strategy. Leads teams to write the
+product framing/vision memo. Helps teams to make feature-centric contributions
+to the vision and strategy into a product roadmap. Assists teams to create user
+stories and epics to convey the big picture. Helps teams leverage a deep
+understanding of the product architecture to design end-to-end scenarios. Guides
+teams to collaborate with others (e.g., Business Planning, Finance, Support,
+Customers, Product Marketing) to identify the potential customer base.
+Communicates product strategy to internal and external customers and builds
+consensus through multiple methods (e.g., conference presentations, collaboration
+with partner organizations). Supports the team's efforts around packaging, pricing,
+and monetizability of new and existing features and collaborates with Business
+Planning and Pricing teams to ratify and execute pricing and packaging changes.
+● Owns and coaches teams in driving business impact across the organization and
+tracking success criteria and performance metrics (e.g., Objectives and Key Results
+[OKRs], Key Performance Indicators [KPIs] such as engagement, usage, acquisition,
+revenue, project features) of the feature(s)/feature areas (e.g., product, service).
+Works with Software Engineering (SWE) and Hardware Engineering (HWE) to
+
+identify needed data and ensure needed telemetry is developed and obtains it
+responsibly and compliantly. Coaches team in reporting and explicating reasons for
+outcomes. Helps teams deeply understand the cost of goods sold (COGS) of the
+feature(s)/feature areas (e.g., product, service) and the KPIs that will help improve
+profitability. Takes ownership of team metric outcomes and drives team alignment
+around key criteria and performance metrics with their organization's goals.
+Coaches team in identifying OKRs for feature(s)/feature areas (e.g., product,
+service) and ensures alignment with product-level OKRs. Ensures processes (e.g.,
+dashboards, trigger criteria) to monitor the data are in place and being adhered to.
+Determines the value of the feature(s)/feature areas (e.g., product, service) to the
+business, aligns success criteria, and measures success. Helps select appropriate
+candidate metrics for defining success of products or features as well as numerical
+targets and measurement time horizons. Uses product and feature performance
+metrics in prioritization and necessary level of investment or disinvestment as
+necessary.
+● Leads teams in identifying data-informed, long-term investment opportunities,
+evaluating tradeoffs, and prioritizing investments in consultation with cross-
+functional partners for feature(s)/feature areas (e.g., product, service). Helps teams
+determine the features or experiences to prioritize in the roadmap that will support
+achievement of success criteria and Objectives and Key Results (OKRs).
+● Leads teams to engage with cross-functional internal partners, external partners
+including early adopting customers, senior leadership, and other key stakeholders
+to gather input and garner support for product/service vision, strategy, and
+roadmap for feature(s)/feature areas. Anticipates push back and addresses it
+appropriately using product expertise and data while handling challenging
+feedback. Guides teams to collaborate to gain buy in and alignment. Holds teams
+accountable for soliciting input regarding priorities and resources needed to deliver
+desired outcomes for feature(s)/feature areas (e.g., product, service).
+Product/Service Development
+● Defines and coaches teams in defining the feature(s) or feature set and guides them
+to partner with Design teams to connect multiple design factors (e.g., visual design,
+user experience [UX], application programming interfaces [APIs], hardware design)
+to desired functionality and product vision. Directs teams to iterate multiple designs
+with Design, Software Engineering (SWE) and Hardware Engineering (HWE). Leads
+teams to leverage preexisting design patterns to inform current design iterations
+and establish a cohesive design approach. Leads team to anticipate interoperability
+challenges between different components or layers in the stack (e.g., UX and API
+layer differences). Leads team to facilitate reviews (UX, system designs, data
+designs) with customers (e.g., regulators, engineers, policy makers, business
+decision makers) to determine usability and ensure accessibility criteria and
+updated designs meet customer goals.
+● Guides teams owning the roadmap for their feature(s)/feature areas (e.g., product,
+service). Leads teams to prioritize the backlog, work with Software Engineering
+(SWE) and Hardware Engineering (HWE) to align on tradeoffs for the
+feature(s)/feature areas (e.g., product, service) they own, and partner with
+Marketing on the disclosure of the roadmap. Directs teams to take in new inputs
+and adapt as necessary. Helps team assess the performance and metrics and adjust
+
+strategy and roadmap accordingly. Helps teams influence and land difficult
+tradeoffs with peers and manage the team through it. Leads teams to ensure a line
+between customer needs and what is developed on the roadmap so that a series of
+problems can be addressed over time. Leads teams to ensure alignment between
+the roadmap for the feature(s)/feature areas (e.g., product, service) and Objective
+and Key Results (OKRs) and Key Performance Indicators (KPIs).
+● Leads teams to build golden configurations and drive scenario walkthroughs and
+thought exercises to identify problems, system friction, and needed contingencies
+in advance of early customer adoption for feature(s)/feature areas (e.g., product,
+service). Directs teams to share feature previews or roadmap with customers to
+drive engagement and to gather feedback and customer telemetry in conjunction
+with others (e.g., Business Development, Sales, End Consumers, User Research).
+Leads teams to collaborate with Software Engineering (SWE), Hardware
+Engineering (HWE), and Scientists to synthesize, prioritize, and address feedback
+for improvement.
+Go To Market
+● Supervises collaboration with Product Marketing, Business Planning, and
+Engineering, to identify product release criteria, customer acquisition, usage,
+retention and monetization strategies. Oversees partnership with Product
+Marketing teams by helping build marketing and roll-out plans and/or content such
+as product overviews, blogs, and landing pages for individual features or smaller
+products that ladder up to marketing plans for an overall product solution area.
+Supervises team to develop strategy for taking the group of features or feature
+areas (e.g., product, service) from private preview to public preview and then to
+general availability. Trains teams to create customer support plans (e.g., frequently
+asked questions [FAQs], scripts), change management, and communication plans.
+● Guides teams to evangelize the feature(s)/feature areas they work on with internal
+and external stakeholders, analysts, partners, and customers in the industry via
+presentations, blog posts, social media, and other forums. Coaches teams
+presenting at Executive Briefing Centers (EBCs), as well as small and large
+industry/company events. Ensures teams act as a primary interface with Product
+Marketing to educate on the product and develop content.
+Product/Service Performance
+● Guides teams to partner with others (e.g., Data Science, Software Engineering
+[SWE], Hardware Engineering [HWE], User Research) to collect performance
+metrics (e.g., key performance indicators [KPIs] such as engagement, usage,
+acquisition, revenue, and in project features), monitor and report on progress (e.g.,
+business reviews), and derive insights and drives productive courses of action to
+improve product/feature development, iteration, and implementation. Guides
+teams to leverage customer listening systems, telemetry, engagements (e.g.,
+interviews, surveys), etc., to develop insights on product performance and
+customer needs. Ensures teams share insights with SWE, HWE, and other partners.
+Coaches teams to form hypotheses to technical needs, perform experiments,
+iterate, and test to drive improvement/adoption in specific performance metrics.
+● Leads teams to build trust with a targeted selection of customers. Helps teams
+orchestrate a line of communication with complex and advanced customers to
+
+capture feedback and insights through the product development lifecycle. Coaches
+team to manage customer communities and customer engagement programs.
+Encourages teams respond to real-time customer feedback in online portals.
+Coaches teams to understand and drive improvements in the support process,
+including both forums and communities.
+What You Need
+Qualifications
+Required/Minimum Qualifications
+● 4+ years experience in product/service/project/program management, software
+development, product design, or related field
+OR Bachelor's Degree in related field AND 2+ years experience in
+o
+product/service/project/program management, software development,
+product design, or related field
+OR equivalent experience.
+o
+Additional or Preferred Qualifications
+● 1+ year(s) people management experience.
+
+How You Do It
+Skills
+Business Acumen and Customer and Partner Product Development and
+Insights Relationship Management Lifecycle Management
+● Financial Acumen ● Executive Presence ● Product Lifecycle
+● GitHub Products ● Trusted Partner Status ● Product Specification
+Knowledge Data Driven Decision ● Product Strategy
+● Technical Domain Making and Problem ● User Experience (UX)
+Knowledge and Skills Solving Project and Program
+Communication and ● Agility Management
+Influence ● Competitive Analysis ● Cross-functional Team
+● Conflict Resolution ● Creativity Leadership
+● Influence Others ● Customer Research ● Multi-Initiative Program
+● Negotiation ● Data Analysis Management
+● Persuasion/Storytelling ● Decision Making ● Project Cost
+● Product Evangelism ● Judgement ● Project Management
+● Technical ● Key Performance ● Business Relationship
+Communication Indicator (KPI) Management
+Application ● Business Project
+● Return on Investment Stakeholder
+Analysis Management
+● Strategic Thinking
+Internal Use Only: Culture and Values
+● Learn more about GitHub's Culture (Mission, Values, etc.)
+● Learn more about our Values
+● Learn more about our Leadership Principles
+● Learn more about our Manager Fundamentals
+

@@ -1,0 +1,573 @@
+Tech ni c a l P r o gr a m M a n a gemen t | 1
+Career Stage Profile
+Job Family Group: Program Management
+Job Family: Technical Program Management
+Summary
+Job Family Definition Leads the development and implementation process for products and services typically involving large, complex
+cross-functional implementation with multiple internal teams or external partners. Leads efforts such as designing
+product architecture and solutions to complex technical needs, identifying trends in product quality and
+performance to define or change existing features. Supports development and delivery of the product roadmap.
+Accountable for the development and delivery of the project schedule and release plans. Monitors
+product/service performance and drives continuous improvement in quality, profitability, supportability and
+delivery. Acts as technical advisor with customers to evangelize products, solicit feedback, and support field
+sellers where needed. Designs and drives programs and/or product changes that address customer needs and
+business priorities.
+Job Profiles included:
+• P3 – P6 (G8 – G11)
+• M4 – M6 (G9 – G11)
+ Job Profile Summaries
+ Key Responsibilities (Professional/Individual Contributor)
+ Key Responsibilities (Manager)
+ Skills
+
+Tech ni c a l P r o gr a m M a n a gemen t | 2
+Job Profile Summaries
+Job Profile Job Profile Summary
+Technical Program Starts to build relationships within the product family to build connections, and starts to understand the broader product family. Contributes to the definition of program(s) goals and provides input
+Management P3 (G8) to the prioritization for the group of features/feature areas. Defines success criteria and performance metrics. Collaborates with others in orchestrating and integrating efforts for the development
+and implementation process of a group of features or feature areas. Partners with the engineering team to contribute, prioritize, and deliver on the roadmap for a group of features or feature areas.
+Collaborates with others to track, coordinate, and communicate end-to-end project schedules. Helps develop the staging and implementation plan for piloting/release in alignment with Objectives
+and Key Results (OKRs)/Key Performance Indicators (KPIs) for a group of features or feature areas. Stays abreast of governance programs and processes and demonstrates an understanding of
+specific performance requirements and standards that must be met throughout the development lifecycle. Validates use-case and scenario outcomes, and performance targets that are being
+achieved, with minimal guidance. Partners with others to collect performance metrics. Contributes to the customer supportability experience and provides documentation.
+Technical Program Understands and starts to build experiences across multiple groups or divisions. Defines the program(s) goals and prioritization for the multiple feature areas. Defines success criteria and
+Management P4 (G9) performance metrics. Creates relationships to drive orchestration and integration efforts for the development and implementation process of multiple feature areas. Partners with the engineering
+team to contribute, prioritize, and deliver on the roadmap for multiple feature areas. Collaborates with others to track, coordinate, and communicate end-to-end project schedules. Contributes to the
+development of the staging and implementation plan for piloting/release in alignment with Objectives and Key Results (OKRs) and Key Performance Indicators (KPIs) for multiple feature areas.
+Manages governance programs and processes to ensure that specific performance requirements and standards are met throughout the development lifecycle. Validates use-case and scenario
+outcomes, and performance targets that are being achieved. Leads teams to partner with others to collect performance metrics. Drives the customer supportability experience and provides
+documentation.
+Technical Program Demonstrates and builds experiences across multiple groups or divisions. Defines the program(s) goals and prioritization for the multiple feature areas. Defines success criteria and performance
+Management P5 (G10) metrics. Creates relationships to drive orchestration and integration efforts for the development and implementation process of multiple features areas. Partners with the engineering team to
+contribute, prioritize, and deliver on the roadmap for multiple feature areas. Tracks, coordinates, and communicates end-to-end project schedules. Drives the development of the staging and
+implementation plan for piloting/release in alignment with Objectives and Key Results (OKRs) and Key Performance Indicators (KPIs) for multiple feature areas. Leads governance programs and
+processes to ensure that specific performance requirements and standards are met throughout the development lifecycle. Validates use-case and scenario outcomes, and performance targets that
+are being achieved. Provides expertise to partner with others to collect performance metrics. Leads the customer supportability experience and provides documentation.
+Technical Program Demonstrates and builds experiences across multiple groups or divisions. Acts as a subject matter expert when defining the program(s) goals and prioritization for the multiple feature areas they own
+Management P6 (G11) across divisional boundaries. Defines success criteria and performance metrics. Creates relationships to drive orchestration and integration efforts for the development and implementation process of
+multiple features areas. Partners with the engineering team to contribute, prioritize, and deliver on the multi-year roadmap for multiple feature areas. Leads the tracking, coordination, and
+communication of end-to-end project schedules. Oversees the development of the staging and implementation plan for piloting/release in alignment with Objectives and Key Results (OKRs) and Key
+Performance Indicators (KPIs) for multiple feature areas. Oversees governance programs and processes to ensure that specific performance requirements and standards are met throughout the
+development lifecycle. Validates use-case and scenario outcomes, and performance targets that are being achieved. Serves as an expert to partner with others to collect performance metrics.
+Oversees the customer supportability experience and provides documentation.
+Technical Program Starts to build the connection across the division to drive division-level connections and how the divisions interconnect with experiences or scenarios for feature(s)/feature areas. Directs teams in
+Management M4 (G9) defining the program(s) goals and prioritization for the feature(s)/feature areas. Leads teams to define success criteria and performance metrics. Helps teams orchestrate and integrate efforts for the
+development and implementation process of feature(s)/feature areas. Leads teams to partner with the engineering team to contribute, prioritize, and deliver on the roadmap for the feature(s)/feature
+areas. Leads teams tracking, coordinating, and communicating end-to-end project schedules. Helps teams develop the staging and implementation plan for piloting/release in alignment with
+Objectives and Key Results (OKRs) and Key Performance Indicators (KPIs) for feature(s)/feature areas. Helps teams understand and manage governance programs and processes to ensure that
+specific performance requirements and standards are met throughout the development lifecycle. Educates teams to validate use-case and scenario outcomes, and performance targets that are being
+achieved. Leads teams to partner with others to collect performance metrics. Leads teams to own the customer supportability experience and provides documentation. In addition, this role has
+people management responsibilities including driving employee growth and development, executing projects, and managing performance.
+Technical Program Demonstrates and builds experiences across multiple groups or divisions. Provides expertise to help teams define the multiple program goals and prioritization for the feature(s)/feature areas.
+Management M5 (G10) Coaches teams to define success criteria and performance metrics. Acts as a subject matter expert in orchestrating and integrating efforts for the development and implementation process of
+feature(s)/feature areas. Guides teams to partner with the engineering team to contribute, prioritize, and deliver on the roadmap for the feature(s)/feature areas. Guides teams tracking, coordinating,
+and communicating end-to-end project schedules. Drives teams to develop the staging and implementation plan for piloting/release in alignment with Objectives and Key Results (OKRs) and Key
+
+Tech ni c a l P r o gr a m M a n a gemen t | 3
+Performance Indicators (KPIs) for feature(s)/feature areas. Helps teams lead governance programs and processes to ensure that specific performance requirements and standards are met throughout
+the development lifecycle. Acts as an industry expert when educating teams to validate use-case and scenario outcomes, and performance targets that are being achieved. Provides expertise to help
+teams partner with others to collect performance metrics. Guides teams to own the customer supportability experience and provides documentation. In addition, this role has people management
+responsibilities including driving employee growth and development, executing projects, and managing performance.
+Technical Program Demonstrates and builds experiences across multiple groups or divisions. Acts as a subject matter expert when defining the multiple program goals and prioritization for the feature(s)/feature areas.
+Management M6 (G11) Drives cross-divisional teams to define success criteria and performance metrics. Ensures that cross-divisional teams partnering with the engineering team are able to contribute, prioritize, and
+deliver on the roadmap for the feature(s)/feature areas. Oversees cross-divisional teams tracking, coordinating, and communicating end-to-end project schedules. Oversees cross-divisional teams
+developing the staging and implementation plan for piloting/release in alignment with Objectives and Key Results (OKRs) and Key Performance Indicators (KPIs) for feature(s)/feature areas. Holds
+cross-divisional teams accountable by leading governance programs and processes to ensure that specific performance requirements and standards are met throughout the development lifecycle.
+Acts as an industry expert when educating cross-divisional teams to validate use-case and scenario outcomes, and performance targets that are being achieved. Serves as an expert to help cross-
+divisional teams partner with others to collect performance metrics. Oversees teams who own the customer supportability experience and provides documentation. In addition, this role has people
+management responsibilities including driving employee growth and development, executing projects, and managing performance.
+
+Tech ni c a l P r o gr a m M a n a gemen t | 4
+Key Responsibilities (Professional/Individual Contributor)
+Technical Program Management P3 (G8) Technical Program Management P4 (G9) Technical Program Management P5 (G10) Technical Program Management P6 (G11)
+Opportunity and Solutions • Starts to build relationships within the • Understands and starts to build experiences • Demonstrates and builds experiences across • Demonstrates and builds experiences across
+Identification product family to build connections, and across multiple groups or divisions. multiple groups or divisions. multiple groups or divisions.
+Opportunity and Solutions starts to understand the broader product • Starts to coach internal team to develop • Coaches internal team to develop problem • Coaches internal team to develop problem
+Identification family. problem statements and form hypotheses statements and form hypotheses of multiple statements and form hypotheses of new
+• Develops problem statements and forms of multiple feature areas (e.g., product, feature areas (e.g., product, service) across multiple feature areas (e.g., product, service)
+hypotheses of a new group of features or service) to address complex business, divisional boundaries to address highly across divisional boundaries to address
+feature areas (e.g., product, service) to program, and customer needs, and/or complex business, program, and customer crucial business, program, and customer
+address business, program, and customer market opportunities. needs, and/or market opportunities. needs, and/or market opportunities.
+needs, and/or market opportunities. • Identifies all dependencies effected by the • Identifies all dependencies of other features. • Identifies all dependencies of other features.
+• Identifies dependencies effected by the proposal. • Owns and performs experiments to test • Performs experiments to test hypotheses
+proposal. • Owns and performs experiments to test hypotheses and inform decisions on what and inform decisions on what multiple
+• Performs experiments to test hypotheses hypotheses and inform decisions on what multiple feature areas (e.g., product, service) feature areas (e.g., product, service) to
+and inform decisions on what group of multiple feature areas (e.g., product, service) to introduce across divisional boundaries. introduce across divisional boundaries, and
+features or feature areas (e.g., product, to introduce. • Establishes clarity of patterns of root influences others to execute the proposal.
+service) to introduce, in collaboration with • Establishes clarity of patterns of root problem and how it relates with previously • Establishes clarity of patterns of root
+others. problem and how it relates with previously seen trends across customers. problem and how it relates with previously
+• Supports work to help clarify the root seen trends across customers. • Determines the customers/sectors seen trends across customers.
+problem and how it relates with previously • Determines the customers/sectors impacted, and uses research evidence to • Determines the customers/sectors impacted
+seen trends with the customer. impacted, and provides research evidence influence feature prioritization. and uses research evidence to influence
+• Works with guidance to ensure alignment to determine priorities. • Determines and leads large process feature prioritization.
+between the market, and the goals and • Determines and leads process improvements to quickly scope insights. • Determines and leads large and complex
+strategy of GitHub. improvements to quickly scope insights. • Leads and drives alignment between the process improvements to quickly scope
+• Collaborates with others (e.g., Engineering, • Ensures alignment between the customer, customer, the market, internal stakeholders, insights.
+Marketing, Design) to ensure that they can the market, internal stakeholders, and the senior leadership, and the goals and • Ensures alignment between the customer,
+satisfy customer requirements. goals of and strategy of GitHub. strategy of GitHub. the market, internal stakeholders, senior
+• Partners to evaluate opportunity to • Collaborates with others (e.g., Engineering, • Collaborates with others (e.g., Engineering, leadership, and the goals and strategy of
+determine for greatest value to the business. Marketing, Design) to ensure that they can Marketing, Design) to ensure that they can GitHub.
+• Defines solution options for a group of satisfy customer requirements. satisfy customer requirements. • Collaborates with others (e.g., Engineering,
+features or feature areas. • Evaluates the opportunity to determine for • Evaluates the market size and explores new Marketing, Design) to ensure that they can
+greatest value to the business. opportunities to determine for greatest satisfy customer requirements.
+• Defines solution options and proposed value to the business. • Evaluates the market size and opportunity
+solution roadmap across multiple feature • Defines solution options and proposed to determine products or features of
+areas within multiple stages. solution roadmap across multiple feature greatest value to the company.
+areas within multiple stages.
+Program Planning and • Contributes to the definition of program(s) • Defines the program(s) goals and • Defines the program(s) goals and • Acts as a subject matter expert when
+Success goals and provides input to the prioritization for the multiple feature areas prioritization for the multiple feature areas defining the program(s) goals and
+prioritization for the group of (e.g., product, service) they own.
+
+Tech ni c a l P r o gr a m M a n a gemen t | 5
+Key Responsibilities (Professional/Individual Contributor)
+Technical Program Management P3 (G8) Technical Program Management P4 (G9) Technical Program Management P5 (G10) Technical Program Management P6 (G11)
+Product and Program features/feature areas (e.g., product, service) • Translates the needs of the organization and (e.g., product, service) they own across prioritization for the multiple feature areas
+Prioritization they own. other teams into program goals and divisional boundaries. they own across divisional boundaries.
+• Translates the needs of their team into prioritized deliverables based on data- • Translates the needs of the organization and • Translates the needs of the company and
+program goals and prioritized deliverables focused analysis. other teams into program goals and other teams into program goals and
+using data-focused analysis, in collaboration • Engages in active risk management prioritized deliverables based on data prioritized deliverables based on data
+with others. (proactive and reactive) to identify risks and insights. insights.
+• Identifies risks and proposes mitigations for propose mitigations for risks using data • Provides solutions or recommendations to • Provides solutions or recommendations to
+risks using data (e.g., telemetry, usage, net (e.g., telemetry, usage, net satisfaction, key stakeholders to make complex decisions key stakeholders to make crucial decisions
+satisfaction, customer satisfaction). customer satisfaction). based on data-driven identified risks and based on data-driven identified risks and
+tradeoffs. tradeoffs.
+Program Planning and • Defines success criteria and performance • Defines success criteria and performance • Defines success criteria and performance • Defines success criteria and performance
+Success metrics (e.g., Objectives and Key Results metrics (e.g., Objectives and Key Results metrics (e.g., Objectives and Key Results metrics (e.g., Objectives and Key Results
+Success/Performance [OKRs], Key Performance Indicators [KPIs] [OKRs], Key Performance Indicators [KPIs] [OKRs], Key Performance Indicators [KPIs] [OKRs], Key Performance Indicators [KPIs]
+Metrics such as quality and performance) of a group such as quality and performance) of such as quality and performance) of such as quality and performance) of multiple
+of features or feature areas (e.g., product, multiple feature areas (e.g., product, service) multiple feature areas (e.g., product, service) feature areas (e.g., product, service) across
+service), with limited supervision. and works with engineering to ensure across divisional boundaries and works with divisional boundaries and works with
+• Works with engineering to ensure needed needed telemetry is developed. engineering to ensure needed telemetry is engineering to ensure needed telemetry is
+telemetry is developed. • Deeply understands the return on developed. developed.
+• Understands and presents the return on investment and presents it to key • Mentors others on how to define success • Mentors others on how to define success
+investment. stakeholders. and performance metrics. and performance metrics.
+• Deeply understands the return on • Deeply understands the return on
+investment and presents it to senior investment and presents it to senior
+leadership. leadership.
+Program/Service • Collaborates with others in orchestrating • Creates relationships to drive orchestration • Creates relationships to drive orchestration • Creates relationships to drive orchestration
+Development and integrating efforts for the development and integration efforts for the development and integration efforts for the development and integration efforts for the development
+Cross-Functional and implementation process of a group of and implementation process of multiple and implementation process of multiple and implementation process of multiple
+Orchestration features or feature areas (e.g., product, feature areas (e.g., product, services) for features areas (e.g., product, services) for features areas (e.g., product, services) across
+services) for cross functional projects with large and complex cross functional projects large and highly complex cross functional divisional boundaries on large and crucial
+internal teams and external partners. with internal teams and external partners. projects with internal teams and external cross functional projects with internal teams
+• Collaborates and coordinates across teams • Collaborates and coordinates across partners. and external partners.
+to ensure alignment on product organizations to ensure alignment on • Influences leadership on objectives. • Influences leadership on objectives.
+management and release, including product management and release, including • Collaborates and coordinates across the • Collaborates and coordinates across teams
+tradeoffs, adjustments, and improvements tradeoffs, adjustments, and improvements business to ensure alignment and gain buy and perspectives to ensure alignment and
+as feasible with minimal supervision. as feasible. in on product management and release, gain buy in on product management and
+including tradeoffs, adjustments, and release, including tradeoffs, adjustments,
+improvements as feasible. and improvements as feasible.
+
+Tech ni c a l P r o gr a m M a n a gemen t | 6
+Key Responsibilities (Professional/Individual Contributor)
+Technical Program Management P3 (G8) Technical Program Management P4 (G9) Technical Program Management P5 (G10) Technical Program Management P6 (G11)
+Program/Service • Partners with the engineering team to • Partners with the engineering team to • Partners with the engineering team to • Partners with the engineering team to
+Development contribute, prioritize, and deliver on the contribute, prioritize, and deliver on the contribute, prioritize, and deliver on the contribute, prioritize, and deliver on the
+Feature/Program/ roadmap for a group of features or feature roadmap for multiple feature areas (e.g., roadmap for multiple feature areas (e.g., multi-year roadmap for multiple feature
+Service Roadmap areas (e.g., product, service), with minimal product, service). product, service) across divisional areas (e.g., product, service) across divisional
+supervision. • Understands the value proposition for the boundaries. boundaries.
+• Learns the value proposition for the group multiple feature areas and answers technical • Understands the value proposition for the • Understands the product/service value
+of features or feature areas and answers questions on the multiple feature areas they multiple feature areas across divisional proposition for the multiple feature areas
+technical questions of the group of features own. boundaries and answers technical questions across divisional boundaries and answers
+or feature areas they own. on the multiple feature areas they own technical questions on the multiple feature
+across divisional boundaries. areas they own across divisional boundaries.
+• Justifies capacity requirements and • Justifies capacity requirements and
+advocates for the right resource allocation. advocates for the right resource allocation.
+Program/Service • Collaborates with others to track, • Collaborates with others to track, • Tracks, coordinates, and communicates end- • Leads the tracking, coordination, and
+Development coordinate, and communicate end-to-end coordinate, and communicate end-to-end to-end project schedules (e.g., epics, communication of end-to-end project
+Program Management project schedules (e.g., epics, project schedules (e.g., epics, sprint/semester plans, milestones, timelines, schedules (e.g., epics, sprint/semester plans,
+sprint/semester plans, milestones, timelines, sprint/semester plans, milestones, timelines, releases) for multiple feature areas (e.g., milestones, timelines, releases) for multiple
+releases) for a group of features or feature releases) for multiple feature areas (e.g., product, service) across divisional feature areas (e.g., product, service) across
+areas (e.g., product, service). product, service). boundaries. divisional boundaries.
+• Helps monitor processes and hold • Works with others to establish and monitor • Establishes and monitors processes as well • Establishes and monitors processes, and
+stakeholders accountable for following the processes, and helps hold stakeholders as drives accountability with stakeholders drives accountability with stakeholders for
+established schedule and processes. accountable for following the established for following the established schedule and following the established schedule and
+• Helps track and manage dependencies to schedule and processes. processes. processes.
+enable cohesive, connected user scenarios • Helps track and manage dependencies to • Tracks and manages dependencies to • Tracks and manages dependencies to
+and to avoid issues and mitigate risks. enable cohesive, connected user scenarios, enable cohesive, connected user scenarios, enable cohesive, connected user scenarios,
+• Begins to make adjustments or course and to identify potential risk areas and and to identify potential risk areas and and to identify potential risk areas and
+corrections when projects are not aligned to escalate appropriately. escalate appropriately. escalate appropriately.
+schedules or goals. • Makes adjustments or course corrections • Makes adjustments or course corrections • Makes adjustments or course corrections
+when projects are not aligned to schedules when projects are not aligned to schedules when projects are not aligned to schedules
+or goals. or goals. or goals.
+Program/Service • Helps develop the staging and • Contributes to the development of the • Drives the development of the staging and • Oversees the development of the staging
+Development implementation plan for piloting/release in staging and implementation plan for implementation plan for piloting/release in and implementation plan for
+Program Execution alignment with Objectives and Key Results piloting/release in alignment with alignment with Objectives and Key Results piloting/release in alignment with Objectives
+(OKRs)/Key Performance Indicators (KPIs) for Objectives and Key Results (OKRs) and Key (OKRs) and Key Performance Indicators and Key Results (OKRs) and Key
+a group of features or feature areas (e.g., Performance Indicators (KPIs) for multiple (KPIs) for multiple feature areas (e.g., Performance Indicators (KPIs) for multiple
+product, service). feature areas (e.g., product, service) product, service) across divisional feature areas (e.g., product, service) across
+divisional boundaries, it's development
+
+Tech ni c a l P r o gr a m M a n a gemen t | 7
+Key Responsibilities (Professional/Individual Contributor)
+Technical Program Management P3 (G8) Technical Program Management P4 (G9) Technical Program Management P5 (G10) Technical Program Management P6 (G11)
+• With the guidance of others, collaborates Collaborates with stakeholders to monitor boundaries, it's development timeline, and timeline, and the introduction to the
+with stakeholders to monitor progress and progress and adjust as needed. the introduction to the different programs. different programs.
+adjust as needed. • Collaborates with stakeholders to monitor • Collaborates with stakeholders to monitor
+progress and adjust as needed. progress and adjust as needed.
+Program/Service • Stays abreast of governance programs and • Manages governance programs and • Leads governance programs and processes • Oversees governance programs and
+Development processes and demonstrates an processes to ensure that specific to ensure that specific performance processes to ensure that specific
+Program/Service understanding of specific performance performance requirements and standards requirements and standards are met performance requirements and standards
+Governance requirements and standards that must be are met throughout the development throughout the development lifecycle (e.g., are met throughout the development
+met throughout the development lifecycle lifecycle (e.g., quality, compliance, privacy, quality, compliance privacy, security, safety, lifecycle (e.g., quality, compliance, privacy,
+(e.g., quality, compliance, privacy, security, security, safety, accessibility). accessibility). security, safety, accessibility).
+safety, accessibility).
+Program/Service • Validates use-case and scenario outcomes, • Validates use-case and scenario outcomes, • Validates use-case and scenario outcomes, • Validates use-case and scenario outcomes,
+Development and performance targets that are being and performance targets that are being and performance targets that are being and performance targets that are being
+Program/Service achieved, with minimal guidance. achieved. achieved. achieved.
+Validation/Testing • Drives continuous quality improvements of • Drives continuous quality improvements of • Drives continuous quality improvements of • Drives continuous quality improvements of
+the delivery. the delivery. the delivery. the delivery.
+• Writes readable and extensible test cases • Writes readable and extensible test cases • Writes readable and extensible test cases
+from scratch to test code and improve from scratch to test code and improve from scratch to test code and improve
+quality. quality. quality.
+Continuous Improvement • Partners with others to collect performance • Leads teams to partner with others to • Provides expertise to partner with others to • Serves as an expert to partner with others to
+Continuous Improvement metrics (e.g., Key Performance Indicators collect performance metrics (e.g., Key collect performance metrics (e.g., Key collect performance metrics (e.g., Key
+[KPIs] such as usage, quality speed, and Performance Indicators [KPIs] such as usage, Performance Indicators [KPIs] such as usage, Performance Indicators [KPIs] such as usage,
+cost), monitor and report on progress (e.g., quality, speed, and cost), monitor and report quality, speed and, cost and performance), quality, speed, and cost), monitor and report
+business reviews), and derive insights that on progress (e.g., business reviews), and monitor and report on progress (e.g., on progress (e.g., business reviews), and
+lead to productive courses of action to derive deep insights that lead to productive business reviews), and derive deep insights derive deep insights that lead to productive
+improve development, iteration, and courses of action to improve development, that lead to productive courses of action to courses of action to improve development,
+implementation of a group of features or iteration, and implementation of multiple improve development, iteration, and iteration, and implementation of multiple
+feature areas (e.g., product, service). feature areas (e.g., product, service). implementation of multiple feature areas feature areas (e.g., product, service) across
+• Shares insights with Engineering and other (e.g., product, service) across divisional divisional boundaries.
+partners. boundaries. • Shares insights with Engineering and other
+• Forms hypotheses to complex technical • Shares insights with Engineering and other partners.
+needs, performs experiments, and iterates partners. • Forms hypotheses to crucial technical needs,
+to drive improvement in specific • Forms hypotheses to highly complex performs experiments, and iterates to drive
+performance metrics. technical needs, performs experiments, and improvement in specific performance
+iterates to drive improvement in specific metrics that have measurable impact on
+GitHub and industry wide.
+
+Tech ni c a l P r o gr a m M a n a gemen t | 8
+Key Responsibilities (Professional/Individual Contributor)
+Technical Program Management P3 (G8) Technical Program Management P4 (G9) Technical Program Management P5 (G10) Technical Program Management P6 (G11)
+performance metrics that have measurable
+impact.
+Continuous Improvement • Contributes to the customer supportability • Drives the customer supportability • Leads the customer supportability • Oversees the customer supportability
+Customer Support and experience and provides documentation experience and provides documentation experience and provides documentation experience and provides documentation
+Community Engagement (e.g., troubleshooting guidelines, best (e.g., troubleshooting guidelines, best (e.g., troubleshooting guidelines, best (e.g., troubleshooting guidelines, best
+practices, blogs). practices, blogs). practices, blogs). practices, blogs).
+• Monitors how products and/or services are • Monitors how products and/or services are • Monitors how products and/or services are • Monitors how products and/or services are
+being used. being used. being used. being used.
+• Tracks and understands a root-cause • Tracks and understands a root-cause • Tracks and understands a root-cause • Tracks and understands a root-cause
+analysis for live-site incidents, with guidance analysis for live-site incidents with little analysis for live-site incidents with little analysis for live-site incidents with little
+from others. guidance from others. guidance from others. guidance from others.
+• Understands and helps drives improvements • Understands and drives improvements in • Understands and drives improvements in • Understands and drives improvements in
+in the support process, including both the support process, including both forums the support process, including both forums the support process, including both forums
+forums and communities. and communities. and communities. and communities.
+• Begins to collaborate with engineering, • Collaborates with and provides insight to • Collaborates with and provides deep insight • Collaborates with and provides expert
+Customer Service and Support (CSS), and engineering, Customer Service and Support to engineering, Customer Service and insight to engineering, Customer Service
+other partners (e.g., business-process (CSS), and other partners (e.g., business- Support (CSS), and other partners (e.g., and Support (CSS), and other partners (e.g.,
+owners) on broad live-site improvement process owners) on broad live-site business-process owners) on broad live-site business-process owners) on broad live-site
+opportunities. improvement opportunities. improvement opportunities. improvement opportunities.
+Continuous Improvement • Acts as a technical advisor to educate and • Acts as a technical advisor to educate and • Acts as a technical advisor to educate and • Acts as a technical leader to educate and
+Customer Engagement evangelize the group of feature/feature evangelize the feature areas (e.g., product, evangelize the feature areas (e.g., product, evangelize the feature areas (e.g., product,
+areas (e.g., product, service) they work on service) they work on with customers via service) across divisional boundaries they service) across divisional boundaries they
+with customers via meetings, presentations, meetings, presentations, and other forums. work on with customers via meetings, work on with customers via meetings,
+and other forums. • Leads direct customer (internal and/or presentations, and other forums. presentations, and other forums.
+• Participates in direct customer (internal external) engagements to solicit feedback • Defines and leads direct customer (internal • Defines, leads, and mentors others in direct
+and/or external) engagements to solicit and understand their experiences with the and/or external) engagements to solicit customer (internal and/or external)
+feedback and understand their experiences feature areas (e.g., product, program, feedback and understand their experiences engagements to solicit feedback and
+with the group of features/feature areas services). with the feature areas (e.g., product, service) understand their experiences with the
+(e.g., product, service). • Helps deliver sales enablement and field across divisional boundaries. feature areas (e.g., product, service) across
+• Demonstrates an understanding of the sales support. • Helps deliver sales enablement and field divisional boundaries.
+motions and what support is needed across • Participates in business deals, creates support. • Delivers sales enablement and field support.
+product training and sales enablement. strategic partnerships, and participates in • Participates in business deals, creates • Supports strategic business deals, creates
+• Supports the development of sales pre-sales meetings with customers. strategic partnerships, and participates in strategic partnerships, and participates in
+enablement by working across the teams to pre-sales meetings with customers. pre-sales meetings with customers.
+build out content and programs.
+
+Tech ni c a l P r o gr a m M a n a gemen t | 9
+Key Responsibilities (Professional/Individual Contributor)
+Technical Program Management P3 (G8) Technical Program Management P4 (G9) Technical Program Management P5 (G10) Technical Program Management P6 (G11)
+• Provides coaching, readiness, and in-depth
+win/loss insights to enable field sellers to
+win the deal.
+
+Tech ni c a l P r o gr a m M a n a gemen t | 10
+Key Responsibilities (Manager)
+Technical Program Management M4 (G9) Technical Program Management M5 (G10) Technical Program Management M6 (G11)
+Opportunity and Solutions • Starts to build the connection across the division to drive • Demonstrates and builds experiences across multiple • Demonstrates and builds experiences across multiple
+Identification division-level connections and how the divisions groups or divisions. groups or divisions.
+Opportunity and Solutions interconnect with experiences or scenarios for • Leads and coaches teams to develop problem statements • Drives and coaches cross-divisional teams to develop
+Identification feature(s)/feature areas (e.g., product, service). and form hypotheses of feature(s)/feature areas (e.g., problem statements and form hypotheses of
+• Guides and coaches teams to develop problem statements product, service) across divisional boundaries to address feature(s)/feature areas (e.g., product, service) to address
+and form hypotheses of new multiple feature areas to highly complex business, program, customer needs, and/or crucial business, program, customer needs, and/or market
+address complex business, program, customer needs, market opportunities. opportunities.
+and/or market opportunities. • Identifies dependencies of other features. • Drives teams to perform experiments to test hypotheses
+• Identifies all dependencies of other features. • Leads teams to perform experiments to test hypotheses and and inform decisions on what feature(s)/feature areas (e.g.,
+• Owns, performs, and helps teams perform experiments to inform decisions on what feature(s)/feature areas (e.g., product, service) to introduce.
+test hypotheses and inform decisions on what product, service) to introduce. • Uses industry understanding to direct teams to ensure
+feature(s)/feature areas (e.g., product, service) to introduce. • Establishes clarity of patterns of root problem and how it alignment between the customer, the market, internal
+• Establishes clarity of patterns of root problem and how it relates with previously seen trends across customers. stakeholders, senior leadership, and the goals and strategy
+relates with previously seen trends across customers. • Determines the customers/sectors impacted, and uses of GitHub.
+• Determines the customers/sectors impacted, and provides research evidence to influence feature prioritization. • Holds teams accountable for collaborating with others (e.g.,
+research evidence to determine priorities. • Determines and leads process improvements to quickly Engineering, Marketing, Design) to ensure that they can
+• Determines and leads process improvements to quickly scope insights, and drives change management initiatives. satisfy customer requirements.
+scope insights. • Uses industry understanding to direct teams to ensure • Provides expertise and strategic guidance to help teams
+• Uses industry understanding to direct teams to ensure alignment between the customer, the market, internal validate the market size and opportunity to determine the
+alignment between the customer, the market, and the goals stakeholders, senior leadership, and the goals and strategy greatest value for the business.
+and strategy of GitHub. of GitHub. • Builds coalitions across multiple teams across
+• Holds teams accountable for collaborating with others (e.g., • Holds teams accountable for collaborating with others (e.g., organizational boundaries to bring about solutions.
+Engineering, Marketing, Design) to ensure that they can Engineering, Marketing, Design) to ensure that they can
+satisfy customer requirements. satisfy customer requirements.
+• Coaches teams to evaluate the market size and opportunity • Provides expertise to help teams validate the market size
+of greatest value for the business. and opportunity of greatest value for the company.
+• Guides team in defining solution options and proposed • Facilitates collaboration between their team and other
+solution roadmap across multiple feature areas within partner teams to bring about solutions.
+multiple stages.
+Program Planning and Success • Directs teams in defining the program(s) goals and • Provides expertise to help teams define the multiple • Acts as a subject matter expert when defining the multiple
+Product and Program prioritization for the feature(s)/feature areas (e.g., product, program goals and prioritization for the feature(s)/feature program goals and prioritization for the feature(s)/feature
+Prioritization service) they own. areas (e.g., product, service) they own. areas (e.g., product, service) they own.
+• Helps teams translate the needs of the organization and • Guides teams to translate the needs of the organization and • Ensures cross-divisional teams translate the needs of the
+other teams into program goals and prioritize deliverables other teams into program goals and prioritize deliverables organization and other teams into program goals and
+based on data insights. based on data insights. prioritize deliverables based on data insights.
+• Leads teams to engage in active risk management • Guides teams to engage in active risk management • Oversees teams to engage in active risk management
+(proactive and reactive) to identify risks and propose (proactive and reactive) to identify risks and propose (proactive and reactive) to identify risks and propose
+
+Tech ni c a l P r o gr a m M a n a gemen t | 11
+Key Responsibilities (Manager)
+Technical Program Management M4 (G9) Technical Program Management M5 (G10) Technical Program Management M6 (G11)
+mitigations for risks using data (e.g., telemetry, usage, net mitigations for risks using data (e.g., telemetry, usage, net mitigations for risks using data (e.g., telemetry, usage, net
+satisfaction, customer satisfaction). satisfaction, customer satisfaction). satisfaction, customer satisfaction).
+Program Planning and Success • Leads teams to define success criteria and performance • Coaches teams to define success criteria and performance • Drives cross-divisional teams to define success criteria and
+Success/Performance Metrics metrics (e.g., Objectives and Key Results [OKRs], Key metrics (e.g., Objectives and Key Results [OKRs], Key performance metrics (e.g., Objectives and Key Results
+Performance Indicators [KPIs] such as quality and Performance Indicators [KPIs] such as quality and [OKRs], Key Performance Indicators [KPIs] such as quality
+performance) of the feature(s)/feature areas (e.g., product, performance) of the feature(s)/feature areas (e.g., product, and performance) of the feature(s)/feature areas (e.g.,
+service) and works with engineering to ensure needed service) and works with engineering to ensure needed product, service) and works with engineering to ensure
+telemetry is developed. telemetry is developed. needed telemetry is developed.
+• Helps teams deeply understand the return on investment. • Provides expert knowledge to help teams deeply • Provides strategic knowledge to help teams deeply
+understand the return on investment. understand the return on investment.
+Program/Service Development • Helps teams orchestrate and integrate efforts for the • Acts as a subject matter expert in orchestrating and • Acts as a subject matter expert and provides strategic
+Cross-Functional Orchestration development and implementation process of integrating efforts for the development and implementation guidance in orchestrating and integrating efforts for the
+feature(s)/feature areas (e.g., product, services) on large process of feature(s)/feature areas (e.g., product, services) development and implementation process of
+cross functional projects with internal teams and external on large cross functional projects with internal teams and feature(s)/feature areas (e.g., product, services) on large
+partners. external partners. cross functional projects with internal teams and external
+• Leads teams to collaborate and coordinate across teams • Drives teams to collaborate and coordinate across teams partners.
+and perspectives to ensure alignment on product and perspectives to ensure alignment on product • Oversees cross-divisional teams collaborating and
+management and release, including tradeoffs, adjustments, management and release, including tradeoffs, adjustments, coordinating across teams and perspectives to ensure
+and improvements as feasible. and improvements as feasible. alignment on product management and release, including
+tradeoffs, adjustments, and improvements as feasible.
+Program/Service Development • Leads teams to partner with the engineering team to • Guides teams to partner with the engineering team to • Ensures that cross-divisional teams partnering with the
+Feature/Program/Service contribute, prioritize, and deliver on the roadmap for the contribute, prioritize, and deliver on the roadmap for the engineering team are able to contribute, prioritize, and
+Roadmap feature(s)/feature areas (e.g., product, service). feature(s)/feature areas (e.g., product, service). deliver on the roadmap for the feature(s)/feature areas (e.g.,
+• Helps teams understand the value proposition • Drives teams to understand the value proposition for the product, service).
+feature(s)/feature areas and answer technical questions on feature(s)/feature areas and answer technical questions on • Ensures that teams understand the value proposition for
+the feature(s)/feature areas they own. the feature(s)/feature areas they own. the feature(s)/feature areas and answer technical questions
+• Leads teams to justify capacity requirements and advocate • Guides teams to justify capacity requirements and advocate on the feature(s)/feature areas they own.
+for the right resource allocation. for the right resource allocation. • Ensures that teams are justifying capacity requirements,
+• Partners with the Engineering team to know the feature • Partners with the Engineering team to know the feature advocating for the right resource allocation, and
+capabilities in alignment with the goal updates and capabilities in alignment with the goal updates and collaborates across divisional boundaries.
+associated tradeoffs. associated tradeoffs. • Partners with the Engineering team to know the feature
+capabilities in alignment with the goal updates and
+associated tradeoffs.
+Program/Service Development • Leads teams tracking, coordinating, and communicating • Guides teams tracking, coordinating, and communicating • Oversees cross-divisional teams tracking, coordinating, and
+Program Management end-to-end project schedules (e.g., epics, sprint/semester end-to-end project schedules (e.g., epics, sprint/semester communicating end-to-end project schedules (e.g., epics,
+
+Tech ni c a l P r o gr a m M a n a gemen t | 12
+Key Responsibilities (Manager)
+Technical Program Management M4 (G9) Technical Program Management M5 (G10) Technical Program Management M6 (G11)
+plans, milestones, timelines, releases) for feature(s)/feature plans, milestones, timelines, releases) for feature(s)/feature sprint/semester plans, milestones, timelines, releases) for
+areas (e.g., product, service). areas (e.g., product, service). feature(s)/feature areas (e.g., product, service).
+• Ensures teams establish and monitor processes, and hold • Ensures teams establish and monitor processes, and hold • Ensures teams establish and monitor processes, and hold
+other stakeholders accountable for following the other stakeholders accountable for following the other stakeholders accountable for following the
+established schedule and processes. established schedule and processes. established schedule and processes.
+• Leads teams when tracking and managing dependencies to • Guides teams when tracking and managing dependencies • Oversees teams when tracking and managing dependencies
+enable cohesive, connected user scenarios, and to avoid to enable cohesive, connected user scenarios, and to avoid to enable cohesive, connected user scenarios, and to avoid
+issues and mitigate risks. issues and mitigate risks. issues and mitigate risks.
+• Helps teams make adjustments or course corrections when • Coaches teams to make adjustments or course corrections • Ensures teams make adjustments or course corrections
+projects are not aligned to schedules or goals. when projects are not aligned to schedules or goals. when projects are not aligned to schedules or goals.
+Program/Service Development • Helps teams develop the staging and implementation plan • Drives teams to develop the staging and implementation • Oversees cross-divisional teams developing the staging and
+Program Execution for piloting/release in alignment with Objectives and Key plan for piloting/release in alignment with Objectives and implementation plan for piloting/release in alignment with
+Results (OKRs) and Key Performance Indicators (KPIs) for Key Results (OKRs) and Key Performance Indicators (KPIs) Objectives and Key Results (OKRs) and Key Performance
+feature(s)/feature areas (e.g., product, service). for feature(s)/feature areas (e.g., product, service), its Indicators (KPIs) for feature(s)/feature areas (e.g., product,
+• Ensures teams collaborate with stakeholders to monitor development timeline, and the introduction to the different service), its development timeline, and the introduction to
+progress and adjust as needed. programs. the different programs.
+• Ensures teams collaborate with stakeholders to monitor • Ensures teams collaborate with stakeholders to monitor
+progress and adjust as needed. progress and adjust as needed.
+Program/Service Development • Helps teams understand and manage governance programs • Helps teams lead governance programs and processes to • Holds cross-divisional teams accountable by leading
+Program/Service Governance and processes to ensure that specific performance ensure that specific performance requirements and governance programs and processes to ensure that specific
+requirements and standards are met throughout the standards are met throughout the development lifecycle performance requirements and standards are met
+development lifecycle (e.g., quality, compliance, privacy, (e.g., quality, compliance, privacy, security, safety, throughout the development lifecycle (e.g., quality,
+security, safety, accessibility). accessibility). compliance, privacy, security, safety, accessibility).
+Program/Service Development • Educates teams to validate use-case and scenario • Acts as an industry expert when educating teams to validate • Acts as an industry expert when educating cross-divisional
+Program/Service outcomes, and performance targets that are being use-case and scenario outcomes, and performance targets teams to validate use-case and scenario outcomes, and
+Validation/Testing achieved. that are being achieved. performance targets that are being achieved.
+• Helps teams drive continuous quality improvements. • Oversees teams driving continuous quality improvements • Oversees teams driving continuous quality improvements
+and writing readable and extensible test cases from scratch and writing readable and extensible test cases from scratch
+to test code and improve quality. to test code and improve quality.
+Continuous Improvement • Leads teams to partner with others to collect performance • Provides expertise to help teams partner with others to • Serves as an expert to help cross-divisional teams partner
+Continuous Improvement metrics (e.g., Key Performance Indicators [KPIs] such as collect performance metrics (e.g., Key Performance with others to collect performance metrics (e.g., Key
+usage, quality, speed, and cost), monitor and report on Indicators [KPIs] such as usage, quality, speed, and cost), Performance Indicators [KPIs] such as usage, quality, speed,
+progress (e.g., business reviews), and derive insights that monitor and report on progress (e.g., business reviews), and and cost), monitor and report on progress (e.g., business
+lead to productive courses of action to improve derive insights that lead to productive courses of action to reviews), and derive insights that lead to productive courses
+of action to improve development, iteration, and
+
+Tech ni c a l P r o gr a m M a n a gemen t | 13
+Key Responsibilities (Manager)
+Technical Program Management M4 (G9) Technical Program Management M5 (G10) Technical Program Management M6 (G11)
+development, iteration, and implementation of improve development, iteration, and implementation of implementation of feature(s)/feature areas (e.g., product,
+feature(s)/feature areas. feature(s)/feature areas (e.g., product, service). service).
+• Ensures teams share insights with Engineering and other • Ensures teams share insights with Engineering and other • Ensures teams share insights with Engineering and other
+partners. partners. partners.
+• Coaches teams to form hypotheses to technical needs, • Leads teams to form hypotheses to technical needs, • Ensures teams form hypotheses to technical needs, perform
+perform experiments, and iterate to drive improvement in perform experiments, and iterate to drive improvement in experiments, and iterate to drive improvement in specific
+specific performance metrics. specific performance metrics that have measurable impact. performance metrics that have measurable impact on
+GitHub and industry wide.
+Continuous Improvement • Leads teams to own the customer supportability experience • Guides teams to own the customer supportability • Oversees teams who own the customer supportability
+Customer Support and and provides documentation (e.g., troubleshooting experience and provides documentation (e.g., experience and provides documentation (e.g.,
+Community Engagement guidelines, best practices, blogs). troubleshooting guidelines, best practices, blogs). troubleshooting guidelines, best practices, blogs).
+• Ensures teams monitor how products and/or services are • Ensures teams monitor how products and/or services are • Ensures teams monitor how products and/or services are
+being used. being used. being used.
+• Helps them track and understand a root-cause analysis for • Holds them accountable for tracking and understanding a • Holds them accountable for tracking and understanding a
+live-site incidents. root-cause analysis for live-site incidents. root-cause analysis for live-site incidents.
+• Coaches teams to understand and drive improvements in • Provides expertise to help teams understand and drive • Provides strategic direction to help teams understand and
+the support process, including both forums and improvements in the support process, including both drive improvements in the support process, including both
+communities. forums and communities. forums and communities.
+• Coaches teams to collaborate with engineering, Customer • Drives teams to collaborate with engineering, Customer • Oversees cross-divisional teams who collaborate with
+Service and Support (CSS), and other partners (e.g., Service and Support (CSS), and other partners (e.g., engineering, Customer Service and Support (CSS), and
+business-process owners) on broad live-site improvement business-process owners) on broad live-site improvement other partners (e.g., business-process owners) on broad
+opportunities. opportunities. live-site improvement opportunities.
+Continuous Improvement • Leads teams to act as technical advisors to educate and • Guides teams to act as technical advisors to educate and • Acts (and drives teams to act) as technical advisors to
+Customer Engagement evangelize the feature(s)/feature areas (e.g., product, evangelize the feature(s)/feature areas (e.g., product, educate and evangelize the feature(s)/feature areas (e.g.,
+service) they work on with customers via meetings, service) they work on with customers via meetings, product, service) they work on with customers via meetings,
+presentations, and other forums. presentations, and other forums. presentations, and other forums.
+• Ensures teams participate in direct customer (internal • Ensures teams participate in direct customer (internal • Ensures cross-divisional teams participate in direct
+and/or external) engagements to solicit feedback and and/or external) engagements to solicit feedback and customer (internal and/or external) engagements to solicit
+understand their experiences with the feature(s)/feature understand their experiences with the feature(s)/feature feedback and understand their experiences with the
+areas (e.g., product, service). areas (e.g., product, service). feature(s)/feature areas (e.g., product, service).
+• Leads teams to deliver sales enablement and field support. • Guides teams to deliver sales enablement and field support. • Delivers (and drives teams to deliver) sales enablement and
+• Coaches teams to work on business deals, creates strategic • Coaches teams to work on strategic business deals, creates field support at scale.
+partnerships, and participates in pre-sales meetings with strategic partnerships, and participates in pre-sales • Works on strategic business deals and oversees teams in
+customers. meetings with customers. creating strategic partnerships and participating in pre-sales
+meetings with customers.
+
+Tech ni c a l P r o gr a m M a n a gemen t | 14
+Key Responsibilities (Manager)
+Technical Program Management M4 (G9) Technical Program Management M5 (G10) Technical Program Management M6 (G11)
+• Ensures teams provide coaching, readiness, and in-depth
+win/loss insights to enable field sellers to win the deal.
+
+Tech ni c a l P r o gr a m M a n a gemen t | 15
+Skills
+Skill Key
+1 Critical/Important and Required Upon Hire
+2 Critical/Important and NOT Required Upon Hire
+- Not Important/Critical
+Skill Cluster Name Skill Name Skill Definition P3 (G8) P4 (G9) P5 (G10) P6 (G11) M4 (G9) M5 (G10) M6 (G11)
+The ability to understand and deliver information through a
+Communications contextually appropriate medium that is tailored to the audience. This 2 2 1 1 2 1 1
+includes oral and written communication in English for work matters.
+The ability to manage conflict, disharmony, and strife among people
+Conflict Resolution 2 2 2 2 2 2 2
+and situations, while recognizing and addressing sensitivities.
+Communication and The skill to influence others, develop and maintain working
+Influence Consulting relationships, and deliver results and/or expertise for a client in a 2 2 2 2 2 2 2
+professional manner.
+The ability to garner support for initiatives by gaining the respect of
+Influence Others 2 1 1 1 1 1 1
+others and inspiring trust and confidence.
+Technical The ability to adapt communications around different technologies,
+1 1 1 1 1 1 1
+Communication products, and services to the audience's level of understanding.
+Agility The ability to think, understand, and process information quickly. 1 1 1 1 1 1 1
+Analytical Problem The ability to use both facts and logic to develop resolutions. This
+1 1 1 1 1 1 1
+Solving includes extrapolating beyond mere opinions to resolve challenges.
+The ability to systematically gather information from a variety of
+sources, analyze information, identify implications of data, draw
+conclusions, generate alternatives and solutions, and evaluate the
+Data Analysis consequences of choosing each alternative using quality metrics and - 1 1 1 1 1 1
+Data Driven Decision data. This includes the ability to convert general data and findings into
+Making and Problem applied, specific information and suggestions that add value to
+Solving business planning and strategies.
+The ability to make decisions in a fast-paced, rapidly changing
+environment. This includes the ability to define, diagnose, and
+Decision Making determine an appropriate resolution, recommendation, or decision 2 2 2 2 2 2 2
+while considering alternatives and factors (e.g., resources, costs,
+tradeoffs).
+The ability to compare, contrast, and analyze data, people, situations,
+Judgment 1 1 1 1 1 1 1
+etc. to formulate a valid conclusion.
+
+Tech ni c a l P r o gr a m M a n a gemen t | 16
+Knowledge of key performance Indicators (KPIs), measurable indicators
+that demonstrate the achievement of an outcome enabling decision-
+Key Performance
+makers to assess progress towards the achievement of intended - 1 1 1 1 1 1
+Indicators
+outputs, outcomes, goals, and objectives, and are chosen to reflect the
+critical success factors of a project.
+The ability to identify problems and review related information to
+Problem Solving 2 2 2 2 2 2 2
+develop and evaluate options and implement solutions.
+The ability to examine and understand the organization's competitive
+strengths and weaknesses. This includes the ability to: look for
+opportunities to grow the business and reduce costs; monitor the
+Strategic Thinking - 2 1 1 1 1 1
+environment for opportunities; formulate strategies that provide
+distinct competitive advantages; and consider problems and
+opportunities from a broad, multi-functional perspective.
+The ability to apply ingenuity, inventiveness, and imagination to the
+Creativity inclusive design and construction of a product, service, program, or 2 2 2 2 2 2 2
+Innovation and
+initiative.
+Continuous
+The ability to apply principles, systems, tools, and strategic insights to
+Improvement
+Operational Excellence sustainably improve key performance indicator (KPI) metrics and drive 2 2 2 2 2 2 2
+operational efficiencies.
+Cross-Functional Team The ability to lead and manage individuals and teams across various
+1 1 1 1 1 1 1
+Leadership business functions and unite them to achieve shared goals.
+Dependency This ability to identify and describe the dependencies in relationships
+2 1 1 1 1 1 1
+Management within and across systems.
+Knowledge of and the ability to administer and manage various
+Program Management programs used throughout the company, including resolving issues 2 1 1 1 1 1 1
+and answering relevant queries.
+Knowledge of and the ability to carry out the process of planning,
+organizing, and managing tasks and resources to accomplish a well-
+defined objective. This includes the ability to manage and provide
+Project Management 2 2 1 1 1 1 1
+project deliverables, optimize the contribution of the people involved,
+Project and Program
+and assess the impact of project decisions on quality, productivity,
+Management
+schedules, cost, performance, etc.
+The ability to manage project stakeholders and stakeholder
+Project Stakeholder engagements. This includes identifying stakeholders, prioritizing their
+2 1 1 1 1 1 1
+Management concerns, managing expectations, and planning and monitoring
+stakeholder engagements.
+The ability to create effective and forward-thinking strategies and
+action plans for both long-term and short-term projects. This includes
+Project Visioning - 1 1 1 1 1 1
+the ability to engage others to commit to the vision by communicating
+specific goals and objectives.
+Knowledge of Risk Management, the process of measuring, or
+Risk Management - 1 1 1 1 1 1
+assessing risk and then developing strategies to manage the risk. This
+
+Tech ni c a l P r o gr a m M a n a gemen t | 17
+may include the ability to identify or develop strategies to transfer the
+risk to another party, avoid the risk, reduce the negative effect of the
+risk, and accept some or all of the consequences of a particular risk.
+Knowledge of GitHub products, services, relevant domain expertise,
+GitHub Products
+and the ability to participate in technical conversations related to 2 2 2 2 2 2 2
+Knowledge
+products/services.
+Knowledge of the overall process for developing, releasing, and
+maintaining products. This includes knowledge of the roles and
+Product Lifecycle responsibilities of engineering and other functions, major phases, 2 1 1 1 1 1 1
+Technical and Domain checkpoints, and deliverables. This also includes the ability to drive the
+Expertise execution of each phase of the development lifecycle.
+The ability to develop, understand, and apply domain-specific technical
+Technical Domain
+knowledge to complete assigned work, tasks, and support others in 1 1 1 1 1 1 1
+Knowledge and Skills
+the organization.
+Knowledge of how to write detailed documents listing the set of goals,
+Technical Specification user scenarios, technical, telemetric, and prioritized requirements 1 1 1 1 1 1 1
+needed to build out products or services.

@@ -1,0 +1,257 @@
+Job Family Group: Product
+Job Family: Product Management
+Job Profile: Product Management P6 (G11)
+Last Updated: April 30th, 2025
+What You Do
+Job Profile Summary
+Identifies customers’ unmet or unknown needs for complex situations, influencing
+stakeholders and other team members while bringing them along and marketing
+opportunities for enhancements or development and new services of multiple feature
+areas. Demonstrates and builds experiences to solve unmet user needs across divisional
+boundaries. Works across multiple feature areas. Defines and evangelizes others around
+business impact and performance metrics. Serves as an expert in identifying data-
+informed, long-term investment opportunities, and prioritizing investments in consultation
+across multiple cross organizational partners for multiple feature areas. Influences and
+drives engagement with cross-functional internal partners, external partners, including
+early adopting customers, senior leadership, and other key stakeholders to gather input
+and garner support for product/service vision, strategy, and roadmap for multiple features
+across divisional boundaries. Owns and drives the roadmap for the multiple feature areas.
+Collaborates with partner team to build golden configurations and leads and models
+scenario walkthroughs and thought exercises to identify problems, system friction, and
+needed contingencies in advance of early customer adoption for multiple feature areas.
+Executes on major opportunities to evangelize the feature areas they work on with internal
+and external stakeholders, partners, analysts, and customers in the industry via
+presentations, and other forums.
+Responsibilities
+Analysis of Customer and Market Signals
+● Identifies customers’ unmet or unknown needs for complex situations, influencing
+stakeholders and other team members while bringing them along, gaining buy in,
+and marketing opportunities for enhancements or development and new
+products/services of multiple feature areas (e.g., product, service) across divisional
+boundaries via quantitative (e.g., usage, telemetry) and qualitative analyses (e.g.,
+customer usage, various listening systems, feedback channels of market and
+industry trends), looks for patterns in the data across a portfolio, and scopes the
+impact and prioritization of a problem. Brings together internal and external
+customer groups around a specific scenario and engages in direct 1:1 (e.g., visits,
+interviews) or many (e.g., social media, events) customer engagements to solicit
+
+feedback and understand their experiences with GitHub’s products and services
+using industry-accepted methods. Acts as a subject matter expert and provides
+guidance to others performing market or user research in collaboration with the
+User Research team, conducting competitive analyses, and examining market and
+industry trends, as well as industry-specific requirements or regulations. Shares
+insights with senior internal/external stakeholders and internal team to ensure
+cross-team alignment. Drives contract negotiations and partnership across the
+organization and company-wide alignment. Assesses acquisition targets to
+enhance the migration offering.
+● Demonstrates and builds experiences to solve unmet user needs across divisional
+boundaries. Leads process of defining problems and incubating solutions for
+company-wide initiatives. Owns clarity and definition of problem statements and
+forms hypotheses of new multiple feature areas (e.g., product, service) across
+divisional boundaries to address crucial customer needs and/or market
+opportunities. Identifies dependencies of other feature areas. Performs experiments
+to test hypotheses and inform decisions on what new feature areas (e.g., product,
+service) to introduce across divisional boundaries. Establishes clarity of patterns of
+root problem and how it relates with previously seen trends across customers,
+determines the customers/sectors impacted, and uses research evidence to
+influence feature prioritization. Ensures and drives alignment between the
+customer, the market, internal stakeholders, senior leadership, and the goals and
+strategy of GitHub. Collaborates with others (e.g., Software Engineering [SWE],
+Hardware Engineering [HWE], Product Marketing, Design) to ensure that they can
+satisfy customer requirements. Validates the market size and opportunity to
+determine products or features of greatest value, and collaborates with other
+teams (e.g., Finance) to build the Long-Range Plan (LRP). Defines solution options
+across multiple feature areas across divisional boundaries (e.g., product, service).
+Partners with SWE, HWE, and senior colleagues across the organization in
+refinement sessions to synthesize hypothesis results into solutions tied with
+Objectives and Key Results (OKRs) and Key Performance Indicators (KPIs) progress.
+Resolves large or complex alignment issues, contributes to portfolio level solutions,
+and drives cross-functional clarity with senior leadership.
+Product/Service Definition
+● Works across multiple feature areas (e.g., product, service) across divisional
+boundaries. Defines or influences the long-term vision and strategy for the feature
+areas based on a deep understanding of customer needs, market and user
+research, the competitive landscape, and GitHub’s business goals and strategy.
+Owns the product framing memo or strategy documents and reviews with senior
+leaders. Distills the vision and strategy into a product roadmap. Creates user stories
+and epics to convey the big picture. Leverages a deep understanding of the product
+architecture to design end-to-end scenarios. Collaborates with others (e.g.,
+Business Planning, Finance, Support, Customers, Product Marketing) to identify the
+potential customer base. Communicates product strategy to internal and external
+customers and builds consensus through multiple methods (e.g., conference
+presentations, collaboration with partner organizations). Develops a thesis around
+packaging, pricing, and monetizability of new and existing features and collaborates
+with Business Planning and Pricing teams to ratify and execute pricing and
+
+packaging changes. Owns the definition of product user personas and collaborates
+with Product Marketing to jointly develop Ideal Customer Profile (ICP) and product
+buyer personas, including geographic, industry vertical, or company size
+segmentation as appropriate.
+● Defines and evangelizes others around business impact, success criteria, and
+performance metrics (e.g., Objectives and Key Results [OKRs], Key Performance
+Indicators [KPIs] such as engagement, usage, acquisition, revenue, profitability, and
+in-project features) and fundamentals (e.g., quality, privacy, security, compliance,
+accessibility, cost of goods sold [COGS]) of multiple features areas (e.g., product,
+service) across divisional boundaries. Works with Software Engineering (SWE) and
+Hardware Engineering (HWE) to identify needed data and ensure needed telemetry
+is developed and obtains it responsibly and compliantly. Reports and explicates
+reasons for outcomes and drives decision making thereafter. Deeply understands
+the COGS of multiple feature areas (e.g., product, service) across divisional
+boundaries and the KPIs that will help improve profitability. Performs advanced
+insights analyses (e.g., customer acquisition, customer retention). Defines analytic
+processes and drives them across GitHub. Determines the value of the multiple
+feature areas to the business, aligns success criteria, and measures success.
+Ensures the ultimate goal is aligned for portfolios. Selects appropriate candidate
+metrics for defining success of products or features as well as numerical targets
+and measurement time horizons. Regularly tracks and reports on metric
+performance during the evaluation period. Uses product and feature performance
+metrics in prioritization and necessary level of investment or disinvestment as
+necessary. Works with Sales to define potential ROI of new investments including
+payback period and rate of return.
+● Serves as an expert in identifying data-informed, long-term investment
+opportunities, evaluating tradeoffs, and prioritizing investments in consultation
+across multiple cross organizational partners for multiple feature areas (e.g.,
+product, service) across divisional boundaries. Considers buy vs. build vs.
+partnership alternatives for resource acquisition in investment decisions and works
+with Business Development/Corporate Development as needed to fully evaluate
+options. Guides others to determine the features or experiences to prioritize in the
+roadmap that will support achievement of success criteria and Objectives and Key
+Results (OKRs).
+● Influences and drives engagement with cross-functional internal partners, external
+partners, including early adopting customers, senior leadership, and other key
+stakeholders to gather input and garner support for product/service vision,
+strategy, and roadmap for multiple features across divisional boundaries. Provides
+deep thought leadership and is sought out to address questions and challenges
+from group managers and other leaders. Contributes to, defines, and unites others
+around the product vision. Collaborates to gain buy in and alignment. Secures buy
+in from senior leadership for product vision and strategy for multiple feature areas
+across divisional boundaries. Advocates for priorities and resources needed to
+deliver desired outcomes for multiple feature areas (e.g., product, service) across
+divisional boundaries. Rallies others around shared priorities. Leads senior
+leadership to new product vision and strategies.
+
+Product/Service Development
+● Defines the feature set and leads partnership with Design teams to connect
+multiple design factors (e.g., visual design, user experience [UX], application
+programming interfaces [APIs], hardware design) to desired functionality and
+product vision. Iterates multiple designs with Design, Software Engineering (SWE)
+and Hardware Engineering (HWE). Leverages preexisting design patterns to inform
+current design iterations and establish a cohesive design approach. Explores and
+advocates for ways that preexisting and current designs within product areas can
+have a broader impact for multiple parties (e.g., GitHub, external/internal
+customers). Anticipates, reviews, and helps resolve interoperability challenges
+between different components or layers in the stack (e.g., UX and API layer
+differences). Develops comprehensive strategy for designs in the related areas.
+Facilitates senior-level reviews (e.g., UX, system designs, data designs) with
+customers (e.g., regulators, engineers, policy makers, business-decision makers) to
+determine usability and ensure accessibility criteria and updated designs meet
+customer goals.
+● Owns and drives the roadmap for the multiple feature areas (e.g., product, service)
+they own across divisional boundaries. Prioritizes the backlog, works with Software
+Engineering (SWE) and Hardware Engineering (HWE) to align on tradeoffs for the
+multiple feature areas (e.g., product, service) they own across divisional
+boundaries, partners with Product Marketing on the disclosure of the roadmap, and
+ensures dependencies are identified and accounted for. Takes in new inputs and
+adapts as necessary. Influences and lands difficult tradeoffs with peers and
+manages the team through it. Drives the long-term direction between customer
+needs and what is developed on the roadmap so that a series of problems can be
+addressed over time. Ensures alignment between the roadmap for the multiple
+features (e.g., product, service) across divisional boundaries and Objective and Key
+Results (OKRs) and Key Performance Indicators (KPIs).
+● Collaborates with partner team to build golden configurations and leads and
+models scenario walkthroughs and thought exercises to identify problems, system
+friction, and needed contingencies in advance of early customer adoption for
+multiple feature areas (e.g., product, service) across divisional boundaries. Provides
+test demonstrations at division-wide, all-hands meetings around product/service
+areas. Shares feature previews or roadmap with customers to drive engagement
+and to gather feedback and customer telemetry in conjunction with others (e.g.,
+Business Development, Sales, End Consumers, User Research). Builds systems and
+streamlines processes to channel feedback and suggestions with Software
+Engineering (SWE), Hardware Engineering (HWE), and Scientists for improvement.
+Go To Market
+● Acts as a subject matter expert and collects and includes different views when
+collaborating with Product Marketing, Business Planning, and Engineering to identify
+product release criteria, customer acquisition, usage, retention, and monetization
+strategies. May help scale Product Marketing teams by providing strategic guidance
+to build marketing and roll-out plans and/or content such as product overviews,
+blogs, and landing pages for individual features or smaller products that ladder up
+to marketing plans for an overall product solution area. Drives long-term vision and
+strategy for taking the multiple feature areas (e.g., product, service) across
+
+divisional boundaries from private preview to public preview and then to general
+availability. Orchestrates the creation of customer support plans (e.g., frequently
+asked questions [FAQs], scripts), change management, and communication plans.
+Drives durable processes to provide input to other systems.
+● Executes on major opportunities to evangelize the feature areas they work on with
+internal and external stakeholders, partners, analysts, and customers in the industry
+via presentations, blog posts, social media, and other forums. Connects feature or
+product level performance to customer value drivers such as cost reduction, risk
+reduction, or improved productivity and collaborates with Product Marketing to
+effectively deliver compelling value propositions to senior leaders. Presents at
+Executive Briefing Centers (EBCs) and large industry/company events. Acts as a
+primary interface and collaborates with Product Marketing to educate on the
+product and develop content.
+Product/Service Performance
+● Serves as an expert to partner with others (e.g., Data Science, Software Engineering
+[SWE], Hardware Engineering [HWE], User Research) to collect performance
+metrics (e.g., key performance indicators [KPIs] such as engagement, usage,
+acquisition, revenue, and in-project features), monitor and report on progress (e.g.,
+business reviews), and derive deep insights and drives productive courses of action
+across teams to improve product/feature development, iteration, and
+implementation. Leverages customer listening systems, telemetry, engagements
+(e.g., interviews, surveys), etc., to develop insights on product performance and
+customer needs. Shares insights with SWE, HWE, and other partners. Forms
+hypotheses to crucial technical needs, performs experiments, iterates, and tests to
+drive improvement/adoption in specific performance metrics that have broad
+impact on GitHub and industry wide. Owns the overall product lifecycle of their
+area including sunsetting/discontinuation of products and features as necessary.
+● Builds trust with a targeted selection of customers across sectors. Orchestrates a
+line of communication with complex and advanced customers to capture feedback
+and insights through the product development lifecycle. Ensures the vision is
+aligned with customer goals. Participates in customer communities and customer
+engagement programs and responds to real-time customer feedback in online
+portals. Understands and drives improvements in the support process, including
+both forums and communities.
+What You Need
+Qualifications
+Required/Minimum Qualifications
+● 10+ years experience in product/service/project/program management, software
+development, product design, or related field
+OR Bachelor's Degree in related field AND 8+ years experience in
+o
+product/service/project/program management, software development,
+product design, or related field
+
+OR equivalent experience.
+o
+Additional or Preferred Qualifications
+● Master’s Degree in Business, Marketing, or related field AND 13+ years experience
+in product/service/project/program management, software development, product
+design, or related field.
+How You Do It
+Skills
+Business Acumen and Customer and Partner Product Development and
+Insights Relationship Management Lifecycle Management
+● Financial Acumen ● Executive Presence ● Product Lifecycle
+● GitHub Products ● Trusted Partner Status ● Product Specification
+Knowledge Data Driven Decision ● Product Strategy
+● Technical Domain Making and Problem ● User Experience (UX)
+Knowledge and Skills Solving Project and Program
+Communication and ● Agility Management
+Influence ● Competitive Analysis ● Cross-functional Team
+● Conflict Resolution ● Creativity Leadership
+● Influence Others ● Customer Research ● Multi-Initiative Program
+● Negotiation ● Data Analysis Management
+● Persuasion/Storytelling ● Decision Making ● Project Cost
+● Product Evangelism ● Judgement ● Project Management
+● Technical ● Key Performance ● Business Relationship
+Communication Indicator (KPI) Management
+Application ● Project Stakeholder
+● Return on Investment Management
+Analysis
+● Strategic Thinking
+Internal Use Only: Culture and Values
+● Learn more about GitHub's Culture (Mission, Values, etc.)
+● Learn more about our Values
+● Learn more about our Leadership Principles
+

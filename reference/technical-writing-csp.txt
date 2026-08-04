@@ -1,0 +1,663 @@
+Tec hni c al W ri ti ng | 1
+Career Stage Profile
+Job Family Group: Product
+Job Family: Technical Writing
+Summary
+Job Family Definition Seeks out opportunities to engage with partners on research studies to define a case to incorporate actionable
+insights into content across a product area or GitHub docs. Engages and addresses feedback from customers and
+drives content and/or GitHub docs investments. Maps out and leads content design and strategy for a product
+area to ensure optimal content creation and serve customer needs. Applies principles to develop relevant,
+technically accurate content designed for a variety of users. Uses metrics and/or user feedback to assess shipped
+content for potential improvements and to incorporate changes. Masters the tools and processes required for
+content development and publishing. Uses metrics as part of measuring customer satisfaction and/or business
+impact after content is published. Explores and experiments with new content delivery channels, new content
+experiences, and content consumption technologies. Drives collaborative efforts with relevant cross-functional
+stakeholders to understand and align content with project goals. Reviews writing tasks completed by vendors, as
+needed.
+Job Profiles included:
+• P1 – P5 (G6 – G10)
+• M3 – M6 (G8 – G11)
+ Job Profile Summaries
+ Key Responsibilities (Professional/Individual Contributor)
+ Key Responsibilities (Manager)
+ Skills
+
+Tec hni c al W ri ti ng | 2
+Job Profile Summaries
+Job Profile Job Profile Summary
+Technical Writing P1 (G6) Learns how to engage with customers on content for their areas and may address customer feedback as assigned under supervision of senior colleagues. Learns about collaborating with team
+members to support execution of strategy through the design and development of content. Learns about and begins to follow guidelines and standards to support the development of relevant,
+technically accurate content designed for a specific product/content/feature area with support from a senior team member. Receives feedback from a senior team member on content and may
+incorporate changes for an assigned area as instructed. Develops basic skills necessary for creating and delivering content under the direction of a senior team member. Learns how to align content
+with project goals with direct supervision.
+Technical Writing P2 (G7) Engages with customers and addresses customer feedback on content for their areas under guidance. Collaborates with team members to execute strategy through the design and development of
+content. Follows guidelines and standards to develop relevant, technically accurate content designed for a specific product/content/feature area as assigned by a senior team member. Receives
+feedback from a senior team member and incorporates changes into content for an assigned area and/or for possible inclusion in a product experience. Develops skills necessary for creating and
+delivering content under the direction of a senior team member. Gathers and uses metrics to improve content. Begins to collaborate with relevant cross-team stakeholders.
+Technical Writing P3 (G8) Participates in and consumes customer interviews or research studies to define a case to incorporate actionable insights into content for one or more area(s). Engages with customers and addresses
+customer feedback. Collaborates with relevant stakeholders to design and develop content to educate customers about products. Applies principles to develop relevant, technically accurate content
+designed for a variety of users. Follows approval and review processes. Develops skills necessary for creating and delivering content (individually or in a small group). Applies insights from metrics to
+inform content. Begins to explore and experiment with unfamiliar content delivery channels, structural formats, and content consumption technologies in conjunction with the larger team.
+Collaborates with relevant cross-team and cross-project stakeholders to understand and align content with project goals.
+Technical Writing P4 (G9) Seeks out opportunities to engage with partners on research studies to define a case to incorporate actionable insights into content across a product area or GitHub Docs. Engages and addresses
+feedback from customers and drives content and/or GH docs investments. Collaborates with relevant stakeholders to educate customers about products through the design and development of
+content. Applies and assists with creating principles to develop relevant, technically accurate content designed for a variety of users. Proactively applies approval and review processes. Develops skills
+and shares information necessary for creating and delivering content (large groups such as learning sessions, guides, informal meetings). Negotiates partnerships with stakeholders and advocates for
+telemetry for implementation. Envisions content experiences of the future by observing customers, and working with product and research teams. Drives collaborative efforts with relevant cross-
+functional stakeholders to understand and align content with project goals.
+Technical Writing P5 (G10) Seeks out opportunities to engage with senior partners on research studies to define a case to incorporate actionable insights into content across a product area or GitHub Docs. Drives planning for
+direct customer engagement and addresses customer feedback. Ensures the team is educating customers about products through the design and development of content. Takes ownership of the
+overall product experience to ensure the content aligns across the ecosystem and adheres to guidelines and standards. Directs approval and review processes across the organization. Leads the
+development and socialization of material necessary for creating and delivering content across GitHub. Negotiates partnerships with stakeholders and successfully influences telemetry for
+implementation. Drives experimentation for the organization. Leads collaborative efforts with relevant cross-functional and cross-organizational stakeholders to understand and align content with
+project goals.
+Technical Writing M3 (G8) May help identify and plan customer research across product/content area/feature(s) by evaluating internal and external data and reports through discussions with team members and cross-
+functional stakeholders. Helps ensure content is customer focused and that customers receive desired content. Helps lead collaborations with relevant stakeholders to design and develop content to
+educate customers about products. Assists in the creation of principles to help others develop relevant, technically accurate content designed for a variety of users. Reviews content for possible
+inclusion in a product experience across different areas through prioritizing in-scope content needs. Helps develop and provide information necessary for creating and delivering content (large
+groups such as learning sessions, guides, informal meetings). Uses metrics as part of measuring customer satisfaction and/or business impact after content is published. Reviews and/or contributes
+to content experiences of the future, observing customers, and working with product and research teams. Supervises collaborative efforts with relevant cross-functional stakeholders to create a
+trusted and sustainable collaboration with partner relationships. In addition, this role has people management responsibilities including driving employee growth and development, executing
+projects, and managing performance.
+Technical Writing M4 (G9) Identifies, scopes, and may plan customer research across product/content area/feature(s) by evaluating internal and external data and reports through discussions with team members and cross-
+functional stakeholders. Ensures content is customer focused and that customers receive desired content, while incorporating necessary changes based on feedback. Leads collaborations with
+relevant stakeholders to educate customers about products through the design and development of content. Creates principles to help others develop relevant, technically accurate content designed
+for a variety of users. Reviews and improves content for possible inclusion in a product experience across different areas through prioritizing in-scope content needs. Develops and provides
+
+Tec hni c al W ri ti ng | 3
+information necessary for creating and delivering content (large groups such as learning sessions, guides, informal meetings). Develops and uses metrics to assess whether content solved the
+customer's needs. Envisions, manages, reviews, and/or contributes to content experiences of the future, observing customers, and working with product and research teams. Manages collaborative
+efforts with relevant cross-functional stakeholders to create a trusted and sustainable collaboration with partner relationships. In addition, this role has people management responsibilities including
+driving employee growth and development, executing projects, and managing performance.
+Technical Writing M5 (G10) Engages with partners on customer research across the ecosystem/modalities, evaluating internal and external data and reports through discussions with cross functional and/or cross-organizational
+stakeholders. Ensures content is customer focused and customers receive desired content, while evangelizing work and sharing insights with senior leaders. Ensures the team is educating customers
+about products through the design and development of content. Takes ownership of the overall product experience and ensures content aligns with and adheres to guidelines and standards.
+Reviews content holistically for possible inclusion in a product experience and guides team to consider edits that would ensure cross-functional continuity. Leads the development and socialization of
+material necessary for creating and delivering content across GitHub. Negotiates partnerships with stakeholders and advocates for telemetry for implementation. Drives experimentation for the
+organization; acts as a stakeholder to guide other teams' experimentation. Directs collaborative efforts with relevant cross-functional and cross-organizational stakeholders to create a trusted and
+sustainable collaboration with partner relationships. In addition, this role has people management responsibilities including driving employee growth and development, executing projects, and
+managing performance.
+Technical Writing M6 (G11) Fosters a creative and collaborative environment between cross functional and/or cross-organizational stakeholders, driving the collection and interpretation of internal and external data and reports.
+Leverages expert knowledge to oversee that content is customer focused and customers receive desired content, while evangelizing work and sharing insights with senior leaders. Advises team
+leaders on educating customers about products through the design and development of content. Takes ownership of the overall product experience to ensure the content aligns across the
+ecosystem and adheres to guidelines and standards. Champions the process of reviewing content holistically for possible inclusion in a product experience and verifies that teams consider edits that
+would ensure cross-functional continuity. Establishes systems and processes to aid in the development and socialization of material necessary for creating and delivering content across GitHub.
+Establishes partnerships with stakeholders and advocates for telemetry for implementation. Sets the strategic direction for other teams' experimentation. Establishes collaborative efforts with relevant
+cross-functional and cross-organizational stakeholders to create a trusted and sustainable collaboration with partner relationships. In addition, this role has people management responsibilities
+including driving employee growth and development, executing projects, and managing performance.
+
+Tec hni c al W ri ti ng | 4
+Key Responsibilities (Professional/Individual Contributor)
+Technical Writing P1 (G6) Technical Writing P2 (G7) Technical Writing P3 (G8) Technical Writing P4 (G9) Technical Writing P5 (G10)
+Customer Research • N/A • N/A • Participates in and consumes • Seeks out opportunities to • Seeks out opportunities to
+customer interviews or research engage with partners on research engage with senior partners on
+studies to define a case to studies to define a case to research studies to define a case
+incorporate actionable insights incorporate actionable insights to incorporate actionable insights
+into content for one or more into content across a product area into content across a product
+area(s). or GitHub Docs. area or GitHub Docs.
+• Synthesizes and consolidates • Identifies and determines/leads • Synthesizes and consolidates
+information gathered from customer research by evaluating information and impact gathered
+research in order to inform and internal and external data and from research in order to inform
+assist with designing content reports through discussions with and design content strategy in
+strategy in line with customer and team members and cross- line with customer and GitHub
+GitHub needs and mutual goals. functional stakeholders. needs and mutual goals.
+• Synthesizes and consolidates • Proactively identifies and
+information and impact gathered collaborates with cross-functional
+from research in order to inform and/or cross-organizational
+and design content strategy in teams to help conduct research.
+line with customer and GitHub • Assists to support team strategy
+needs and mutual goals. and designs research studies.
+• Identifies and collaborates with
+cross-functional teams to help
+conduct research.
+Customer Engagement • Learns how to engage with • Engages with customers and • Engages with customers and • Engages and addresses feedback • Drives planning for direct
+customers on content for their addresses customer feedback on addresses customer feedback. from customers and drives customer engagement and
+areas and may address customer content for their areas under • Strives to make content customer content and/or GH docs addresses customer feedback.
+feedback as assigned under guidance. focused by facilitating information investments. • Leverages customer feedback
+supervision of senior colleagues. sharing and incorporating • Leverages customer feedback mechanisms to collect insights
+changes from customer feedback. mechanisms to collect insights from across the company.
+• May help support engagement across the organization. • Ensures content is customer
+with customer/industry • Ensures content is customer focused and customers receive
+communities. focused and that customers desired content, while
+receive desired content while evangelizing work and sharing
+incorporating necessary changes insights with senior leaders.
+based on feedback. • Leads and promotes
+• Supports engagement with customer/industry community
+customer/industry communities engagement efforts (e.g., blog
+to provide expertise (e.g., blog posts, social posts, conversations,
+speaking at events).
+
+Tec hni c al W ri ti ng | 5
+Key Responsibilities (Professional/Individual Contributor)
+Technical Writing P1 (G6) Technical Writing P2 (G7) Technical Writing P3 (G8) Technical Writing P4 (G9) Technical Writing P5 (G10)
+posts, social posts, conversations,
+speaking at events).
+Content Strategy • Learns about collaborating with • Collaborates with team members • Collaborates with relevant • Collaborates with relevant • Ensures the team is educating
+team members to support to execute strategy through the stakeholders to design and stakeholders to educate customers about products
+execution of strategy through the design and development of develop content to educate customers about products through the design and
+design and development of content. customers about products. through the design and development of content.
+content. • Leverages cross-functional • Develops and applies content development of content. • Leads long-term content design
+• Creates simple content design relationships (e.g., marketing, design and strategy for one or • Maps out and leads content and strategy to ensure optimal
+plans for scoped issues. design, engineering) and a variety more product/content/feature design and strategy for a product content creation and serve
+of resources to contribute to the area(s) to ensure optimal content area to ensure optimal content customer needs, such as guiding
+strategy. creation and serve customer creation and serve customer customers through an end-to-end
+• Creates content design plans for needs, such as guiding customers needs, such as guiding customers journey to leverage
+scoped issues. through an end-to-end journey to through an end-to-end journey to content/products that meet their
+• Helps inform content strategy leverage content/products that leverage content/products that needs across the industry.
+with feedback from content meet their needs. meet their needs across product • Provides guidance for impacting
+creation. • Helps identify points in areas. multiple product experiences by
+• Identifies and plans content that product/content/feature area(s) • Identifies points in a product leveraging deep knowledge to
+maps to customer goals based on where content would meet experience where content is inform where content is
+an understanding of the content customer needs. appropriate and drives appropriate for customers.
+and customers. • Looks across a set of content to improvements. • Leads cross-functional
+• Executes repeatable processes for understand strategy within • Leverages cross-functional relationships across organizations
+completing, delivering, and particular area(s). relationships (e.g., marketing, to champion, advocate for, and
+distributing content strategy and • Contributes ideas to improve the design, engineering) and a variety educate others about the impact
+design workflows (e.g., content content design system, including of resources such as user research of the strategy.
+design system, editorial processes, style guide and other contributor to champion, advocate for, and • Drives and leads the
+user experience [UX] pattern guidance. educate others about the impact implementation of repeatable
+guidelines, terminology lists, and of the strategy. processes for completing,
+writing workflows). • Drives and implements repeatable delivering, and distributing
+processes for completing, content strategy and design
+delivering, and distributing workflows (e.g., content design
+content strategy and design system, editorial processes, user
+workflows (e.g., content design experience [UX] pattern
+system, editorial processes, user guidelines, terminology lists,
+experience [UX] pattern writing workflows).
+guidelines, terminology lists, • Facilitates the sharing of best
+voice, and tone). practices, learnings, and insights.
+
+Tec hni c al W ri ti ng | 6
+Key Responsibilities (Professional/Individual Contributor)
+Technical Writing P1 (G6) Technical Writing P2 (G7) Technical Writing P3 (G8) Technical Writing P4 (G9) Technical Writing P5 (G10)
+• Contributes to best practices, • Contributes to, evangelizes and
+learnings, and insights sharing leads the team in using the
+related to content design system. content design system.
+• Contributes to and evangelizes • Creates principles to design and
+content design system to develop develop relevant, technically
+relevant, technically accurate accurate content designed for a
+content designed for a variety of variety of users.
+users.
+Content Creation • Learns about and begins to follow • Follows guidelines and standards • Applies principles to develop • Applies and assists with creating • Takes ownership of the overall
+guidelines and standards to to develop relevant, technically relevant, technically accurate principles to develop relevant, product experience to ensure the
+support the development of accurate content designed for a content designed for a variety of technically accurate content content aligns across the
+relevant, technically accurate specific product/content/feature users. designed for a variety of users. ecosystem and adheres to
+content designed for a specific area as assigned by a senior team • Helps develop content plan that • Develops content plan that guidelines and standards.
+product/content/feature area with member. bridges product bridges product • Leads the development of
+support from a senior team • Collaborates with team members platforms/experiences and aligns platforms/experiences and aligns content plans that bridge product
+member. to understand products/content with product strategy. with product strategy. platforms/experiences and aligns
+• Begins to collaborate with team areas/features and user • Identifies opportunities for • Identifies opportunities for with product strategy.
+members to understand journeys/jobs-to-be-done (JTBD) collaboration with cross- collaboration with cross- • Identifies opportunities for
+products/content areas/features to author user-centered content. functional teams to functional teams to collaboration with cross-
+and user journeys/jobs-to-be- support/execute on content plan. support/execute on content plan. functional teams to
+done (JTBD) to author user- • Collaborates with cross-functional • Collaborates with cross-functional support/execute on content plan.
+centered content. stakeholders (e.g., engineering, stakeholders (e.g., engineering, • Collaborates with and manages
+• Begins to build understanding of research, design, product) to research, design, product) to the contribution of senior cross-
+assigned product or product area. understand products/content understand products/content functional stakeholders (e.g.,
+• Follows instructions and standard areas/features and user areas/features and user engineering, research, design,
+procedures provided by senior journeys/jobs-to-be-done (JTBD) journeys/jobs-to-be-done (JTBD) product) to understand
+team members to execute to author user-centered content. to author user-centered content. products/content areas/features
+repeatable processes for • Develops content by first • Develops content by first and help teams overcome user
+completing, delivering, and understanding prototypes and understanding prototypes and journeys/jobs-to-be-done (JTBD)
+distributing content workflows ideation of features for particular ideation of features for to author user-centered content.
+(e.g., editorial processes, user product/content/feature area(s). product/content/feature areas. • Applies subject matter expertise
+experience [UX] pattern • Collaborates with and manages • Takes on experiential stretch of in-product content and/or
+guidelines, terminology lists, the contributions of subject goals to increase expertise within delivers code, samples, and
+writing workflows) with direct matter experts to author or their area. prescriptive guidance to meet
+supervision. improve content. • Collaborates with and manages user needs.
+the contributions of subject
+
+Tec hni c al W ri ti ng | 7
+Key Responsibilities (Professional/Individual Contributor)
+Technical Writing P1 (G6) Technical Writing P2 (G7) Technical Writing P3 (G8) Technical Writing P4 (G9) Technical Writing P5 (G10)
+matter experts to author or • Continues to learn through
+improve content. advanced projects that present
+• Educate content contributors on new challenges.
+the content creation workflow • May assist content contributors
+and tools. with the usage of content
+• May assist content contributors creation tools or processes.
+with the usage of content • Is responsible for pulling together
+creation tools or processes. data and insights, to drive
+• Is responsible for pulling together projects across teams and
+data and insights, to drive organizations to deliver scenario-
+projects across teams and based content that spans multiple
+organizations to deliver scenario- product areas and groups.
+based content that spans multiple
+product areas and groups.
+Content Improvement • Receives feedback from a senior • Receives feedback from a senior • Follows approval and review • Proactively applies approval and • Directs approval and review
+team member on content and team member and incorporates processes. review processes. processes across the organization.
+may incorporate changes for an changes into content for an • Uses metrics and/or user • Uses metrics and/or user • Uses metrics and/or user
+assigned area as instructed. assigned area and/or for possible feedback to assess shipped feedback to assess shipped feedback to assess shipped
+• May use metrics and/or user inclusion in a product experience. content for potential content for potential content for the impact of
+feedback to assess shipped • Uses appropriate tools to move improvements and to incorporate improvements and to incorporate potential improvements and to
+content for potential content to publication after changes. changes. incorporate changes.
+improvements with direct review is complete for a particular • Collaborates with stakeholders on • Creates standards and guidelines • Leads the testing and building of
+supervision. area as assigned, where testing and building customer for improving content. customer scenarios.
+• Learns about and assists in testing applicable. scenarios. • Collaborates with stakeholders on
+customer scenarios as assigned. • Uses metrics and/or user the testing and building of
+feedback to assess shipped customer scenarios.
+content for potential
+improvements.
+• Assists in testing and building
+customer scenarios.
+Tools and Operations • Develops basic skills necessary for • Develops skills necessary for • Develops skills necessary for • Develops skills and shares • Leads the development and
+creating and delivering content creating and delivering content creating and delivering content information necessary for creating socialization of material necessary
+under the direction of a senior under the direction of a senior (individually or in a small group). and delivering content (large for creating and delivering
+team member. team member. • Collaborates with other teams to groups such as learning sessions, content across GitHub.
+contribute tool efficiency in guides, informal meetings).
+content creation and delivery.
+
+Tec hni c al W ri ti ng | 8
+Key Responsibilities (Professional/Individual Contributor)
+Technical Writing P1 (G6) Technical Writing P2 (G7) Technical Writing P3 (G8) Technical Writing P4 (G9) Technical Writing P5 (G10)
+• Learns the tools and processes • Learns the tools and processes • Has a solid understanding of the • Collaborates with other teams to • Collaborates with cross-
+required for content development required for content development tools and processes required for drive efficiency in content organizational leaders to have
+and publishing. and publishing. content development and creation and delivery. content published/shipped.
+• May recommend improvements • Recommends improvements to publishing. • Masters the tools and processes • Masters and contributes to the
+to tools or processes. processes. • Identifies opportunities, plans, required for content development tools and processes required for
+drives, and executes to improve and publishing. publishing/shipment.
+efficiencies of processes and • Identifies opportunities, plans, • Evangelizes processes to partners
+suggests improvements. drives, and executes to improve and cross-functional stakeholders
+efficiencies of processes and leads across GitHub.
+improvements.
+Metrics and Insights • N/A • Gathers and uses metrics to • Applies insights from metrics to • Negotiates partnerships with • Negotiates partnerships with
+improve content. inform content. stakeholders and advocates for stakeholders and successfully
+• Uses metrics, as directed, as part • Uses metrics to measure telemetry for implementation. influences telemetry for
+of measuring customer customer satisfaction and/or • Identifies and uses metrics to implementation.
+satisfaction and/or business business impact after content is assess whether content solved the • Identifies metrics to assess
+impact after content is published. published. customer's needs, and develops whether content solved the
+• Leverages customer feedback new methods and approaches to customer's needs, and develops
+mechanisms to collect insights the content. new methods and approaches to
+within a particular specialty area. • Uses metrics as part of measuring content.
+• Receives direction based on customer satisfaction and/or • Guides cross-organizational
+metrics to improve quality. business impact after content is conversations about metrics as
+• Reviews dashboards for focused published. part of measuring customer
+areas to understand basic state of • Partners with cross-functional satisfaction and/or business
+quality measurements. teams to leverage other insights. impact after content is published.
+• Measures the content impact and • Empowers others to make
+ensures it aligns with overall decisions based on metrics to
+business goals. improve quality.
+• Reviews dashboards for trends • Reviews dashboards for trends
+and ensures feedback is and ensures feedback is
+incorporated into content incorporated into content
+strategy and user experiences. strategy and user experiences.
+Experimentation • N/A • N/A • Begins to explore and experiment • Envisions content experiences of • Drives experimentation for the
+with unfamiliar content delivery the future by observing organization.
+channels, structural formats, and customers, and working with • Envisions and drives content
+content consumption product and research teams. experiences of the future,
+
+Tec hni c al W ri ti ng | 9
+Key Responsibilities (Professional/Individual Contributor)
+Technical Writing P1 (G6) Technical Writing P2 (G7) Technical Writing P3 (G8) Technical Writing P4 (G9) Technical Writing P5 (G10)
+technologies in conjunction with • Explores and experiments with observing customers, and driving
+the larger team. new content delivery channels, collaboration with product and
+new content experiences, and research teams.
+content consumption • Facilitates the gathering and
+technologies in conjunction with iteration of data using build-
+the larger team. measure-learn feedback loops.
+Stakeholder Collaboration • Learns how to align content with • Begins to collaborate with • Collaborates with relevant cross- • Drives collaborative efforts with • Leads collaborative efforts with
+project goals with direct relevant cross-team stakeholders team and cross-project relevant cross-functional relevant cross-functional and
+supervision. (e.g., engineers, product stakeholders (e.g., engineers, stakeholders (e.g., engineers, cross-organizational stakeholders
+• Begins to develop relationships managers, marketing, user product managers, marketing, product managers, marketing, (e.g., engineers, product
+and collaborate with stakeholders experience [UX], design, research) user experience [UX], design, user experience [UX], design, managers, marketing, user
+with guidance from senior team to understand and align content research) to understand and align research) to understand and align experience [UX], design, research)
+members. with project goals. content with project goals. content with project goals. to understand and align content
+• Begins to develop relationships • Maintains relationships with • Sets accurate expectations for with project goals.
+with stakeholders to build rapport stakeholders to build rapport and content delivery and helps lead • Builds and owns relationships and
+and credibility. credibility. peers in a timely manner. expectations with stakeholders to
+• Provides high-level project input • Provides project input with • Manages relationships and build rapport and credibility.
+with assistance to stakeholders assistance and makes suggestions expectations with stakeholders to • Influences project directions and
+using foundational knowledge to to stakeholders using build rapport and credibility while relevant stakeholders using
+achieve project goals. comprehensive knowledge to advising management on project subject matter expertise.
+• Collaborates with stakeholders achieve project goals. status. • Drives planning for future work
+through reporting out and • Provides project input and drives with stakeholders, such as
+communicating project statuses. stakeholders using deep identifying opportunities at a
+knowledge to achieve content- divisional scenario level, driving
+related project goals and executive support for funding or
+influence changes. resources, and guiding execution.
+• Drives communication between • Oversees broad communications
+content and stakeholder teams. between content and
+• Negotiates and schedules stakeholders.
+deadlines.
+
+Tec hni c al W ri ti ng | 10
+Key Responsibilities (Manager)
+Technical Writing M3 (G8) Technical Writing M4 (G9) Technical Writing M5 (G10) Technical Writing M6 (G11)
+Customer Research • May help identify and plan customer research • Identifies, scopes, and may plan customer • Engages with partners on customer research • Fosters a creative and collaborative
+across product/content area/feature(s) by research across product/content across the ecosystem/modalities, evaluating environment between cross functional and/or
+evaluating internal and external data and area/feature(s) by evaluating internal and internal and external data and reports cross-organizational stakeholders, driving the
+reports through discussions with team external data and reports through discussions through discussions with cross functional collection and interpretation of internal and
+members and cross-functional stakeholders. with team members and cross-functional and/or cross-organizational stakeholders. external data and reports.
+• Proactively identifies and collaborates with stakeholders. • Proactively identifies and collaborates with • Oversees development and application of
+cross-functional teams to help conduct • Proactively identifies and collaborates with cross-functional and/or cross-organizational strategies for identifying and collaborating
+research. cross-functional teams to help conduct teams to help conduct research. with cross-functional and/or cross-
+• Helps manage the goals of research studies research. • Leads research studies and customer organizational teams to help conduct
+and customer engagement to define a case • Manages the goals of research studies and engagement to define a case to incorporate research.
+to incorporate actionable insights into customer engagement to define a case to actionable insights into content across a • Champions research studies and customer
+content across a product experience. incorporate actionable insights into content product experience. engagement to define a case to incorporate
+across a product experience. actionable insights into content across a
+product experience.
+Customer • Helps ensure content is customer focused • Ensures content is customer focused and that • Ensures content is customer focused and • Leverages expert knowledge to oversee that
+Engagement and that customers receive desired content. customers receive desired content, while customers receive desired content, while content is customer focused and customers
+• Oversees and promotes team's engagement incorporating necessary changes based on evangelizing work and sharing insights with receive desired content, while evangelizing
+with customer/industry communities (e.g., feedback. senior leaders. work and sharing insights with senior leaders.
+blog posts, social posts, conversations, • Oversees and promotes team's engagement • Oversees and promotes team's engagement • Facilitates team's engagement with
+speaking at events). with customer/industry communities (e.g., with customer/industry communities (e.g., customer/industry communities (e.g., blog
+blog posts, social posts, conversations, blog posts, social posts, conversations, posts, social posts, conversations, speaking at
+speaking at events). speaking at events), and identifies new areas events), and champions innovative methods
+to strengthen ties with communities. for determining new areas to strengthen ties
+with communities.
+Content Strategy • Helps lead collaborations with relevant • Leads collaborations with relevant • Ensures the team is educating customers • Advises team leaders on educating customers
+stakeholders to design and develop content stakeholders to educate customers about about products through the design and about products through the design and
+to educate customers about products. products through the design and development of content. development of content.
+• Develops and applies content strategy for development of content. • Leads long-term content design and strategy • Proactively oversees the development and
+one or more product/content/feature area(s) • Maps out and leads content design and to ensure optimal content creation and serve execution of long-term content design and
+to ensure optimal content creation and serve strategy for a product area to ensure optimal customer needs, such as guiding customers strategy to ensure optimal content creation
+customer needs, such as guiding customers content creation and serve customer needs, through an end-to-end journey to leverage and serve customer needs, such as guiding
+through an end-to-end journey to leverage such as guiding customers through an end- content/products that meet their needs customers through an end-to-end journey to
+content/products that meet their needs. to-end journey to leverage content/products across the industry. leverage content/products that meet their
+• Helps identify points in that meet their needs across product areas. • Provides guidance for impacting multiple needs across the industry.
+product/content/feature area(s) where product experiences by leveraging deep • Defines and communicates objectives and
+content would meet customer needs. scope regarding impacting multiple product
+
+Tec hni c al W ri ti ng | 11
+Key Responsibilities (Manager)
+Technical Writing M3 (G8) Technical Writing M4 (G9) Technical Writing M5 (G10) Technical Writing M6 (G11)
+• Looks across a set of content to understand • Identifies points in a product experience knowledge to inform where content is experiences by leveraging expert knowledge
+strategy within particular area(s). where content is appropriate and drives appropriate for customers. to inform where content is appropriate for
+• Contributes to style standards. improvements. • Leads cross-functional relationships across customers.
+• Leverages cross-functional relationships (e.g., organizations to champion, advocate for, and • Leads cross-functional relationships across
+marketing, design, engineering) to champion, educate others about the impact of the organizations to champion, advocate for, and
+advocate for, and educate others about the strategy. educate others about the impact of the
+impact of the strategy. • Owns and leads the implementation of strategy.
+• Owns and/or drives the implementation of repeatable processes for completing, • Drives strategic planning for the
+repeatable processes for completing, delivering, and distributing content strategy implementation of repeatable processes for
+delivering, and distributing content strategy and design workflows (e.g., content design completing, delivering, and distributing
+and design workflows (e.g., content design system, editorial processes, user experience content strategy and design workflows (e.g.,
+system, editorial processes, user experience [UX] pattern guidelines, terminology lists, content design system, editorial processes,
+[UX] pattern guidelines, terminology lists, writing workflows). user experience [UX] pattern guidelines,
+writing workflows). • Owns the process for facilitating the sharing terminology lists, writing workflows).
+• Drives the contribution towards best of best practices, learnings, and insights. • Owns the process for facilitating the sharing
+practices, learnings, and insights sharing • Contributes to, evangelizes and leads the of best practices, learnings, and insights.
+related to style standards. team in using the content design system. • Provides support and resourcing to maintain
+• Contributes to and evangelizes content • Creates principles to develop relevant, content design system at scale.
+design system to develop relevant, technically technically accurate content designed for a • Creates principles to develop relevant,
+accurate content designed for a variety of variety of users. technically accurate content designed for a
+users. variety of users.
+Content Creation • Assists in the creation of principles to help • Creates principles to help others develop • Takes ownership of the overall product • Takes ownership of the overall product
+others develop relevant, technically accurate relevant, technically accurate content experience and ensures content aligns with experience to ensure the content aligns
+content designed for a variety of users. designed for a variety of users. and adheres to guidelines and standards. across the ecosystem and adheres to
+• Identifies opportunities for collaboration with • Develops content plan that bridges product • Leads the team in the development of guidelines and standards.
+cross-functional teams to support/execute on platforms/experiences and aligns with content plans that bridge product • Leads the development of content plans that
+content plan. product strategy. platforms/experiences and aligns with bridge product platforms/experiences and
+• Supports team in collaborating with cross- • Identifies opportunities for collaboration with product strategy. aligns with product strategy.
+functional stakeholders (e.g., engineering, cross-functional teams to support/execute on • Identifies opportunities for collaboration with • Identifies opportunities for collaboration with
+research, design, product) to understand content plan. cross-functional teams to support/execute on cross-functional teams to support/execute on
+products/content areas/features and user • Supports team in collaborating with cross- content plan. content plan.
+journeys/jobs-to-be-done (JTBD) to author functional stakeholders (e.g., engineering, • Supports team in collaborating with senior • Collaborates with and manages the
+user-centered content. research, design, product) to understand cross-functional stakeholders (e.g., contribution of senior cross-functional
+• Coaches team in the process of creating products/content areas/features and user engineering, research, design, product) to stakeholders (e.g., engineering, research,
+content by first understanding prototypes journeys/jobs-to-be-done (JTBD) to author understand products/content areas/features design, product) to understand
+and ideation of features for multiple user-centered content. and user journeys/jobs-to-be-done (JTBD) to products/content areas/features and help
+product/content/feature areas. author user-centered content.
+
+Tec hni c al W ri ti ng | 12
+Key Responsibilities (Manager)
+Technical Writing M3 (G8) Technical Writing M4 (G9) Technical Writing M5 (G10) Technical Writing M6 (G11)
+• Takes on experiential stretch goals to increase • Coaches team in the process of creating • Ensures their team develops content by first teams overcome user journeys/jobs-to-be-
+expertise within their area. content by first understanding prototypes understanding prototypes and ideation of done (JTBD) to author user-centered content.
+and ideation of features for multiple features for multiple areas. • Continues to learn through advanced projects
+product/content/feature areas. • Continues to learn through advanced projects that present new challenges.
+• Takes on experiential stretch goals to increase that present new challenges. • May assist content contributors with the
+expertise within their area. usage of content creation tools or processes.
+• Is responsible for pulling together data and
+insights, to drive projects across teams and
+organizations to deliver scenario-based
+content that spans multiple product areas
+and groups.
+Content • Reviews content for possible inclusion in a • Reviews and improves content for possible • Reviews content holistically for possible • Champions the process of reviewing content
+Improvement product experience across different areas inclusion in a product experience across inclusion in a product experience and guides holistically for possible inclusion in a product
+through prioritizing in-scope content needs. different areas through prioritizing in-scope team to consider edits that would ensure experience and verifies that teams consider
+• Proactively applies approval and review content needs. cross-functional continuity. edits that would ensure cross-functional
+processes. • Proactively applies approval and review • Directs approval and review processes across continuity.
+• Uses metrics and/or user feedback to assess processes. the organization. • Oversees the approval and review processes
+shipped content for potential improvements • Uses metrics and/or user feedback to assess • Oversees the testing and building of across the organization.
+and to incorporate changes. shipped content for potential improvements customer scenarios. • Forecasts the testing and building of
+• Creates standards and guidelines for and to incorporate changes. customer scenarios to address future internal
+improving content. • Creates standards and guidelines for or external needs.
+• Supervises the testing and building of improving content.
+customer scenarios. • Oversees the testing and building of
+customer scenarios.
+Tools and • Helps develop and provide information • Develops and provides information necessary • Leads the development and socialization of • Establishes systems and processes to aid in
+Operations necessary for creating and delivering content for creating and delivering content (large material necessary for creating and delivering the development and socialization of material
+(large groups such as learning sessions, groups such as learning sessions, guides, content across GitHub. necessary for creating and delivering content
+guides, informal meetings). informal meetings). • Collaborates with cross-organizational across GitHub.
+• Collaborates with other teams to drive • Collaborates with other teams to drive leaders to have content published/shipped. • Guides key stakeholders and cross-
+efficiency in content creation and delivery. efficiency in content creation and delivery. • Contributes to the tools and processes organizational leaders to ensure that content
+• Understands the tools and processes required • Understands the tools and processes required required for publishing/shipment. is published/shipped.
+for content development and publishing. for content development and publishing. • Acts as a stakeholder to evangelize processes • Champions the implementation of cutting-
+• Acts as a stakeholder to identify opportunities • Acts as a stakeholder to identify opportunities to partners and cross-functional stakeholders edge tools and processes required for
+and improvements. and improvements. across GitHub. publishing/shipment.
+• Plans and contributes to improvement • Plans and contributes to improvement
+efficiencies of tools and processes. efficiencies of tools and processes.
+
+Tec hni c al W ri ti ng | 13
+Key Responsibilities (Manager)
+Technical Writing M3 (G8) Technical Writing M4 (G9) Technical Writing M5 (G10) Technical Writing M6 (G11)
+• Facilitates the evangelization of processes to
+partners and cross-functional stakeholders
+across GitHub.
+Metrics and Insights • Uses metrics as part of measuring customer • Develops and uses metrics to assess whether • Negotiates partnerships with stakeholders • Establishes partnerships with stakeholders
+satisfaction and/or business impact after content solved the customer's needs. and advocates for telemetry for and advocates for telemetry for
+content is published. • Uses metrics as part of measuring customer implementation. implementation.
+• Leverages forum posts and developer surveys satisfaction and/or business impact after • Identifies metrics to assess whether content • Champions the process of identifying metrics
+to collect insights within one or more content is published. solved the customer's needs. to assess whether content solved the
+specialty areas. • Leverages forum posts and developer surveys • Guides cross-organizational conversations customer's needs.
+• Makes decisions based on metrics to improve to collect insights within one or more about metrics as part of measuring customer • Facilitates cross-organizational conversations
+quality. specialty areas. satisfaction and/or business impact after about metrics as part of measuring customer
+• Measures and communicates the content • Makes decisions based on metrics to improve content is published. satisfaction and/or business impact after
+impact and ensures it aligns with overall quality. • Leverages forum posts and developer surveys content is published.
+business goals. • Partners with cross-functional teams to to collect insights from across the • Guides senior team members in evaluating
+• Communicates and reports on metrics to leverage other insights. organization. forum posts and developer surveys to collect
+cross-functional teams (e.g., engineering, • Measures and communicates the content • Empowers others to make decisions based on insights from across the organization.
+marketing). impact and ensures it aligns with overall metrics to improve quality. • Empowers others to make decisions based on
+business goals. • Reviews dashboards for trends and ensures metrics to improve quality.
+• Communicates and reports on metrics to feedback is incorporated into content • Generates best practices around reviewing
+cross-functional teams (e.g., engineering, strategy and user experiences. dashboards for trends and ensures feedback
+marketing). is incorporated into content strategy and user
+experiences.
+Experimentation • Reviews and/or contributes to content • Envisions, manages, reviews, and/or • Drives experimentation for the organization. • Sets the strategic direction for other teams'
+experiences of the future, observing contributes to content experiences of the • Acts as a stakeholder to guide other teams' experimentation (e.g., project managers).
+customers, and working with product and future, observing customers, and working experimentation (e.g., project managers). • Establishes future-forward strategies for
+research teams. with product and research teams. • Envisions, manages, reviews, contributes to, observing customers and driving
+• Explores and experiments with new content • Explores and experiments with new content and/or drives content experiences of the collaboration with product and research
+delivery channels, structural formats, and delivery channels, structural formats, and future, observing customers, and driving teams.
+content consumption technologies in content consumption technologies in collaboration with product and research • Facilitates the gathering and iteration of data
+conjunction with the larger team. conjunction with the larger team. teams. using build-measure-learn feedback loops.
+• Facilitates the gathering and iteration of data
+using build-measure-learn feedback loops.
+Stakeholder • Supervises collaborative efforts with relevant • Manages collaborative efforts with relevant • Directs collaborative efforts with relevant • Establishes collaborative efforts with relevant
+Collaboration cross-functional stakeholders (e.g., engineers, cross-functional stakeholders (e.g., engineers, cross-functional and cross-organizational cross-functional and cross-organizational
+product managers, marketing, user product managers, marketing, user stakeholders (e.g., engineers, product stakeholders (e.g., engineers, product
+experience [UX], design, research) to create a experience [UX], design, research) to create a managers, marketing, user experience [UX], managers, marketing, user experience [UX],
+
+Tec hni c al W ri ti ng | 14
+Key Responsibilities (Manager)
+Technical Writing M3 (G8) Technical Writing M4 (G9) Technical Writing M5 (G10) Technical Writing M6 (G11)
+trusted and sustainable collaboration with trusted and sustainable collaboration with design, research) to create a trusted and design, research) to create a trusted and
+partner relationships. partner relationships. sustainable collaboration with partner sustainable collaboration with partner
+• Sets accurate expectations for content • Sets accurate expectations for content relationships. relationships.
+delivery and helps lead peers in a timely delivery and helps lead peers in a timely • Builds and owns relationships and • Builds and owns relationships and
+manner. manner. expectations with stakeholders to build expectations with stakeholders to build
+• Drives relationships and expectations with • Drives and manages relationships and rapport and credibility. rapport and credibility.
+stakeholders to build rapport and credibility. expectations with stakeholders to build • Influences project directions and relevant • Establishes project directions and relevant
+• Drives communication between content and rapport and credibility. stakeholders using subject matter expertise. stakeholders using expert knowledge.
+stakeholder teams. • Provides project input and makes suggestions • Drives planning for future work with • Drives long-term planning for future work
+• Negotiates and schedules deadlines. to stakeholders using deep knowledge to stakeholders, such as identifying with stakeholders, such as identifying
+achieve project goals and influence changes. opportunities at a divisional scenario level, opportunities at a divisional scenario level,
+• Drives communication between content and driving executive support for funding or driving executive support for funding or
+stakeholder teams. resources, and guiding execution. resources, and guiding execution.
+• Negotiates and schedules deadlines. • Oversees broad communications between • Facilitates broad communications between
+content and stakeholders. content and stakeholders.
+Vendor/Freelance • Reviews writing tasks completed by vendors, • Reviews writing tasks completed by vendors • Manages procurement of new vendors to • Oversees procurement of new vendors to
+Management as needed. for multiple areas and across teams, as help complete work by owning the help complete work by owning the
+• Ensures vendors receive the direction needed needed. outsourcing and distribution of work to outsourcing and distribution of work to
+for writing tasks. • Ensures vendors receive the direction needed different vendors. different vendors.
+• Scopes projects to assess vendor resourcing for writing tasks. • Facilitates and approves vendor selection • Facilitates and approves vendor selection
+needed. • Scopes projects to assess vendor resourcing process to perform technical writing tasks. process to perform technical writing tasks.
+• Identifies the need for vendor resources while needed. • Determines allocation of budget for • Determines allocation of budget for
+communicating the value of resource • Identifies the need for vendor resources while vendor/freelancer resources. vendor/freelancer resources.
+allocation to senior leadership. communicating the value of resource • Identifies opportunities to leverage vendor • Identifies opportunities to leverage vendor
+• Helps manage relationships with vendors and allocation to senior leadership. resourcing and pursue needed funding. resourcing and pursue needed funding.
+vendor agencies to ensure vendors are • Manages relationships with vendors and • Drives partnerships with procurement and • Drives partnerships with procurement and
+delivering on the scope of work. vendor agencies to ensure vendors are agencies. agencies.
+• Facilitates and approves vendor selection delivering on the scope of work.
+process to perform technical writing tasks. • Facilitates and approves vendor selection
+• Drives partnerships with procurement and process to perform technical writing tasks.
+agencies. • Drives partnerships with procurement and
+agencies.
+
+Tec hni c al W ri ti ng | 15
+Skills
+Skill Key
+1 Critical/Important and Required Upon Hire
+2 Critical/Important and NOT Required Upon Hire
+- Not Important/Critical
+P1 P2 P3 P4 P5 M3 M4 M5 M6
+Skill Cluster Name Skill Name Skill Definition
+(G6) (G7) (G8) (G9) (G10) (G8) (G9) (G10) (G11)
+The ability to develop, understand, and apply domain-specific technical
+Technical Domain
+knowledge to complete assigned work, tasks, and support others in the 1 1 1 1 1 1 1 1 1
+Knowledge and Skills
+organization.
+Knowledge of how to write detailed documents listing the set of goals, user
+Business Acumen and
+Technical Specification scenarios, technical, telemetric, and prioritized requirements needed to build - 2 1 1 1 1 1 1 1
+Insights
+out products or services.
+Knowledge of trends, direction, new products, and changes in the technology
+Technology Industry
+as it applies to a particular area of focus, as well as specific knowledge about - - 2 2 1 2 2 1 1
+Knowledge
+hardware, software, and services.
+The ability to understand and deliver information through a contextually
+Communications appropriate medium that is tailored to the audience. This includes oral and 1 1 1 1 1 1 1 1 1
+written communication in English for work matters.
+The ability to build dynamic relational processes that facilitate communication,
+Community interaction, involvement, and exchange between the organization and the local
+- 2 1 1 1 1 1 1 1
+Engagement and/or open source community in order to produce desirable social and/or
+organizational outcomes.
+The ability to connect with and support customers and other professionals
+within one's field in order to nurture a shared community. This includes skill in
+Community Networking - - 2 1 1 1 1 1 1
+Communication and conveying information through mediums such as blog posts, social media
+Influence posts/conversations, and industry events.
+The ability to garner support for initiatives by gaining the respect of others and
+Influence Others - - 1 1 1 1 1 1 1
+inspiring trust and confidence.
+The ability to engage others in ideas both inside and outside the company with
+Persuasion/Storytelling anecdotes, data, customer scenarios, and product features by leveraging their - - - 1 1 1 1 1 1
+strong communication skills.
+Knowledge of processes for organizing high-level information and evidence
+into a coherent and clear message. This includes the ability to tailor writing
+Research Writing - - 1 1 1 1 1 1 1
+style and level of difficulty based on the audience's familiarity with related
+research or topics.
+
+Tec hni c al W ri ti ng | 16
+The ability to develop content that delivers a compelling, engaging, and useful
+Strategic Content experience to the target audience (e.g., users, customers, stakeholders). This
+2 1 1 1 1 1 1 1 1
+Development includes the ability to understand the goals of content development and to
+identify the appropriate content format.
+Technical The ability to adapt communications around different technologies, products,
+2 1 1 1 1 1 1 1 1
+Communication and services to the audience's level of understanding.
+The ability to communicate and deliver technical information to audience in a
+Technical
+manner that is adapted to their needs, level of understanding, and 2 1 1 1 1 1 1 1 1
+Documentation/Writing
+background.
+The ability to manage conflict, disharmony, and strife among people and
+Conflict Resolution 1 1 1 1 1 1 1 1 1
+situations, while recognizing and addressing sensitivities.
+The skill to influence others, develop and maintain working relationships, and
+Consulting 2 1 1 1 1 1 1 1 1
+deliver results and/or expertise for a client in a professional manner.
+The ability to apply ingenuity, inventiveness, and imagination to the inclusive
+Creativity 1 1 1 1 1 1 1 1 1
+design and construction of a product, service, program, or initiative.
+The ability to systematically gather information from a variety of sources,
+analyze information, identify implications of data, draw conclusions, generate
+alternatives and solutions, and evaluate the consequences of choosing each
+Data Analysis - 1 1 1 1 1 1 1 1
+alternative using quality metrics and data. This includes the ability to convert
+general data and findings into applied, specific information and suggestions
+that add value to business planning and strategies.
+The ability to make decisions in a fast-paced, rapidly changing environment.
+Data Driven Decision
+This includes the ability to define, diagnose, and determine an appropriate
+Making and Problem Decision Making 2 1 1 1 1 1 1 1 1
+resolution, recommendation, or decision while considering alternatives and
+Solving
+factors (e.g., resources, costs, tradeoffs).
+The ability to understand problems others are trying to describe, receive and
+interpret feedback from multiple perspectives, and then take action on
+Feedback 1 1 1 1 1 1 1 1 1
+feedback. This includes the ability to review others' work and provide
+constructive and actionable feedback.
+The ability to anticipate user and team needs related to company priorities and
+Prioritization - - 1 1 1 1 1 1 1
+strategy and then arrange, prioritize, and shape work to meet objectives.
+The ability to identify problems and review related information to develop and
+Problem Solving 1 1 1 1 1 1 1 1 1
+evaluate options and implement solutions.
+Knowledge of and the ability to follow and apply the overall process for
+Content Lifecycle 2 1 1 1 1 1 1 1 1
+creating, monitoring, improving, and retiring content.
+The ability to use software applications to collaboratively manage the creation
+Product Development Content Management
+and modification of digital content. (e.g., document management, digital asset 2 2 1 1 1 1 1 1 1
+and Lifecycle Systems (CMS)
+management, record retention).
+Management
+Knowledge of the overall process for developing, releasing, and maintaining
+Product Lifecycle products. This includes knowledge of the roles and responsibilities of - - 1 1 1 1 1 1 1
+engineering and other functions, major phases, checkpoints, and deliverables.
+
+Tec hni c al W ri ti ng | 17
+This also includes the ability to drive the execution of each phase of the
+development lifecycle.
+Knowledge of using user-centered design, which consists of evaluating user
+User-Centered Design desires at each phase of the iterative design process. This includes pursuing 1 1 1 1 1 1 1 1
+user insights throughout the process to ensure ideal user design.
+The ability to establish and promote diversity and inclusion in multiple aspects.
+This may include the ability to identify high-performing and diverse talent,
+Diversity Promotion acknowledge/provide accelerated development opportunities and available 1 1 1 1 1 1 1 1 1
+resources, create and maintain an environment of objectivity, open
+communication, and respect.
+The ability and willingness to take initiatives on difficult or challenging tasks,
+Embracing Challenges such as having difficult conversations, driving cultural changes, and/or taking 1 1 1 1 1 1 1 1 1
+the risk of challenging norms.
+The ability to apply principles, systems, tools, and strategic insights to
+Operational Excellence sustainably improve key performance indicator (KPI) metrics and drive - - 1 1 1 1 1 1 1
+operational efficiencies.
+Project and Program
+The ability to be organized, resourceful, and planful. This includes the ability to
+Management
+leverage multiple resources to get things done and lay out tasks in sufficient
+Organization Skills 2 1 1 1 1 1 1 1 1
+detail. This also includes the ability to work on multiple tasks at once without
+losing track, and foresee and plan around obstacles.
+Knowledge of and the ability to carry out the process of planning, organizing,
+and managing tasks and resources to accomplish a well-defined objective. This
+Project Management includes the ability to manage and provide project deliverables, optimize the 2 1 1 1 1 1 1 1 1
+contribution of the people involved, and assess the impact of project decisions
+on quality, productivity, schedules, cost, performance, etc.
+Knowledge of and the ability to assess and confirm that the project is meeting
+Project Quality
+specified requirements and desired outcomes by using success metrics, 1 1 1 1 1 1 1 1 1
+Assurance
+aligning to accepted processes, and iterating as needed.

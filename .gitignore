@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+._*
+
+# Windows
+Thumbs.db
+[Dd]esktop.ini
+
+# Editors
+*.swp
+*.swo
+*~
+
+# Draft state (user-specific, not committed)
+reflections/.draft-reflection-state.json
+reflections/.manager-reflection-reply-state.json

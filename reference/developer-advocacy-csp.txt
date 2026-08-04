@@ -1,0 +1,562 @@
+D ev el o per Adv o ca cy | 1
+Career Stage Profile
+Job Family Group: Product
+Job Family: Developer Advocacy
+Summary
+Job Family Definition Seeks out influencers in the relevant spaces and asks questions, researches, and reviews resources (external and
+internal) to better understand relevant business drivers and key objectives of developers. Leverages an
+understanding of a community's needs to share valuable insights, internal learnings, best practices, samples, etc.,
+to earn trust and ensure a continued relationship. Provides feedback on priorities, emerging user scenarios for
+product improvements. Demonstrates the value and impact of initiatives. Acts as a subject matter expert for
+internal stakeholders regarding the developer community. Builds trust with internal teams through networking
+and engagement regarding product improvement plans and technical audience issues. Scopes and develops
+impactful content assets (e.g., codes, videos, articles, presentations, visuals) and conducts and delivers
+demonstrations to communities. Applies knowledge of relevant products, stakeholders, and resources to inform
+and/or influence an audience. Builds processes and systems to share technical expertise at scale for relevant
+groups, and works across relevant internal teams and experts on specific future technical developments. Identifies
+unaddressed issues and problems and works to either resolve the issue in a timely manner or escalate to an
+appropriate resource to ensure quality service.
+Job Profiles included:
+• P1 – P6 (G6 – G11)
+• M4 – M6 (G9 – G11)
+ Job Profile Summaries
+ Key Responsibilities (Professional/Individual Contributor)
+ Key Responsibilities (Manager)
+ Skills
+
+D ev el o per Adv o ca cy | 2
+Job Profile Summaries
+Job Profile Job Profile Summary
+Developer Advocacy P1 (G6) Assists team members with identifying and learning about the relevant communities and audiences and their common experiences and goals, industry trends, technological developments, and key
+competitors by attending events, engaging on social media, etc. Leverages existing relationships with tech communities, audiences, and/or customers to begin earning trust and establishing positive
+working relationships. Enters feedback data provided by technical audiences and stakeholders regarding product usage, user experience, technical issues, etc. Supports the team's collaboration and
+networking with internal teams regarding important product improvement plans and tech community/audience issues. Learns to develop impactful content assets and observes demonstrations to
+our communities. Gathers relevant information regarding technical knowledge of relevant products to help team members inform tech audiences. With guidance and direction continuously seeks out
+learning opportunities, researches and reviews internal/external resources, and asks insightful questions of developers within relevant communities to better understand current technological
+developments, changes, specific technical issues, etc.
+Developer Advocacy P2 (G7) Supports others in learning about and understanding the relevant communities and audiences and their common experiences and goals, industry trends, technological developments, and key
+competitors by attending meetings with community/audience members, attending events, engaging on social media, etc. Leverages existing relationships with tech communities, audiences, and/or
+customers to begin developing an understanding of a community's needs and sharing valuable insight, internal learnings, best practices, samples, etc. Begins to independently collect feedback from
+technical audiences and stakeholders regarding product usage, user experience, technical issues, etc. Begins to build trust with internal teams through networking and engagement regarding
+important product improvement plans and tech community/audience issues. Supports development of impactful content assets and assists with demonstrations to our communities. Listens to the
+needs of relevant communities/audiences and responds accordingly with the relevant information. With guidance and direction continuously seeks out learning opportunities, researches and reviews
+internal/external resources, and asks insightful questions of developers within relevant communities to better understand current technological developments, changes, specific technical issues, etc.
+Developer Advocacy P3 (G8) Learns about and understands the relevant communities and audiences and their common experiences and goals, industry trends, technological developments, and key competitors by meeting with
+community/audience members, attending events, engaging on social media, etc. Acts as an ambassador between tech communities/audiences and GitHub product and marketing teams. Collects
+feedback from technical audiences and stakeholders regarding product usage, user experience, technical issues, etc. Builds trust with internal teams through networking and engagement regarding
+important product improvement plans and tech community/audience issues. Scopes and develops impactful content assets and delivers demonstrations to our communities. Listens to the needs of
+relevant communities/audiences and responds accordingly with the relevant information and by helping to upskill others in order to foster platform/community growth. With guidance and direction
+continuously seeks out learning opportunities, researches and reviews internal/external resources, and asks insightful questions of developers within relevant communities to better understand
+current technological developments, changes, specific technical issues, etc. With support from team members and product teams, works to help resolve user issues and problems in a timely manner,
+and will escalate to an appropriate resource if needed.
+Developer Advocacy P4 (G9) Deeply understands the relevant communities and their common experiences and goals, industry trends, technological developments, and key competitors by meeting with community/audience
+members, attending events, engaging on social media, etc. Acts as a trusted ambassador between tech communities/audiences and GitHub product and marketing teams. Collects and seeks out
+feedback from technical audiences and stakeholders regarding product usage, user experience, technical issues, etc. Builds and enhances trust with internal teams through networking, engagement,
+and consistently raising the bar of one's work regarding important product improvement plans and technical audience issues. Scopes and develops impactful content assets and conducts and
+delivers demonstrations to our communities. Listens to the needs of relevant communities/audiences and responds accordingly with the relevant information and by upskilling others in order to
+positively impact platform/community growth. Continuously seeks out learning opportunities, researches and reviews internal/external resources, and asks insightful questions of
+developers/customers within relevant communities to better understand current technological developments, changes, specific technical issues, etc. Proactively identifies unaddressed issues and
+problems, and diligently works to either resolve the issue in a timely manner, or escalate to an appropriate resource to ensure quality service.
+Developer Advocacy P5 (G10) Acts as a known subject matter expert of the relevant communities by meeting with community/audience members, attending events, engaging on social media, etc. Acts as a trusted and influential
+ambassador between tech communities/audiences and GitHub product and marketing teams. Collects and seeks out feedback from technical audiences and stakeholders regarding cloud-based
+product usage, user experience, technical issues, etc. Builds and enhances trust with internal teams through networking and engagement regarding important product improvement plans and
+technical audience issues. Scopes and develops code and content for community influencers and builds and leads critical demonstrations to our communities. Actively seeks out feedback and listens
+to the needs of relevant communities/audiences and responds accordingly with the relevant information and by upskilling others in order to make a substantial impact on platform/community
+growth. Possesses a drive to constantly seek out learning and teaching opportunities and engages in regular conversations with important developers/customers to better understand current
+technological developments, changes, specific technical issues, etc. Proactively identifies highly impactful unaddressed issues and problems, and diligently works to either resolve the issue in a timely
+manner, or mobilize other resources to address the issue before it negatively impacts developers/customers.
+
+D ev el o per Adv o ca cy | 3
+Developer Advocacy P6 (G11) Leverages advanced knowledge when acting as a subject matter expert of the relevant communities and their common experiences and goals, industry trends, technological developments, and key
+competitors by meeting with community/audience members, attending events, engaging on social media, etc. Acts as a key ambassador between tech communities/audiences and GitHub product
+and marketing teams. Oversees processes to ensure feedback from technical audiences and stakeholders regarding cloud-based product usage, user experience, technical issues, etc. Guides the team
+on which key stakeholders/groups internally to build relationships with, and how best to navigate and mobilize resources. Scopes and develops code and content for community influencers and
+executives. Actively seeks out feedback and listens to the needs of relevant communities/audiences and responds accordingly with the relevant information and by upskilling others in order to make
+a substantial impact on platform/community growth. Possesses a drive to constantly seek out learning and teaching opportunities and engages in regular conversations with important
+developers/customers to better understand current technological developments, changes, specific technical issues, etc. Independently looks for partner-to-partner opportunities and makes
+connections between regional and global partners. Works within their respective engineering organization to get access to correct application programming interfaces (APIs) to enable successful
+offer delivery.
+Developer Advocacy M4 (G9) Deeply understands the relevant communities by meeting with community/audience members, attending events, engaging on social media, etc. Acts as a trusted ambassador between tech
+communities/audiences and GitHub product and marketing teams. Sets up processes and checkpoints to ensure user feedback is being collected and shared across relevant product groups. Directs
+the team on which key stakeholders/groups internally to build relationships with, and coaches team members on how best to navigate and mobilize resources. Coaches team members on creating
+sample code and content, and conducting demonstrations to our communities. Actively seeks out feedback and listens to the needs of relevant communities/audiences and responds accordingly
+with the relevant information and by upskilling others in order to make a substantial impact on platform/community growth. Provides team members with learning opportunities, and encourages
+regular education and awareness activities such as reading Websites/blogs, dialoguing with influential users in relevant communities, etc. Fields questions and concerns from team members
+regarding any unaddressed issues and problems, and supports team in the mobilization of resources to take quick and effective action to address the issue. In addition, this role has people
+management responsibilities including driving employee growth and development, executing projects, and managing performance.
+Developer Advocacy M5 (G10) Acts as a known subject matter expert of the relevant communities by meeting with community/audience members, attending events, engaging on social media, etc. Acts as a trusted thought leader
+within tech communities/audiences and GitHub product and marketing teams. Creates processes to ensure user feedback is being collected and shared across relevant product groups and steers key
+conversations with internal and external stakeholders. Acts as a user advocate across the organization to ensure the team's involvement on critical product decisions. Guides the team's development
+of critical engagements with the community and sets up important demonstrations within strategic forums. Actively seeks out feedback and listens to the needs of relevant communities/audiences
+and responds accordingly by upskilling others to make a substantial impact on platform/community growth. Provides team members with learning opportunities, and encourages regular education
+activities such as reading Websites/blogs, dialoguing with influential users in relevant communities, etc. Encourages the team to seek out and identify any unaddressed issues and problems, and
+supports team in the mobilization of resources to take quick and effective action to address the most critical issues. In addition, this role has people management responsibilities including driving
+employee growth and development, executing projects, and managing performance.
+Developer Advocacy M6 (G11) Leverages cutting-edge knowledge when acting as a subject matter expert of the relevant communities and their common experiences by meeting with community/audience members, attending
+events, engaging on social media, etc. Acts as a key ambassador and thought leader within tech communities/audiences and represents GitHub product and marketing teams. Generates cutting-
+edge processes to ensure user feedback is being collected and shared across relevant product groups. Promotes the work of users across the organization to ensure product teams and key
+stakeholders are open to the team's involvement on critical product decisions, improvements/updates, etc. Establishes meaningful connections and facilitates the team's development of critical
+engagements with the community within strategic and high-visibility forums. Champions innovative methods for seeking out feedback and listening to the needs of relevant communities/audiences
+and responding accordingly with the relevant information and by upskilling others. Provides team members with learning opportunities, and encourages regular education and awareness activities
+such as reading Websites/blogs, dialoguing with influential users in relevant communities, etc. Guides team leaders to ensure team members can effectively seek out and identify any unaddressed
+issues and problems. In addition, this role has people management responsibilities including driving employee growth and development, executing projects, and managing performance.
+
+D ev el o per Adv o ca cy | 4
+Key Responsibilities (Professional/Individual Contributor)
+Developer Advocacy P1 (G6) Developer Advocacy P2 (G7) Developer Advocacy P3 (G8) Developer Advocacy P4 (G9) Developer Advocacy P5 (G10)
+Understanding the Tech • Assists team members with • Supports others in learning about • Learns about and understands the • Deeply understands the relevant • Acts as a known subject matter
+Audience/Community identifying and learning about the and understanding the relevant relevant communities and communities and their common expert of the relevant
+relevant communities and communities and audiences and audiences and their common experiences and goals, industry communities and their common
+audiences and their common their common experiences and experiences and goals, industry trends, technological experiences and goals, industry
+experiences and goals, industry goals, industry trends, trends, technological developments, and key trends, technological
+trends, technological technological developments, and developments, and key competitors by meeting with developments, and key
+developments, and key key competitors by attending competitors by meeting with community/audience members, competitors by meeting with
+competitors by attending events, meetings with community/audience members, attending events, engaging on community/audience members,
+engaging on social media, etc. community/audience members, attending events, engaging on social media, etc. attending events, engaging on
+• Develops an introductory level of attending events, engaging on social media, etc. • Possesses an expert knowledge of social media, etc.
+knowledge of the relevant set of social media, etc. • Possesses a working knowledge the relevant set of GitHub and/or • Possesses an expert knowledge of
+GitHub and open-source • Develops a working knowledge of of the relevant set of GitHub and open-source products/services the relevant set of GitHub
+products/services and general the relevant set of GitHub and open-source products/services and general issues and their products/services and general
+issues and their potential impact open-source products/services and general issues and their potential impact to the broader issues and their potential impact
+to the broader and general issues and their potential impact to the broader audience/community. to the broader
+audience/community. potential impact to the broader audience/community. • Seeks out influencers in the audience/community and
+audience/community. • With assistance, seeks out relevant spaces and asks anticipates future changes within
+• Follows detailed instructions to influencers in the relevant spaces questions, researches, and reviews the relevant spaces.
+seek out influencers in the and asks questions, researches, resources (external and internal) • Strategically seeks out influencers
+relevant spaces and ask pre- and reviews resources (external to better understand relevant in the relevant spaces and asks
+written questions, research, and and internal) to better understand business drivers and key questions, researches, and reviews
+review resources (external and relevant business drivers and key objectives of developers. resources (external and internal)
+internal) to aid the team in better objectives of communities. to better understand relevant
+understanding relevant business business drivers and key
+drivers and key objectives of objectives of communities.
+communities.
+Building Trusted • Leverages existing relationships • Leverages existing relationships • Acts as an ambassador between • Acts as a trusted ambassador • Acts as a trusted and influential
+Relationships with tech communities, audiences, with tech communities, audiences, tech communities/audiences and between tech ambassador between tech
+and/or customers to begin and/or customers to begin GitHub product and marketing communities/audiences and communities/audiences and
+earning trust and establishing developing an understanding of a teams. GitHub product and marketing GitHub product and marketing
+positive working relationships. community's needs and sharing • Develops an understanding of a teams. teams.
+valuable insight, internal community's needs and shares • Leverages an understanding of a • Utilizes an understanding of a
+learnings, best practices, samples, valuable insights, internal community's needs to share community's needs to share
+etc. learnings, best practices, samples, valuable insights, internal valuable insights, internal
+• to begin to earn trust and help etc., to begin to earn trust, learnings, best practices, samples, learnings, stories, best practices,
+cultivate existing relationships. establish positive working etc., to earn trust and ensure a samples, and general know-how
+continued relationship. to maintain status within the
+
+D ev el o per Adv o ca cy | 5
+Key Responsibilities (Professional/Individual Contributor)
+Developer Advocacy P1 (G6) Developer Advocacy P2 (G7) Developer Advocacy P3 (G8) Developer Advocacy P4 (G9) Developer Advocacy P5 (G10)
+relationships, and cultivate deep • Fosters collaboration and community and act as a thought
+and long-lasting relationships. interconnectedness for other leader.
+team members to be able to • Mentors and sponsors others
+leverage existing relationships. within the team on how to gain
+visibility and trust within a
+community.
+Internal Advocacy and • Enters feedback data provided by • Begins to independently collect • Collects feedback from technical • Collects and seeks out feedback • Collects and seeks out feedback
+Impact technical audiences and feedback from technical audiences and stakeholders from technical audiences and from technical audiences and
+stakeholders regarding product audiences and stakeholders regarding product usage, user stakeholders regarding product stakeholders regarding cloud-
+usage, user experience, technical regarding product usage, user experience, technical issues, etc., usage, user experience, technical based product usage, user
+issues, etc., and shares with experience, technical issues, etc., and shares with relevant team issues, etc., and shares with experience, technical issues, etc.,
+relevant team members. and shares with relevant team members and product teams. relevant team members and and shares with relevant team
+• Uses detailed instructions to members. • Engages through established and product teams. members and product teams.
+prepare documentation about • With guidance, engages through informal channels to provide • Communicates actionable • Communicates clearly and
+technical feedback from tech established and informal channels technical feedback from users to feedback clearly and effectively to effectively to the relevant product
+communities/customers that will to provide technical feedback internal stakeholders. the relevant product groups, groups and advocates for and
+be shared with internal from tech communities/customers • Follows up to ensure the feedback advocates for urgent and long- influences urgent and long-term
+stakeholders. to internal stakeholders. has been correctly understood term improvements and updates, improvements and updates.
+• Learns the process of working • Assists in following up to ensure and works with other team and ensures the relevant actions • Proactively builds and manages
+with other team members to the feedback has been correctly members to clearly communicate are being followed upon through GitHub networks of key
+communicate needed updates understood and working with needed updates and the appropriate mechanisms that stakeholders and shares essential
+and improvements other team members to clearly improvements. sees investment from the relevant information when needed.
+communicate needed updates • Evaluates data and key metrics teams. • Leads and engages through
+and improvements. needed to demonstrate the value • Engages through established and established and informal channels
+• Collects data and key metrics and impact of initiatives. informal channels to provide to provide feedback on priorities,
+needed to demonstrate the value feedback on priorities, emerging emerging user scenarios for
+and impact of initiatives. user scenarios for product product improvements.
+improvements. • Proactively incorporates data and
+• Evaluates and reviews data and other key metrics into findings
+key metrics to demonstrate the regarding value-add and impact
+value and impact of initiatives. of initiatives.
+•
+Supporting Key Internal • Supports the team's collaboration • Begins to build trust with internal • Builds trust with internal teams • Builds and enhances trust with • Builds and enhances trust with
+Initiatives and networking with internal teams through networking and through networking and internal teams through internal teams through
+teams regarding important engagement regarding important engagement regarding important networking, engagement, and networking and engagement
+consistently raising the bar of regarding important product
+
+D ev el o per Adv o ca cy | 6
+Key Responsibilities (Professional/Individual Contributor)
+Developer Advocacy P1 (G6) Developer Advocacy P2 (G7) Developer Advocacy P3 (G8) Developer Advocacy P4 (G9) Developer Advocacy P5 (G10)
+product improvement plans and product improvement plans and product improvement plans and one's work regarding important improvement plans and technical
+tech community/audience issues. tech community/audience issues. tech community/audience issues. product improvement plans and audience issues.
+• With detailed direction, begins to • With limited direction, learns how • Begins to successfully navigate technical audience issues. • Creates and leads highly visible
+learn how to successfully navigate to successfully navigate technology solutions and internal • Combines knowledge of and impactful projects/initiatives.
+technology solutions and internal technology solutions and internal teams to ensure community needs and GitHub • Combines knowledge of
+teams to ensure teams to ensure initiatives/projects gain visibility organizational knowledge to community needs and GitHub
+initiatives/projects gain visibility initiatives/projects gain visibility and the voice of the user is quickly navigate technology organizational knowledge to
+and the voice of the user is and the voice of the user is included in decision making solutions and internal teams to quickly navigate technology
+included in decision making included in decision making processes. ensure initiatives/projects gain solutions and internal teams to
+processes. processes. • Demonstrates sound judgment in visibility and the voice of the user ensure initiatives/projects gain
+• Works on entry-level problems • Develops judgment in project project design and process by is included in decision making visibility and the voice of the user
+that require an analysis of design and process by assisting anticipating potential roadblocks processes. is included in decision making
+multiple factors. team members addressing to employ creative solutions. • Acts as a subject matter expert for processes.
+roadblocks and employing • Works on multi-dimensional internal stakeholders regarding • Acts as a subject matter expert for
+creative solutions. problems that require an analysis the developer community. internal stakeholders regarding
+• Works on problems that require of many factors. • Regularly engages in the developer community.
+an analysis of multiple factors. retrospective evaluations for past • Regularly engages in retrospective
+work and uses them to inform evaluations for past work and uses
+future work. them to inform future work.
+Content Development • Learns to develop impactful • Supports development of • Scopes and develops impactful • Scopes and develops impactful • Scopes and develops code and
+content assets (e.g., sample code, impactful content assets (e.g., content assets (e.g., codes, videos, content assets (e.g., codes, videos, content for community influencers
+data sets, demos) and observes codes, videos, articles, articles, presentations, visuals) articles, presentations, visuals) and builds and leads critical
+demonstrations to our presentations, visuals) and assists and delivers demonstrations to and conducts and delivers demonstrations to our
+communities. with demonstrations to our our communities. demonstrations to our communities.
+• Gains limited understanding of communities. • Understands broader platform communities. • Drives a variety of interactions
+broader platform feature sets and • Gains greater understanding of feature sets and best practices, • Consistently optimizes asset type across various technical forums,
+best practices, and supports broader platform feature sets and and embeds them within the and quality to meet or exceed social media outlets, and support
+others in embedding them within best practices, and embeds them content. team goals. sites to promote awareness within
+the content. within the content. • Participates and speaks at various • Understands broader platform the community and provide best
+• Participates at various technical • Participates at various technical technical forums, social media, feature sets and best practices, practices, solutions, etc.
+forums, social media, and support forums, social media, and support and support sites to help educate and embeds them within the • Leads content-based projects and
+sites to meet the community and sites to help team members the community and provide best content. works with other team members
+learn more about best practices, educate the community and practices, solutions, etc., as well as • Facilitates and leads conversations to drive projects to completion.
+solutions, etc., as well as at events provide best practices, solutions, at events (e.g., Hackathons, and demonstrations in various • Represents GitHub at high
+(e.g., Hackathons, community etc., as well as at events (e.g., community engagements, in- technical forums, social media visibility events (e.g., Hackathons,
+engagements, in-person, virtual, Hackathons, community person, virtual, own events, and outlets, and support sites to help community engagements, in-
+own events, and partner events) engagements, in-person, virtual, partner events) and other educate the community and person, virtual, own events, and
+
+D ev el o per Adv o ca cy | 7
+Key Responsibilities (Professional/Individual Contributor)
+Developer Advocacy P1 (G6) Developer Advocacy P2 (G7) Developer Advocacy P3 (G8) Developer Advocacy P4 (G9) Developer Advocacy P5 (G10)
+and other meetups/events to own events, and partner events) meetups/events to support talks provide best practices, solutions, partner events) and other
+engage with the community. and other meetups/events to and engage with the community. etc. meetups/events to deliver talks
+engage with the community. • Represents GitHub at events (e.g., and engage with the community.
+Hackathons, community • Coaches, mentors and leads other
+engagements, in-person, virtual, advocates in presenting and
+own events, and partner events) demoing at social events.
+and other meetups/events to
+deliver talks and engage with the
+community.
+Community Impact • Gathers relevant information • Listens to the needs of relevant • Listens to the needs of relevant • Listens to the needs of relevant • Actively seeks out feedback and
+regarding technical knowledge of communities/audiences and communities/audiences and communities/audiences and listens to the needs of relevant
+relevant products to help team responds accordingly with the responds accordingly with the responds accordingly with the communities/audiences and
+members inform tech audiences. relevant information. relevant information and by relevant information and by responds accordingly with the
+• Learns about tools, programming • Develops competence in applying helping to upskill others in order upskilling others in order to relevant information and by
+models and practices, etc., with knowledge of relevant products, to foster platform/community positively impact upskilling others in order to make
+communities in group settings to stakeholders, and resources to growth. platform/community growth. a substantial impact on
+help solve specific issues and inform an audience. • With assistance, applies • Applies deep knowledge of platform/community growth.
+problems facing knowledge of relevant products, relevant products, stakeholders, • Applies deep knowledge of
+developers/customers. stakeholders, and resources to and resources to inform and/or relevant products, stakeholders,
+inform an audience. influence an audience. resources, and knowledge of
+GitHub strategic objectives to
+influence and inspire an audience.
+Technical Expertise • With guidance and direction • With guidance and direction • With guidance and direction • Continuously seeks out learning • Possesses a drive to constantly
+continuously seeks out learning continuously seeks out learning continuously seeks out learning opportunities, researches and seek out learning and teaching
+opportunities, researches and opportunities, researches and opportunities, researches and reviews internal/external opportunities and engages in
+reviews internal/external reviews internal/external reviews internal/external resources (e.g., Websites/blogs, regular conversations with
+resources (e.g., Websites/blogs, resources (e.g., Websites/blogs, resources (e.g., Websites/blogs, academic papers), and asks important developers/customers
+academic papers), and asks academic papers), and asks academic papers), and asks insightful questions of to better understand current
+insightful questions of developers insightful questions of developers insightful questions of developers developers/customers within technological developments,
+within relevant communities to within relevant communities to within relevant communities to relevant communities to better changes, specific technical issues,
+better understand current better understand current better understand current understand current technological etc.
+technological developments, technological developments, technological developments, developments, changes, specific • Applies and practices technical
+changes, specific technical issues, changes, specific technical issues, changes, specific technical issues, technical issues, etc. expertise via sample coding,
+etc. etc. etc. • Applies and practices technical programming, etc.
+• Follows guidance to practice • Develops technical expertise via • Applies and practices technical expertise of multiple technical • Builds processes and systems to
+technical expertise via sample sample coding, programming, expertise via sample coding, areas within a domain to create share technical expertise at scale
+
+D ev el o per Adv o ca cy | 8
+Key Responsibilities (Professional/Individual Contributor)
+Developer Advocacy P1 (G6) Developer Advocacy P2 (G7) Developer Advocacy P3 (G8) Developer Advocacy P4 (G9) Developer Advocacy P5 (G10)
+coding, programming, reference, reference, infrastructure, business programming, reference, reusable artifacts via sample for relevant groups, and works
+infrastructure, business application creation, etc. infrastructure, business coding, programming, within the industry to help inform
+application creation, etc. • Learns to identify issues and application creation, etc. infrastructure, reference, business future technical developments
+• Develops an understanding of coordinates with others to assist • Effectively assists partners and application creation, etc. (e.g., participating in advisory
+how to assist partners and partners and customers with customers with issues in their • Builds processes and systems to boards), and gains a broader
+customers with issues in their issues in their primary area. primary area, and prioritizes and share technical expertise at scale knowledge of adjacent
+primary area. communicates issues proactively. for relevant groups, and works technologies and incorporates
+across relevant internal teams and new knowledge into current areas
+experts on specific future of expertise.
+technical developments (e.g.,
+participating in advisory boards),
+and gains a broader knowledge of
+adjacent technologies and
+incorporates new knowledge into
+current areas of expertise.
+Problem Solving N/A N/A • With support from team members • Proactively identifies unaddressed • Proactively identifies highly
+and product teams, works to help issues and problems, and impactful unaddressed issues and
+resolve user issues and problems diligently works to either resolve problems, and diligently works to
+in a timely manner, and will the issue in a timely manner, or either resolve the issue in a timely
+escalate to an appropriate escalate to an appropriate manner, or mobilize other
+resource if needed. resource to ensure quality service. resources to address the issue
+• Collaborates across GitHub teams • Partners across GitHub teams and before it negatively impacts
+on systemic issues that require a collaborates on deeper systemic developers/customers.
+coordinated effort, end-to-end issues that require a coordinated • Strategically influences GitHub
+understanding of the community effort, end-to-end understanding stakeholders and teams to
+experience, and ongoing follow of the community experience, and address deeper systemic issues
+through to resolve. ongoing follow through to that require a coordinated effort,
+resolve. end-to-end understanding of the
+community experience, and
+embedding oneself into the
+community/audience (e.g., joining
+an advisory board).
+
+D ev el o per Adv o ca cy | 9
+Key Responsibilities (Manager)
+Developer Advocacy M4 (G9) Developer Advocacy M5 (G10) Developer Advocacy M6 (G11)
+Understanding the • Deeply understands the relevant communities and their • Acts as a known subject matter expert of the relevant • Leverages cutting-edge knowledge when acting as a subject
+Tech common experiences and goals, industry trends, technological communities and their common experiences and goals, matter expert of the relevant communities and their common
+Audience/Community developments, and key competitors by meeting with industry trends, technological developments, and key experiences and goals, industry trends, technological
+community/audience members, attending events, engaging on competitors by meeting with community/audience members, developments, and key competitors by meeting with
+social media, etc., and works to share knowledge and best attending events, engaging on social media, etc., and drives community/audience members, attending events, engaging on
+practices to the team to help facilitate learning. the team's pursuit of audience/community knowledge and social media, etc., and oversees team leader(s)' pursuit of
+• Possesses an expert knowledge of the relevant set of GitHub learning and builds best practices. audience/community knowledge and learning and builds best
+products/services and general issues and their potential impact • Possesses an expert knowledge of the relevant set of GitHub practices.
+to the broader audience/community. products/services and general issues and their potential impact • Possesses an expert knowledge of the relevant set of GitHub
+• Seeks out influencers in the relevant spaces and asks questions, to the broader audience/community and anticipates future products/services and general issues and their potential impact
+researches, and reviews resources (external and internal) to changes within the relevant spaces. to the broader audience/community and sets long-term
+better understand relevant business drivers and key objectives • Strategically seeks out influencers in the relevant spaces and strategies for addressing future changes within the relevant
+of tech communities. asks questions, researches, and reviews resources (external and spaces.
+internal) to better understand relevant business drivers and key • Champions the process of seeking out influencers in the
+objectives of tech communities. relevant spaces and asks questions, researches, and reviews
+• Leverages industry knowledge, community credibility, and resources (external and internal) to better understand relevant
+relationships to creates sustainable tech communities. business drivers and key objectives of tech communities.
+• Sets strategies and initiatives for leveraging industry
+knowledge, community credibility, and relationships to create
+sustainable tech communities.
+Building Trusted • Acts as a trusted ambassador between tech • Acts as a trusted and influential ambassador and thought • Acts as a key ambassador and thought leader within tech
+Relationships communities/audiences and GitHub product and marketing leader within tech communities/audiences and GitHub product communities/audiences and represents GitHub product and
+teams. and marketing teams. marketing teams.
+• Builds processes and tools for the team to leverage within their • Drives team engagement across communities/ecosystems to • Establishes connections and aligns teams across
+respective communities to ensure insights, internal learnings, encourage and incentivize the sharing of valuable insights, communities/ecosystems to encourage and incentivize the
+stories, best practices, etc., are being shared and internal learnings, stories, best practices, samples, etc. sharing of valuable insights, internal learnings, stories, best
+communicated. • Guides the team on building influential relationships with practices, samples, etc.
+• Coaches team members on building influential relationships strategic users and key internal stakeholders. • Directs the team on building influential relationships with
+with important users. strategic users and key internal stakeholders.
+Internal Advocacy • Sets up processes and checkpoints to ensure user feedback is • Creates processes and checkpoints to ensure user feedback is • Generates cutting-edge processes and checkpoints to ensure
+and Impact being collected and shared across relevant product groups. being collected and shared across relevant product groups and user feedback is being collected and shared across relevant
+• Regularly discusses ongoing user issues during team meetings drives and steers key conversations with internal and external product groups and drives and steers key conversations with
+to ensure feedback is being shared, heard, and taken action on stakeholders in order to shape the organization's perspective internal and external stakeholders in order to shape the
+within the relevant groups. on key user issues. organization's perspective on key customer/developer issues.
+
+D ev el o per Adv o ca cy | 10
+Key Responsibilities (Manager)
+Developer Advocacy M4 (G9) Developer Advocacy M5 (G10) Developer Advocacy M6 (G11)
+• Develops the ideal user story/feature/product and relays this to • Regularly discusses strategic and high-impact user issues • Aligns teams on strategic and high-impact user issues during
+the relevant product and marketing teams and collaborates during team meetings to ensure feedback is being shared, team meetings to ensure feedback is being shared, heard, and
+with and gains buy in from the team. heard, and taken action on within the relevant groups. taken action on within the relevant groups.
+• Leads others in evaluating data and key metrics to • Develops the ideal user story/feature/product and relays this to • Oversees development of the ideal user story/feature/product
+demonstrate the value and impact of initiatives. the relevant product and marketing teams and collaborates and relays this to the relevant product and marketing teams
+with and gains buy in from the team. and collaborates with and gains buy in from the team.
+• Discusses results, insights, and next steps of impact analyses • Oversees and provides strategic insight during impact
+with internal/external stakeholders. discussions with internal/external stakeholders.
+Supporting Key • Directs the team on which key stakeholders/groups internally • Acts as a user advocate across the organization to ensure • Promotes the work of users across the organization to ensure
+Internal Initiatives to build relationships with, and coaches team members on how product teams and key stakeholders are aware of and open to product teams and key stakeholders are aware of and open to
+best to navigate and mobilize resources. the team's involvement on critical product decisions, the team's involvement on critical product decisions,
+• Leads highly visible and impactful projects/initiatives. improvements/updates, etc. improvements/updates, etc.
+• Acts as a subject matter expert for internal stakeholders • Leads highly visible and impactful projects/initiatives. • Leads highly visible and impactful projects/initiatives.
+regarding key tech communities/audiences. • Acts as a subject matter expert for internal stakeholders • Acts as a subject matter expert for internal stakeholders
+regarding tech communities/audiences. regarding tech communities/audiences.
+• Partners with teams throughout the organization to
+successfully organize and execute internal initiatives.
+Content • Coaches team members on creating sample code and content, • Guides the team's development of critical engagements with • Establishes meaningful connections and facilitates the team's
+Development and conducting demonstrations to our communities. the community, sets up important demonstrations, and may development of critical engagements with the community, sets
+• Facilitates and leads conversations and demonstrations in lead demonstrations within strategic and high visibility forums. up important demonstrations, and may lead demonstrations
+various technical forums, social media outlets, and support • Drives a variety of interactions across various technical forums, within strategic and high visibility forums.
+sites to help educate the community and provide best social media outlets, and support sites to promote awareness • Proactively oversees a variety of interactions across various
+practices, solutions, etc. within the community and provide best practices, solutions, technical forums, social media outlets, and support sites to
+• Collaborates with relevant GitHub teams (e.g., Product, etc. promote awareness within the community and provide best
+Marketing) to help define and create content, and help validate • Collaborates with relevant GitHub teams and critical practices, solutions, etc.
+overarching narratives and stories related to specific customers stakeholders (e.g., Product, Marketing) to help define and • Leverages expert knowledge to oversee collaboration with
+communities. create content, and help validate complex and overarching relevant GitHub teams and critical stakeholders (e.g., Product,
+• Represents GitHub at events (e.g., Hackathons, community narratives and stories related to specific customers Marketing) to help define and create content, and help validate
+engagements, in-person, virtual, own events, and partner communities. complex and overarching narratives and stories related to
+events) and other meetups/events. • Represents GitHub at high visibility events (e.g., Hackathons, specific customers communities.
+community engagements, in-person, virtual, own events, and • Represents GitHub at high visibility events (e.g., Hackathons,
+partner events) and other meetups/events to deliver talks and community engagements, in-person, virtual, own events, and
+engage with the community. partner events) and other meetups/events to deliver talks and
+engage with the community.
+Community Impact • Actively seeks out feedback and listens to the needs of relevant • Actively seeks out feedback and listens to the needs of relevant • Champions innovative methods for seeking out feedback and
+communities/audiences and responds accordingly with the communities/audiences and responds accordingly with the listening to the needs of relevant communities/audiences and
+
+D ev el o per Adv o ca cy | 11
+Key Responsibilities (Manager)
+Developer Advocacy M4 (G9) Developer Advocacy M5 (G10) Developer Advocacy M6 (G11)
+relevant information and by upskilling others in order to make relevant information and by upskilling others in order to make responding accordingly with the relevant information and by
+a substantial impact on platform/community growth. a substantial impact on platform/community growth. upskilling others in order to make a substantial impact on
+• Builds knowledge of relevant products, stakeholders, and • Builds knowledge of relevant products, stakeholders, and platform/community growth.
+resources within the team and coaches them on how to inform resources within the team and coaches them on how to inform • Defines and communicates strategic objectives and scope
+and/or influence an audience. and/or influence an audience. regarding knowledge of relevant products, stakeholders, and
+• Proactively shares a broad knowledge of tools, programming • Proactively shares a broad knowledge of tools, programming resources within the team and coaches them on how to inform
+models and practices, etc., with communities in one-on-one models and practices, etc., with communities in one-on-one and/or influence an audience.
+and group settings to help solve specific issues and problems and group settings to help solve specific issues and problems • Proactively shares a broad knowledge of tools, programming
+facing users. facing users. models and practices, etc., with communities in one-on-one
+• Encourages team to develop a listening frame of mind when • Encourages team to develop a listening frame of mind when and group settings to help solve specific issues and problems
+engaging with users, and assists team members with the engaging with users, and assists team members with the facing users.
+appropriate tools and information to help respond to specific appropriate tools and information to help respond to specific • Determines team member needs and alleviates roadblocks to
+user needs. user needs. help team develop a listening frame of mind when engaging
+with users, and assists team members with the appropriate
+tools and information to help respond to specific user needs.
+Technical Expertise • Provides team members with learning opportunities, and • Provides team members with learning opportunities, and encourages regular education and awareness activities such as reading
+encourages regular education and awareness activities such as Websites/blogs, dialoguing with influential users in relevant communities, etc.
+reading Websites/blogs, dialoguing with influential users in • Ensures team members have the time and resources to apply and practice newly acquired technical expertise via sample coding,
+relevant communities, etc. programming, etc.
+• Ensures team members have the time and resources to apply • Continuously engages in learning opportunities to ensure a breadth of technical expertise.
+and practice newly acquired technical expertise via sample • Builds processes and systems to share technical expertise at scale for relevant groups, and works within the industry to help inform
+coding, programming, etc. future technical developments (e.g., participating in advisory boards), and gains a broader knowledge of adjacent technologies and
+• Continuously engages in learning opportunities to ensure a incorporates new knowledge into current areas of expertise.
+breadth of technical expertise.
+• Builds processes and systems to share technical expertise at
+scale for relevant groups, and works across relevant internal
+teams and experts on specific future technical developments
+(e.g., participating in advisory boards), and gains a broader
+knowledge of adjacent technologies and incorporates new
+knowledge into current areas of expertise.
+Problem Solving • Fields questions and concerns from team members regarding • Encourages the team to seek out and identify any unaddressed • Guides leaders to ensure team members can effectively seek
+any unaddressed issues and problems, and supports team in issues and problems, and supports team in the mobilization of out and identify any unaddressed issues and problems, and
+the mobilization of resources to take quick and effective action resources to take quick and effective action to address the facilitates team in the mobilization of resources to take quick
+to address the issue. most critical issues. and effective action to address the most critical issues.
+• Partners across GitHub teams and collaborates on deeper • Strategically influences GitHub stakeholders and teams to • Directs strategic planning with GitHub stakeholders and teams
+systemic issues that require a coordinated effort to resolve, address deeper systemic issues that require a coordinated to address deeper systemic issues that require a coordinated
+
+D ev el o per Adv o ca cy | 12
+Key Responsibilities (Manager)
+Developer Advocacy M4 (G9) Developer Advocacy M5 (G10) Developer Advocacy M6 (G11)
+end-to-end understanding of the community experience, and effort to resolve, end-to-end understanding of the community, effort to resolve, end-to-end understanding of the community,
+coaches other team members on how best to navigate GitHub and embedding oneself into the community/audience (e.g., and embedding oneself into the community/audience (e.g.,
+to ensure effective cross-team collaboration. joining an advisory board), and coaches other team members joining an advisory board), and guides other team members on
+on how best to navigate GitHub to ensure effective cross-team how best to navigate GitHub to ensure effective cross-team
+collaboration. collaboration.
+• Develops a point of view on key solutions to product-related • Establishes a future-focused point of view on key solutions to
+issues and influences key internal groups to adopt product-related issues and influences key internal groups to
+recommendations and drive end-to-end user stories. adopt recommendations and drive end-to-end user stories.
+
+D ev el o per Adv o ca cy | 13
+Skills
+Skill Key
+1 Critical/Important and Required Upon Hire
+2 Critical/Important and NOT Required Upon Hire
+- Not Important/Critical
+P5 M5 M6
+Skill Cluster Name Skill Name Skill Definition P1 (G6) P2 (G7) P3 (G8) P4 (G9) M4 (G9)
+(G10) (G10) (G11)
+GitHub Products Knowledge of GitHub products, services, relevant domain expertise, and the
+- - 2 2 2 2 2 1
+Knowledge ability to participate in technical conversations related to products/services.
+Business Acumen and The ability to quickly learn the general concepts and principles in a technical
+Insights domain, clearly explain familiar technologies, solve or analyze technical
+Technical Acumen - 2 1 1 1 1 1 1
+issues or provide useful technical insights, and demonstrate interest and
+curiosity in acquiring knowledge across technical domains.
+The ability to regularly coach peers and stakeholders using catered guidance
+and training to drive action towards desired outcomes. This includes
+Coaching ensuring peers and stakeholders feel supported and informed, understand a - - - 2 1 1 1 1
+vision, develop needed skills, and are empowered to effectively own future
+decision-making and goals.
+The ability to understand and deliver information through a contextually
+Communications appropriate medium that is tailored to the audience. This includes oral and 2 2 1 1 1 1 1 1
+written communication in English for work matters.
+The ability to interact with and influence community leaders, groups, and
+Community Outreach organizations to understand and determine ways to address the needs and - - 2 1 1 1 1 1
+concerns of local, state, national, and/or global communities.
+Communication and
+The ability to garner support for initiatives by gaining the respect of others
+Influence Influence Others - - 2 1 1 1 1 1
+and inspiring trust and confidence.
+The ability to conduct business in multiple cultures. This includes the ability
+Intercultural Skills to recognize and adapt to cultural differences in work and communication - - 2 1 1 1 1 1
+styles across regions or countries.
+The ability to achieve mutually satisfying agreements in negotiations with
+others by listening to their objectives to effectively communicate the
+Intra-Team Negotiations - - - 2 1 1 1 1
+company's objective, and seeking common ground and collaborative
+solutions.
+The ability to create and deliver formal presentations to others. This includes
+Presentations sharing information on a range of topics in a clear, concise, engaging, and 2 2 1 1 1 1 1 1
+convincing manner; commanding the audience’s attention; developing
+
+D ev el o per Adv o ca cy | 14
+effective presentation materials (e.g., handouts, visual aids); and handling
+questions or argumentative positions from the audience.
+The ability to establish, maintain, and manage relationships with key
+individuals/groups outside the organization (e.g., government, community,
+industry, professional organizations) and understand that others view
+Spokesperson - - - 1 1 1 1 1
+her/him as a spokesperson or representative for the company. This includes
+the ability to present the company's perspective to various external
+organizations.
+The ability to sell and communicate value within and outside the company
+Storytelling - - - 1 1 1 1 2
+by sharing stories and historical anecdotes.
+The ability to adapt communications around different technologies,
+Technical Communication - - 2 1 1 1 1 1
+products, and services to the audience's level of understanding.
+The ability to manage conflict, disharmony, and strife among people and
+Conflict Resolution - - 1 1 1 1 1 1
+situations, while recognizing and addressing sensitivities.
+The skill to influence others, develop and maintain working relationships,
+Consulting - - 1 1 1 1 1 1
+and deliver results and/or expertise for a client in a professional manner.
+The ability to develop and maintain positive working relationships with
+supervisors, staff, managers, customers, and vendors. This includes
+Business Relationship
+expressing empathy and compassion when dealing with the needs and 2 2 1 1 1 1 1 1
+Management
+problems of others, being approachable, taking time to address the
+concerns of coworkers, and treating others with respect and dignity.
+Customer and Partner Customer Industry Knowledge of a specific industry (e.g., healthcare, education, technology,
+- - 2 2 2 1 1 1
+Relationship Management Knowledge finance) including trends, competition, etc.
+The ability to demonstrate products to potential customers and discuss
+Product Demonstration - 2 2 1 1 2 2 2
+features and capabilities and address product-related concerns.
+The ability to prepare and facilitate training, enablement, or coaching
+Training sessions to partners, or customers based on understanding of needs and - - - 1 1 2 1 1
+goals.
+The ability to collect information and identify fundamental patterns/trends
+in complex data. This includes the ability to gather, integrate, and interpret
+Analytical Thinking - 1 1 1 1 1 1 1
+information from several sources, use information to generate insights, and
+make decisions.
+The ability to systematically gather information from a variety of sources,
+Data Driven Decision analyze information, identify implications of data, draw conclusions,
+Making and Problem generate alternatives and solutions, and evaluate the consequences of
+Data Analysis - - - 2 2 1 1 1
+Solving choosing each alternative using quality metrics and data. This includes the
+ability to convert general data and findings into applied, specific information
+and suggestions that add value to business planning and strategies.
+The ability to identify rules, principles, trends, patterns and/or relationships
+Data Interpretation that explain facts, data, or other information; and to analyze information, - - - 1 1 1 1 1
+make correct inferences, and draw accurate conclusions.
+
+D ev el o per Adv o ca cy | 15
+The ability to make decisions in a fast-paced, rapidly changing environment.
+This includes the ability to define, diagnose, and determine an appropriate
+Decision Making - - 1 1 1 1 1 1
+resolution, recommendation, or decision while considering alternatives and
+factors (e.g., resources, costs, tradeoffs).
+The ability to evaluate the qualifications of applicants, conduct interviews,
+and make hiring recommendations for interested and qualified applicants.
+Hiring - - - - 1 1 1 1
+This includes the ability to ensure a diverse workforce and to predict future
+staffing needs.
+The ability to identify problems and review related information to develop
+Problem Solving - 2 1 1 1 1 1 1
+and evaluate options and implement solutions.
+The ability to define and implement procedures and/or technologies to deal
+Change Management with changes in the environment. This may include adapting to change - - - 1 1 1 1 1
+and/or affecting change.
+Cross-Functional Team The ability to lead and manage individuals and teams across various
+- - - 1 1 1 1 1
+Leadership business functions and unite them to achieve shared goals.
+Ability to advise or guide others to develop specific knowledge, skills, or
+Mentoring - - - 2 2 2 1 1
+abilities
+Project and Program The ability to apply principles, systems, tools, and strategic insights to
+Management Operational Excellence sustainably improve key performance indicator (KPI) metrics and drive - - 2 1 1 1 1 1
+operational efficiencies.
+Knowledge of and the ability to carry out the process of planning,
+organizing, and managing tasks and resources to accomplish a well-defined
+objective. This includes the ability to manage and provide project
+Project Management - - - 1 1 1 1 1
+deliverables, optimize the contribution of the people involved, and assess
+the impact of project decisions on quality, productivity, schedules, cost,
+performance, etc.

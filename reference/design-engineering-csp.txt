@@ -1,0 +1,318 @@
+D es i gn Engi neer i ng | 1
+Career Stage Profile
+Job Family Group: Design
+Job Family: Design Engineering
+Summary
+Job Family Definition Contributes to the end-to-end creation of high-quality user interfaces, ensuring that design intent is preserved
+while considering real-world technical constraints and dependencies. Ships scalable, accessible, and performant
+UI solutions, partnering with Product, Engineering, and Design (EPD) stakeholders during the development
+lifecycle to meet product vision and release timelines. Prototypes features of various complexity, participating in
+architectural discussions for front-end systems, and communicating technical strategies to various audiences.
+Leads in quality and craft by defining success metrics for user experience, accessibility, and performance while
+establishing design patterns that elevate overall UI standards. Drives cross-disciplinary collaboration, leveraging
+technical knowledge and curiosity to push boundaries and raise the bar for UI craft across
+the platform.
+Job Profiles included:
+• P3 – P7 (G8 – G12)
+ Job Profile Summaries
+ Key Responsibilities (Professional/Individual Contributor)
+ Skills
+
+D es i gn Engi neer i ng | 2
+Job Profile Summaries
+Job Profile Job Profile Summary
+Design Engineering P3 (G8) Ensures design intent is preserved while optimizing for technical constraints through close collaboration with designers. Assists with creating and validating technical proposals
+for UI solutions, testing design feasibility through rapid prototyping and proof-of-concepts. Collaborates with other team members to work with other stakeholders. Implements
+high-quality, performant code that brings design concepts to life while maintaining GitHub's design principles and technical standards. Stays current with emerging front-end
+technologies and design trends to continuously learn and improve craft and help teams make informed implementation decisions. Under guidance from engineers/designers,
+supports cross-disciplinary practices and front-end and design-system capabilities.
+Design Engineering P4 (G9) Surfaces dependencies, risks, and trade-offs early, sequencing work to preserve design intent within real technical constraints. Creates and validates architectural proposals for
+front-end systems by testing design hypotheses through code and refining implementation approaches. Independently works with other stakeholders. Independently develops
+comprehensive quality plans, defining success metrics for performance, accessibility, and user experience. Learns and refines their thinking about, and ideates methods of
+implementing emerging front-end technologies and design practices that elevate the quality of their team's user experiences. Inspires engineers/designers, leveling up cross-
+disciplinary practices and champion high-leverage front-end and design-system capabilities.
+Design Engineering P5 (G10) Proactively identifies cross-team dependencies, sequences delivery, and communicates architectural trade-offs and impact to senior leadership. Leads the creation and validation
+of architectural proposals front-end systems spanning multiple products, considering quality, performance, and maintainability. Drives alignment with other stakeholders. Creates
+alignment on UI implementation approaches and dependencies across teams while setting technical context for senior leadership on architectural decisions and their impact on
+product strategy. Comes prepared with their opinion on and ideates methods of implementing emerging front-end technologies and design practices that elevate the
+organization's front-end direction. Mentors and uplevels designers and engineers across domains, cultivating a community of practice around design systems and front-end
+excellence.
+Design Engineering P6 (G11) Makes critical architectural calls with explicit trade-offs, influencing roadmaps and investment through clear, executive-ready narratives. Oversees design-to-code architecture
+discussions across the ecosystem, establishing technical vision for how design and engineering converge at scale. Influences decisions with Design, Product, and Engineering
+leadership on requirements for complex UI and customer experience challenges. Works closely with Engineering, Product, and Design to develop innovative approaches that
+fundamentally advance GitHub's technical capabilities and user experience standards. Partners with Design/Product/Engineering leadership to set org-level strategy and technical
+vision for GitHub’s most complex UI and experience challenges. Elevates craft across the organization, mentoring senior/staff engineers and designers, building communities of
+practice, and setting hiring/quality bars.
+Design Engineering P7 (G12) Defines a technical roadmap that sets the direction for GitHub-wide front-end architecture, innovating industry-leading user interface (UI) strategies. Innovates scalable design-to-
+code frameworks that align engineering and design at the organizational level, establishing technical paradigms. Champions strategic discussions with design engineering leaders
+to address GitHub's most complex UI and customer experience challenges. Leads collaboration with Engineering, Product, and Design teams to advance GitHub’s core technical
+capabilities and elevate user experience. Directs the development of organizational strategies in partnership with senior leadership, guiding GitHub's most advanced and
+innovative UI and experience advancements. Empowers high-performing engineers and designers, promoting a robust community of practice and setting high craft and
+innovation standards.
+
+D es i gn Engi neer i ng | 3
+Key Responsibilities (Professional/Individual Contributor)
+Design Engineering P3 (G8) Design Engineering P4 (G9) Design Engineering P5 (G10) Design Engineering P6 (G11) Design Engineering P7 (G12)
+Design Engineering • Ensures design intent is preserved • Surfaces dependencies, risks, and • Proactively identifies cross-team • Makes critical architectural calls • Defines a technical roadmap that
+Design Implementation while optimizing for technical trade-offs early, sequencing work dependencies, sequences with explicit trade-offs, sets the direction for GitHub-wide
+constraints through close to preserve design intent within delivery, and communicates influencing roadmaps and front-end architecture, innovating
+collaboration with designers. real technical constraints. architectural trade-offs and investment through clear, industry-leading user interface
+• Implements responsive, • Independently ships scalable, impact to senior leadership. executive-ready narratives. (UI) strategies.
+accessible, and performant user maintainable accessible, and • Leads identification of cross-team • Acts as a domain expert in front- • Functions as GitHub’s thought
+interfaces (UI) using modern performant user interfaces (UI), dependencies and develops end architecture, design systems, leader on design engineering,
+front-end frameworks with cross- collaborating with other teams to standards for scalable, and/or niche areas in design shaping the global landscape of
+browser compatibility. ensure seamless integration with maintainable, accessible, and technology. front-end architecture and design
+• Supports collaboration with cross- design systems and consistency performant user interface (UI) that • Shapes the strategic direction of systems.
+disciplinary partners throughout across downstream product advance design systems scalable, maintainable, accessible, • Represents GitHub’s point of view
+all stages of design and features. integration and influence and performant user interface (POV) in external forums,
+development, applying design • Proactively collaborates with downstream product features. (UI). advancing and redefining industry
+principles and front-end cross-disciplinary partners • Leads collaboration with cross- • Represents GitHub’s point of view standards through proven
+engineering to implement optimal throughout all stages of design disciplinary partners throughout (POV) externally with thought technical leadership, shaping
+solutions. and development, applying all stages of design and leadership that advances industry GitHub's design implement
+• Estimates delivery timelines for UI design principles and front-end development, leveraging deep standards and strengthens strategy.
+work and executes project plans. engineering to develop optimal expertise in both design and developer experience, defining • Identifies and establishes cross-
+solutions, filling gaps between front-end engineering to drive how teams approach UI functional initiatives, driving
+design and coding. cohesive user experiences across implementation from prototype organizational leadership
+• Partners with multiple groups. to production. alignments that influence long-
+Engineering/Product/Design • Leads cross-functional planning • Oversees initiatives across the term product vision and strategic
+(EPD) stakeholders to execute with Engineering/Product/Design organization and identifies priorities.
+project plans and ensure UI (EPD) stakeholders, defining strategic opportunities for cross-
+implementations align with strategic UI project plans that functional collaboration, driving
+product vision and release shape product vision and stakeholder alignment across
+timelines. influence release priorities. Engineering/Product/Design
+(EPD) stakeholders on product
+vision and release priorities.
+Design Engineering • Assists with creating and • Creates and validates architectural • Leads the creation and validation • Oversees design-to-code • Innovates scalable design-to-
+Prototyping & Feasibility validating technical proposals for proposals for front-end systems of architectural proposals front- architecture discussions across code frameworks that align
+UI solutions, testing design by testing design hypotheses end systems spanning multiple the ecosystem, establishing engineering and design at the
+feasibility through rapid through code and refining products, considering quality, technical vision for how design organizational level, establishing
+prototyping and proof-of- implementation approaches. performance, and maintainability. and engineering converge at technical paradigms.
+concepts. • Leads prototyping initiatives for scale. • Pioneers cutting-edge
+complex features and • Trailblazes new approaches (e.g., approaches (e.g., artificial
+communicates compelling artificial intelligence [AI]-assisted intelligence [AI]-assisted user
+
+D es i gn Engi neer i ng | 4
+Key Responsibilities (Professional/Individual Contributor)
+Design Engineering P3 (G8) Design Engineering P4 (G9) Design Engineering P5 (G10) Design Engineering P6 (G11) Design Engineering P7 (G12)
+technical solutions to diverse user experience [UX], experience [UX],
+audiences, building excitement motion/rendering systems), motion/rendering systems),
+for innovative approaches. mitigating risk via breakthrough proactively identifying and
+prototypes and drive platform mitigating risk through strategic
+adoption. prototype development
+methodologies.
+Design Engineering • Collaborates with other team • Independently works with other • Drives alignment with other • Influences decisions with Design, • Champions strategic discussions
+Collaboration members to work with other stakeholders (e.g., product stakeholders (e.g., product Product, and Engineering with design engineering leaders
+stakeholders (e.g., product managers, technical leads, managers, technical leads, leadership on requirements for to address GitHub's most
+managers, technical leads, designers) to determine UI designers) across multiple teams complex UI and customer complex UI and customer
+designers) to determine UI requirements and contributes to on customer requirements and experience challenges. experience challenges.
+requirements and technical discussions on technical execution technical approaches for complex • Sets cross-product front-end • Develops and defines the long-
+implementation approaches for for customer-facing features UI scenarios. strategy and architecture, aligning term front-end roadmap, aligning
+features. within their team's domain. • Leads cross-functional partners Product Management, Design, Product Management, Design,
+• Collaborates with designers, • Leads the technical execution of (e.g., Product Management, and Engineering on customer and Engineering leadership teams
+engineers, and PMs to translate UI design requirements into polished Design, Engineering) to turn requirements and multi-team on execution plans to meet
+requirements into functional, product outcomes. strategic product outcomes into execution plans. overarching customer
+user-friendly interfaces. robust and scalable UI requirements.
+requirements.
+Design Engineering • Implements high-quality, • Independently develops • Creates alignment on UI • Works closely with Engineering, • Leads collaboration with
+Quality & Craft performant code that brings comprehensive quality plans, implementation approaches and Product, and Design to develop Engineering, Product, and Design
+design concepts to life while defining success metrics for dependencies across teams while innovative approaches that teams to advance GitHub’s core
+maintaining GitHub's design performance, accessibility, and setting technical context for fundamentally advance GitHub's technical capabilities and elevate
+principles and technical standards. user experience. senior leadership on architectural technical capabilities and user user experience.
+• Participates in design reviews to • Leads design reviews, establishing decisions and their impact on experience standards. • Establishes organization-wide
+provide technical feasibility patterns and refactors that raise product strategy. • Drives implementation of standards, crafting design and
+feedback and suggests the team’s baseline and unblock • Leads design reviews at scale to standards for design and code code review strategies that
+enhancements that improve user delivery. ensure cohesive user experiences quality by leading large-scale improve design consistency and
+experience. • Ensures front-end standards are across groups, championing review strategies and frameworks, system fidelity.
+• Reviews code contributions to met and implementations scale interaction/motion standards, defining cohesive user • Champions industry-leading
+ensure quality standards for appropriately. design-system fidelity, and taste. experiences across groups, methodologies that define
+performance, accessibility, and • Applies debugging tools and • Provides holistic technical shaping interaction/motion customer engagement strategies
+maintainability. browser developer tools to guidance during code reviews standards, and advancing design- and establish a new benchmark
+• Applies debugging tools and diagnose complex issues across solution areas, ensuring system fidelity and taste. for GitHub’s interface design.
+browser developer tools to proactively and leverages implementations meet GitHub's • Advocates for design engineering • Sets and empowers team in
+diagnose standard issues performance metrics to best practices that shape the adopting organizational practices
+
+D es i gn Engi neer i ng | 5
+Key Responsibilities (Professional/Individual Contributor)
+Design Engineering P3 (G8) Design Engineering P4 (G9) Design Engineering P5 (G10) Design Engineering P6 (G11) Design Engineering P7 (G12)
+proactively and monitors implement optimization quality standards and scale organization's approach to in debugging and performance
+performance metrics to identify opportunities. appropriately. customer-facing technology and optimization, ensuring git
+optimization opportunities. • Identifies technical dependencies • Drives technical excellence trailblazes methodologies that solution integrity and sustained
+• Documents front-end patterns and constraints early during the through expertise in debugging, define GitHub's interface design innovation.
+and best practices while design phase, ensuring feasible performance optimization, and standards for years to come. • Constructs strategies to manage
+conveying technical constraints solutions preserve design intent. accessibility standards across • Advancing organizational and the most complex technical
+and possibilities to design • Defines and owns quality plans product boundaries. industry practices in debugging, dependencies, ensuring solutions
+stakeholders. with success metrics (e.g., • Anticipates and resolves complex, performance optimization, and preserve and extend initial design
+• Supports quality plans with accessibility, cross-team technical accessibility, setting long-term intent.
+success metrics (e.g., accessibility, internationalization/localization, dependencies and constraints, technical direction across product • Sets uncompromising standards
+internationalization/localization, user experience KPIs), measuring shaping strategies that preserve boundaries. for performance and accessibility,
+user experience KPIs), and reporting progress. design intent. • Influences organizational strategy internationalization/localization,
+contributing to the measurement • Raises the quality bar platform- by proactively anticipating and and craft, establishing
+and reporting of progress. wide, establishes performance, resolving complex, cross-team comprehensive metrics and SLAs
+budgets and success metrics (e.g., technical dependencies and to measure at scale.
+accessibility, constraints, shaping long-term
+internationalization/localization, approaches that preserve and
+user experience KPIs), enforcing advance design intent.
+quality standards via reviews and • Establishes non-negotiables for
+governance. performance, accessibility,
+internationalization/localization,
+and craft, setting budgets/service
+level agreements (SLAs) and
+ensuring measurement at scale.
+Design Engineering • Stays current with emerging • Learns and refines their thinking • Comes prepared with their • Partners with Design/Product/Engineering leadership to set org-level
+Curiosity & Initiative front-end technologies and about, and ideates methods of opinion on and ideates methods strategy and technical vision for GitHub’s most complex UI and experience
+design trends to continuously implementing emerging front-end of implementing emerging front- challenges.
+learn and improve craft and help technologies and design practices end technologies and design • Proactively identifies opportunities to push boundaries before market
+teams make informed that elevate the quality of their practices that elevate the demands arise.
+implementation decisions. team's user experiences. organization's front-end direction.
+• Stays current with front-end • Identifies and pursues
+trends and begins to identify opportunities to push boundaries
+opportunities to push boundaries in response to emerging product
+in response to emerging product and market needs.
+and market trends.
+
+D es i gn Engi neer i ng | 6
+Key Responsibilities (Professional/Individual Contributor)
+Design Engineering P3 (G8) Design Engineering P4 (G9) Design Engineering P5 (G10) Design Engineering P6 (G11) Design Engineering P7 (G12)
+Design Engineering • Under guidance from • Inspires engineers/designers, • Mentors and uplevels designers • Elevates craft across the • Empowers high-performing
+Leadership & Talent engineers/designers, supports leveling up cross-disciplinary and engineers across domains, organization, mentoring engineers and designers,
+Management cross-disciplinary practices and practices and champion high- cultivating a community of senior/staff engineers and promoting a robust community of
+front-end and design-system leverage front-end and design- practice around design systems designers, building communities practice and setting high craft
+capabilities. system capabilities. and front-end excellence. of practice, and setting and innovation standards.
+• Learns to support the production • Collaborates with designers and • Leads by example and mentors hiring/quality bars. • Champions innovative technical
+of extensible, maintainable code engineers across domains to designers and engineers across • Guides team through demonstrations and proof-of-
+that raises the bar for UI craft at facilitate the production of domains to produce extensible, groundbreaking technical concepts, positioning GitHub as a
+GitHub. extensible, maintainable code that maintainable code that raises the demonstrations and proof-of- pioneer in developer experience
+• Supports the development of raises the bar for UI craft at bar for UI craft at GitHub. concepts that inspire and AI.
+standard quality plans by seeking GitHub. • Guides others in developing organizational change and • Fosters excellence across design
+out guidance and direction from • Contributes to developing comprehensive quality plans with position GitHub as the industry and code intersections, mentoring
+senior team members. standard quality plans with success metrics that scale across leader in developer experience design engineers to push the
+success metrics that scale across the platform. and AI. boundaries of UI and design craft
+the platform. • Establishes industry-leading best at GitHub.
+practices for the intersection of
+design and code, mentoring
+design engineers and product
+designers across the organization
+to elevate craft excellence.
+
+D es i gn Engi neer i ng | 7
+Skills
+Skill Key
+1 Critical/Important and Required Upon Hire
+2 Critical/Important and NOT Required Upon Hire
+- Not Important/Critical
+Skill Name Skill Definition P3 (G8) P4 (G9) P5 (G10) P6 (G11) P7 (G12)
+Knowledge of accessibility standards, such as the Web Content Accessibility
+Accessibility Technology Guidelines, and assistive technologies that are commonly used by people with 2 2 1 1 1
+disabilities, such as NVDA, JAWS, and VoiceOver.
+Knowledge of artificial intelligence and data science including machine learning,
+Artificial Intelligence (AI) data mining, machine vision, search knowledge graphs, or natural language 2 2 1 1 1
+processing.
+The ability to apply knowledge about program coding to perform peer reviews of
+computer source code with the intent to find and fix mistakes, find security
+Code Review 2 1 1 1 1
+loopholes, and correct inefficiencies overlooked in the initial development phase,
+improving overall code quality.
+The ability to work together in a cooperative effort to achieve a common goal.
+Collaboration This may also include the promotion of teamwork and the linkage of intra and 1 1 1 1 1
+interdepartmental cooperation.
+The ability to understand and deliver information through a contextually
+Communications appropriate medium that is tailored to the audience. This includes oral and 1 1 1 1 1
+written communication in English for work matters.
+The ability to manage conflict, disharmony, and strife among people and
+Conflict Resolution 2 1 1 1 1
+situations, while recognizing and addressing sensitivities.
+The skill to influence others, develop and maintain working relationships, and
+Consulting - 2 1 1 1
+deliver results and/or expertise for a client in a professional manner.
+The ability to apply ingenuity, inventiveness, and imagination to the inclusive
+Creativity 1 1 1 1 1
+design and construction of a product, service, program, or initiative.
+The ability to communicate across teams, which consists of communicating
+through various means. This includes presentations and other communication
+Cross-team Communication - 1 1 1 1
+methods to receive consensus, buy-in, or informing key stakeholders of current
+process/project status.
+The ability to make decisions in a fast-paced, rapidly changing environment. This
+includes the ability to define, diagnose, and determine an appropriate resolution,
+Decision Making 1 1 1 1 1
+recommendation, or decision while considering alternatives and factors (e.g.,
+resources, costs, tradeoffs).
+
+D es i gn Engi neer i ng | 8
+The ability to create and maintain a collection of reusable components,
+guidelines, and best practices that ensure consistency, efficiency, and a cohesive
+Design Systems user experience across products. This includes the ability to bridge design and 2 1 1 1 1
+development by providing a shared language, allowing design engineers to build
+high-quality, accessible, and performant user interfaces.
+The ability to utilize a design thinking approach during the design process to
+consider issues, retrieve information, and resolve problems. This includes the
+Design Thinking 1 1 1 1 1
+ability to match people's needs with technological feasibility and/or business
+strategy that transfer into customer value and market opportunity.
+Knowledge of and the ability to apply novel, emerging technology to GitHub's
+Emerging Technologies - 1 1 1 1
+products, services, and processes to create business value.
+Knowledge of and the ability to utilize various front-end technologies (e.g.,
+Front-End Development
+including JavaScript/TypeScript, HTML/CSS) and modern frameworks (e.g., React, 1 1 1 1 1
+Programming
+Vue, Svelte).
+The ability to design groupings of content, navigate between bodies of content,
+Information Architecture and apply user experience when finding information among a large body of 1 1 1 1 1
+content.
+Knowledge of the design between users and products through interaction design.
+Interaction Design 1 1 1 1 1
+This includes understanding how to integrate user desires into product design.
+The ability to navigate localization processes for content developed. This includes
+adapting content's translation to a specific country or region to account for
+Localization 2 2 1 1 1
+differences in markets, geopolitical contexts, cultures, and wording (e.g., dialects,
+idioms).
+The ability to apply principles, systems, tools, and strategic insights to sustainably
+Operational Excellence improve key performance indicator (KPI) metrics and drive operational - 1 1 1 1
+efficiencies.
+The ability to identify problems and review related information to develop and
+Problem Solving 1 1 1 1 1
+evaluate options and implement solutions.
+Suggests and encourages generation of new ideas for existing processes, new
+Process and Solution solutions based on customer needs, and changes to improve team culture.
+- 1 1 1 1
+Curiosity Champions creative solutions and proposes new ideas that can empower the
+organization to lead and stay ahead of competition.
+Knowledge of and the ability to carry out the process of planning, organizing, and
+managing tasks and resources to accomplish a well-defined objective. This
+Project Management includes the ability to manage and provide project deliverables, optimize the - 1 1 1 1
+contribution of the people involved, and assess the impact of project decisions on
+quality, productivity, schedules, cost, performance, etc.
+The ability to manage project stakeholders and stakeholder engagements. This
+Project Stakeholder
+includes identifying stakeholders, prioritizing their concerns, managing - 1 1 1 1
+Management
+expectations, and planning and monitoring stakeholder engagements.
+
+D es i gn Engi neer i ng | 9
+Knowledge of and ability to develop prototypes in support of an iterative
+Prototyping development/design process. This includes knowledge of and ability to assess 1 1 1 1 1
+needs, create a prototype, and produce a model.
+Knowledge of and the ability to follow systematic and continuing processes of
+checking to see whether a product, service, or process is meeting specified
+Quality Assurance 1 1 1 1 1
+requirements. This includes knowledge of quality measurements and defined
+standards.
+The ability to analyze and recognize how a system's parts interrelate and how
+sub-systems work over time within the context of larger systems. This includes
+Systems Thinking 2 1 1 1 1
+the ability to view systems with a broad perspective and identify overall
+structures, patterns, and cycles.
+The ability to adapt communications around different technologies, products, and
+Technical Communication - 2 1 1 1
+services to the audience's level of understanding.
+The ability to use knowledge of user experience (UX), user experience design
+(UXD, UED), or experience design (XD) to enhance user satisfaction with a
+User Experience (UX) 1 1 1 1 1
+product. This includes improving the usability and accessibility provided in the
+interaction with the product.
+The ability to use imagery, color, shapes, typography, and form to enhance
+Visual Design 1 1 1 1 1
+usability and user experiences.
+

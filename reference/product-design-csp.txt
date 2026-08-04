@@ -1,0 +1,811 @@
+P r o duct D es i gn | 1
+Career Stage Profile
+Job Family Group: Design
+Job Family: Product Design
+Summary
+Job Family Definition Defines product experiences and collaborates with team members, managers, and developers to shepherd end-
+to-end product experiences from concept to ship for products based on user and business needs and insights.
+Generates solutions to improve product designs. Creates prototypes and flows for new products and uses various
+tools to demonstrate designs to teams, customers, and/or stakeholders. Collaborates with Engineering for
+successful design implementation and performs quality checks to ensure designs are accessible and implemented
+as intended. Ensures designs meet expectations from various perspectives (e.g., accessibility, brand, platform user
+experience), in multiple interfaces (e.g., desktop, mobile), and with different user configurations and scenarios
+(e.g., empty states, edge cases).
+Job Profiles included:
+• P1 – P6 (G6-G11)
+• M3 – M6 (G8-G11)
+ Job Profile Summaries
+ Key Responsibilities (Professional/Individual Contributor)
+ Key Responsibilities (Manager)
+ Skills
+
+P r o duct D es i gn | 2
+Job Profile Summaries
+Job Profile Job Profile Summary
+Product Design P1 (G6) Follows guidance to execute work delivery. Offers suggestions in ideation meetings to improve product designs. Collaborates with Engineering to aid in successful design implementation and
+performs quality checks to ensure the final design is implemented as intended with guidance. Produces visual designs from concept to delivery under the guidance of senior team members. Assists
+with the creation of wireframes, journey maps, user jobs and scenarios, task flows, and personas in support of interaction designs for hardware and/or software-based experiences under the direction
+of a senior team member. Uses prescribed design system primitives and components. Learns to convey work to peers and managers within immediate team so that the audience understands. Works
+with a senior team member to create a compelling narrative for a specific product or feature. Assists with fundamental tasks on projects with team members, product managers, program managers,
+and developers to define and iterate on new and existing product features.
+Product Design P2 (G7) Follows guidance and starts to estimate individual schedules for work delivery. Assists in ideation meetings to improve product designs and generates ideas for a specific, isolated design element.
+Prototypes for new products and features as efficiently as possible under the guidance of senior team members. Collaborates with Engineering to aid in successful design implementation and
+performs quality checks to ensure the final design is implemented as intended with guidance. Produces visual designs from concept to delivery with limited guidance from senior team members.
+Creates wireframes, journey maps, jobs to be done, scenarios, task flows, and personas in support of interaction designs for hardware and/or software-based experiences under the direction of a
+senior team member. Uses prescribed design system primitives and components. Conveys work to peers and managers within immediate team so that the audience understands. Works with a senior
+team member to create a compelling narrative for a specific product or feature. Assists with fundamental tasks on projects with team members, product managers, program managers, and
+developers to define and iterate on new and existing product features.
+Product Design P3 (G8) Estimates individual schedule for work delivery. Generates ideation solutions to improve product designs. Prototypes for new products and features as efficiently as possible. Collaborates with
+Engineering to aid in successful design implementation and performs quality checks to ensure the final design is implemented as intended with minimal guidance. Produces visual designs from
+concept to delivery. Creates wireframes, journey maps, jobs to be done, scenarios, task flows, and personas in support of interaction designs for hardware and/or software-based experiences with
+minimal guidance. Contributes to the use and adoption of latest design system primitives and components. Conveys work to peers and managers within their job family team(s) so that the audience
+understands. Recognizes and communicates user needs to team members and recommends ideas to create a compelling narrative for the product. Performs fundamental tasks on projects with team
+members, product managers, program managers, and developers to define and iterate on new and existing product features.
+Product Design P4 (G9) Estimates individual schedule(s) and creates schedules and planning systems across teams. Generates and leads ideation solutions for products involving moderately complex challenges to improve
+product designs. Prototypes for new products as efficiently as possible. Leads collaborations with Engineering for successful design implementation and performs quality checks to ensure the final
+design is implemented as intended. Produces high quality designs from concept to delivery. Creates wireframes, journey maps, jobs to be done, scenarios, task flows, and personas in support of
+interaction designs for hardware and/or software-based experiences. Contributes to the use and adoption of latest design system primitives and components. Communicates with cross-disciplinary
+teams inside and across job families through all stages of ideation, design, and development. Communicates a compelling, convincing product story to a specific audience. Works with team
+members, product managers, program managers, and developers to define and iterate on new and existing product features.
+Product Design P5 (G10) Creates alignment on schedules and plan definitions, including dependency tracking, across the job family. Generates and leads others to generate ideation solutions for products involving complex
+challenges to improve product designs. Leads prototyping at large scale for new products as efficiently as possible. Leads collaborations with teams across the company for successful design
+implementation and leads quality checks to ensure the final design is implemented as intended. Leads the production of visual designs from concept to delivery. Identifies and evangelizes for
+scenarios that will ultimately turn into interaction designs for hardware and/or software-based experiences. Leads the use and adoption of latest design system primitives and components. Sets
+context for senior leadership stakeholders. Communicates a compelling, convincing product story to a variety of audiences in a way that inspires excitement and support of the product. Leads
+collaborations with team members, product managers, program managers, and developers to define and iterate on new and existing product features, as well as to make decisions on behalf of the
+organization.
+Product Design P6 (G11) Creates alignment on schedules and plan definitions, including dependency tracking, across solution areas. Sets direction across the team for ideation to generate solutions for products involving
+highly complex challenges to improve product designs. Leads prototyping at large scale for new products as efficiently as possible. Leads collaborations with teams across the company to provide
+oversight for successful design implementation and leads quality checks to ensure the final design is implemented as intended. Leads the production of visual designs from concept to delivery. Leads
+the strategy for and the development and enhancement of product user experiences via creation of interactive prototypes and detailed flows for new and existing hardware and/or software-based
+experiences while serving as a liaison between users and products. Sets direction for use and adoption of design system primitives and components. Conveys a vision for a product, process, or a
+system to senior leadership. Provides thought leadership to the team regarding storytelling while connecting the story to relevant designs across the company. Leads workstreams with team
+members, product managers, program managers, and developers to define and iterate on new and existing product features, as well as to make decisions on behalf of the organization.
+
+P r o duct D es i gn | 3
+Product Design M3 (G8) Estimates individual schedule(s) and creates schedules and planning systems across teams. Generates and leads ideation solutions to improve product designs. Leads prototyping for new products as
+efficiently as possible. Provides guidance to support collaboration with teams across the company for successful design implementation and supervises quality checks to ensure the final design is
+implemented as intended. Produces visual designs from concept to delivery. Creates wireframes, journey maps, jobs to be done, scenarios, task flows, and personas in support of interaction designs
+for hardware and/or software-based experiences. Contributes to the use and adoption of latest design system primitives and components. Communicates with cross-disciplinary teams inside and
+across job families through all stages of ideation, design, and development. Communicates a compelling, convincing product story to a specific audience. Works with team members, product
+managers, program managers, and developers to define and iterate on new and existing product features. In addition, this role has people management responsibilities including driving employee
+growth and development, executing projects, and managing performance.
+Product Design M4 (G9) Creates alignment on schedules and plan definitions, including dependency tracking, across the job family. Directs others to generate ideation solutions for products involving moderately complex
+challenges to improve product designs. Leads prototyping for new products as efficiently as possible. Directs collaboration with teams across the company for successful design implementation and
+manages quality checks to ensure the final design is implemented as intended. Leads the production of visual designs from concept to delivery. Identifies and evangelizes for scenarios that will
+ultimately turn into interaction designs for hardware and/or software-based experiences. Leads the use and adoption of latest design system primitives and components. Sets context for senior
+leadership stakeholders. Communicates a compelling, convincing product story to a variety of audiences in a way that inspires excitement and support of the product. Leads collaboration with team
+members, product managers, program managers, and developers across teams to define and iterate on new and existing product features, as well as to make decisions on behalf of the organization.
+In addition, this role has people management responsibilities including driving employee growth and development, executing projects, and managing performance.
+Product Design M5 (G10) Creates alignment on schedules and plan definitions, including dependency tracking across solution areas. Sets direction across teams for ideation to generate solutions for products involving
+complex challenges to improve product designs. Leads prototyping at large scale for new products as efficiently as possible. Directs collaboration with teams across the company to provide oversight
+for successful design implementation and manages quality checks to ensure the final design is implemented as intended. Leads the production of visual designs from concept to delivery. Leads the
+strategy for and the development and enhancement of product user experiences while serving as a liaison between users and products. Sets direction for use and adoption of design system
+primitives and components. Conveys a vision for a product, process, or a system to senior leadership. Provides thought leadership to the team regarding storytelling, while connecting the story to
+relevant designs across the company. Leads workstreams with team members, product managers, program managers, and developers across the organization to define and iterate on new and
+existing product features, as well as to make decisions on behalf of the organization. In addition, this role has people management responsibilities including driving employee growth and
+development, executing projects, and managing performance.
+Product Design M6 (G11) Leads long-term planning and defining of user needs to anticipate user experiences across products. Leads long-term vision and planning for large-scale ideation plans, processes, and procedures to
+ensure optimal product designs across an entire family of products. Oversees work as a thought leader for new products and directs design concepts to prototype across all major products of
+significant impact. Establishes collaborations with teams across the company to provide oversight for successful design implementation to ensure the final design is implemented as intended. Leads
+the long-term vision and strategy for the production of visual designs from concept to delivery to design products. Leads the long-term strategy and vision for the development and enhancement of
+product user experiences while serving as a high-level liaison between users and products. Sets the direction and long-term vision for the use of design systems as they evolve. Conveys a long-term
+vision for a product, process, or to senior leadership. Provides thought leadership to the team regarding storytelling while connecting across the company. Leads long-term strategy and vision for
+team leaders and develops relationships with key executives. In addition, this role has people management responsibilities including driving employee growth and development, executing projects,
+and managing performance.
+
+P r o duct D es i gn | 4
+Key Responsibilities (Professional/Individual Contributor)
+Product Design P1 (G6) Product Design P2 (G7) Product Design P3 (G8) Product Design P4 (G9) Product Design P5 (G10) Product Design P6 (G11)
+Define and Plan • Follows guidance to execute • Follows guidance and starts • Estimates individual • Estimates individual • Creates alignment on • Creates alignment on
+work delivery. to estimate individual schedule (e.g., time schedule(s) and creates schedules and plan schedules and plan
+• Follows established schedules (e.g., time requirements) for work schedules and planning definitions, including definitions, including
+guidelines to begin defining requirements) for work delivery. systems across teams. dependency tracking, dependency tracking,
+needs of product designs delivery. • Defines needs of product • Defines and prioritizes across the job family. across solution areas.
+based on multiple factors • Begins to define needs of designs as the owner of a product plans. • Influences the product • Influences the product
+(e.g., user insights, business product designs based on set of experiences/products • Creates clarity for other strategy and leads others in strategy across the product
+needs) with supervision. multiple factors (e.g., user based on multiple factors members of the team. defining needs of large ecosystem and/or solution
+• Helps to identify needs that insights, business needs) (e.g., user insights, business • Begins influencing the and/or complex product areas and leads others in
+are not spoken and raises with supervision. needs) with minimal prioritization of the product designs based on multiple defining needs of large
+them with senior team • Helps to identify needs that supervision. backlog. factors (e.g., user insights, and/or complex product
+members. are not spoken and raises • Identifies needs that are not • Identifies needs that are not business needs). designs based on multiple
+• Supports team in them with senior team spoken and includes them spoken and includes them • Leads team in identifying factors (e.g., user insights,
+developing a synthesis of members. in an end-to-end design in an end-to-end design needs that are not spoken business needs).
+user insights by following • Supports team in plan and process. plan and process. and including them in end- • Strategizes across the team
+clear directions to compare developing a synthesis of • Develops a synthesis of user • Considers multiple factors to-end design plan and for identifying needs that
+with data to identify larger user insights and compares insights and compares with such as user insights and process. are not spoken and
+issues that may not be with data to identify larger data to identify larger issues business needs and begins • Guides others to develop a including them in an end-
+apparent for user needs. issues that may not be that may not be apparent to translate needs into synthesis of user insights to-end design plan and
+• Helps the apparent for user needs. for user needs. product plans. and compare with data to process.
+Engineering/Product/Design • Follows guidance to apply • Collaborates with product • Develops a synthesis of user identify larger issues that • Leads team and strategy for
+(EPD) team to decide on agile methodologies to split management and insights and compares with may not be apparent for development of a synthesis
+how to split a feature in a feature in different development team data to identify larger issues user needs. of user insights and
+different iterations that are iterations that are members to shepherd end- that may not be apparent • Makes the case for compares with data to
+meaningful to users and can meaningful to users and to-end experiences from for user needs. investments in product identify larger issues that
+help the team learn about helps the team learn about concept to ship for • Collaborates with product designs to senior may not be apparent for
+the experience (i.e., ship to the experience (i.e., ship to products. management and leadership. user needs.
+learn). learn). • Follows agile development team • Collaborates with product • Makes the case for
+methodologies to split a members to shepherd end- management and investments in product
+feature in different to-end experiences from development team designs to senior
+iterations that are concept to ship for members to shepherd end- leadership.
+meaningful to users and products. to-end experiences from • Collaborates with senior
+helps the team learn about • Follows agile concept to ship for large product management and
+the experience (i.e., ship to methodologies to split a and/or complex products. development team leaders
+learn). feature in different • Leads the application of to shepherd end-to-end
+• Starts to identify iterations that are agile methodologies to split experiences from concept
+opportunities for building meaningful to users and a feature in different
+
+P r o duct D es i gn | 5
+Key Responsibilities (Professional/Individual Contributor)
+Product Design P1 (G6) Product Design P2 (G7) Product Design P3 (G8) Product Design P4 (G9) Product Design P5 (G10) Product Design P6 (G11)
+experiments to gauge the helps the team learn about iterations that are to ship for large and/or
+appetite for a certain the experience (i.e., ship to meaningful to users and complex products.
+feature. learn). helps the team learn about • Mentors team on applying
+• Identifies opportunities for the experience (i.e., ship to agile methodologies to split
+building experiments to learn). a feature in different
+gauge the appetite for a • Leads experiments to help iterations that are
+certain feature. define high level end-to- meaningful to users and
+end experiences. helps the team learn about
+the experience (i.e., ship to
+learn).
+• Identifies opportunities for
+building experiments to
+gauge the appetite for high
+impact features.
+Ideate • Offers suggestions in • Assists in ideation meetings • Generates ideation • Generates and leads • Generates and leads others • Sets direction across the
+ideation meetings to to improve product designs solutions to improve ideation solutions for to generate ideation team for ideation to
+improve product designs. and generates ideas for a product designs. products involving solutions for products generate solutions for
+• Helps facilitate engagement specific, isolated design • Utilizes a variety of moderately complex involving complex products involving highly
+for an ideation exercise as element. perspectives when ideating challenges (e.g., involving challenges (e.g., involving complex challenges (e.g.,
+part of a design discovery • Helps facilitate engagement (e.g., business, experience, many constraints, needing many constraints, needing involving many constraints,
+process. for an ideation exercise as technology). workarounds, requiring workarounds, requiring needing workarounds,
+• Checks feasibility and part of a design discovery • Synthesizes ideation holistic view of holistic view of requiring holistic view of
+usefulness of ideas with process. solutions into a concise interconnected systems) to interconnected systems) to interconnected systems) to
+peers and product team • Checks feasibility and articulation of user needs improve product designs. improve product designs. improve product designs.
+leaders. usefulness of ideas with and subsequent solutions. • Utilizes a variety of • Brings diverse teams • Manages complexities and
+peers and product team • Facilitates engagement for perspectives when ideating together and provides input provides leadership on the
+leaders. an ideation exercise as part (e.g., business, experience, on the strategic utilization strategic utilization of a
+of a design discovery technology). of a variety of perspectives variety of perspectives
+process. • Synthesizes ideation when ideating (e.g., when ideating (e.g.,
+• Informs the ideation solutions to a concise business, experience, technology, business,
+process using existing articulation of user needs technology). marketing).
+research and makes and subsequent solutions. • Synthesizes ideation • Provides high-level
+recommendations to • Facilitates engagement for solutions for complex feedback and guidance for
+conduct new studies as an ideation exercise as part problems to a concise team members synthesizing
+needed. of a design discovery articulation of user needs ideation solutions for highly
+process. and subsequent solutions. complex problems to a
+concise articulation of user
+
+P r o duct D es i gn | 6
+Key Responsibilities (Professional/Individual Contributor)
+Product Design P1 (G6) Product Design P2 (G7) Product Design P3 (G8) Product Design P4 (G9) Product Design P5 (G10) Product Design P6 (G11)
+• Informs the ideation • Informs the ideation and client needs and
+process using existing process using existing subsequent solutions.
+research and identifies research and identifies • Guides others on the
+needs to conduct new needs to conduct new ideation process using
+studies. studies. existing research and
+identifies needs to conduct
+new studies with
+widespread impact.
+Prototyping • N/A • Prototypes for new • Prototypes for new • Prototypes for new • Leads prototyping at large • Leads prototyping at large
+products and features as products and features as products as efficiently as scale for new products as scale for new products as
+efficiently as possible under efficiently as possible. possible. efficiently as possible. efficiently as possible.
+the guidance of senior team • Uses digital and physical • Uses digital and physical • Provides guidance to other • Provides guidance to other
+members. tools to demonstrate design tools to demonstrate design team members about what team members about what
+• Uses digital and physical to teams, customers, and/or to teams, customers, and/or the prototype should the prototype should
+tools to demonstrate design stakeholders and then stakeholders and then communicate and how to communicate and how to
+to peers and senior team gauge customer gauge feasibility and find the right prototype for create the right prototype
+members to gauge perceptions/needs. customer a problem. for a problem.
+feasibility and customer • Prototypes in accordance perceptions/needs. • Seeks to understand user • Oversees processes to
+needs. with company's brand and • Leverages prototyping needs and propose a understand user needs,
+• Prototypes in accordance guidelines and identifies frameworks in accordance design prototype, evaluate guides others on proposing
+with company's brand and missing elements. with company's brand and its usefulness, and design prototypes,
+guidelines with little • Recommends guidelines, and evolves determine next steps to evaluates design
+feedback from senior team improvements to guidelines guidelines when existing ensure optimal product usefulness, and leads the
+members. when existing guidelines are guidelines are unclear. designs. process of determining
+unclear. • Ensures prototypes are in next steps to ensure
+accordance with company's optimal flows.
+brand and guidelines and • Leads the vision for new
+evolves guidelines when designs based on broad
+existing guidelines are industry insights, provides
+unclear. feedback to leadership
+about proposed designs,
+and collaborates with
+executives to promote
+long-term product design
+visions and buy-in for
+current and proposed
+product designs.
+
+P r o duct D es i gn | 7
+Key Responsibilities (Professional/Individual Contributor)
+Product Design P1 (G6) Product Design P2 (G7) Product Design P3 (G8) Product Design P4 (G9) Product Design P5 (G10) Product Design P6 (G11)
+• Ensures prototypes are in
+accordance with company's
+brand and guidelines, and
+directs the development of
+guidelines when existing
+guidelines are unclear, and
+shares and upholds
+guidelines across teams
+and areas.
+Design Quality • Collaborates with • Collaborates with • Collaborates with • Leads collaborations with • Leads collaborations with • Leads collaborations with
+Engineering to aid in Engineering to aid in Engineering to aid in Engineering for successful teams across the company teams across the company
+successful design successful design successful design design implementation and for successful design to provide oversight for
+implementation and implementation and implementation and performs quality checks to implementation and leads successful design
+performs quality checks to performs quality checks to performs quality checks to ensure the final design is quality checks to ensure the implementation and leads
+ensure the final design is ensure the final design is ensure the final design is implemented as intended. final design is implemented quality checks to ensure the
+implemented as intended implemented as intended implemented as intended • Provides needed as intended. final design is implemented
+with guidance. with guidance. with minimal guidance. deliverables and works with • Ensures deliverables are as intended.
+• Follows clear directions to • Provides support for • Provides needed developers during provided and directs • Ensures deliverables are
+provide support for needed needed deliverables and deliverables and works with implementation to iterate collaboration with provided and directs
+deliverables and contributes contributes to developers during further on designs and developers during collaboration with senior
+to collaborations with collaborations with implementation to iterate ensure optimal designs. implementation to iterate developers and leadership
+developers during developers during further on designs and • Demonstrates ability to further on designs and during implementation to
+implementation to iterate implementation to iterate ensure optimal designs. challenge limitations, ensure optimal designs. iterate further on designs
+further on designs and further on designs and • Develops an aptitude on negotiate with Engineering • Drives negotiations with and ensure optimal
+ensure optimal designs. ensure optimal designs. limitations of what is and Product, adjust to Engineering and Product designs.
+• Develops understanding implementable, and begins Engineering/Product/Design and pushes design agenda • Drives negotiations with
+and ability to ensure to challenge limitations. (EPD) schedules, find forward while finding senior leaders in
+designs meet expectations • Demonstrates familiarity alternatives, and make cases compromises and Engineering and Product
+from various perspectives using the right components for designs to be alternatives. and pushes design agenda
+(e.g., accessibility, brand, and principles that are part implemented in a certain • Guides team and reviews forward while finding
+platform user experience). of the design system. way. designs to ensure designs compromises and
+• Starts to ensure designs • Ensures own designs meet • Demonstrates proficiency use the right components alternatives.
+meet expectations in expectations from various using the right components and principles that are part • Guides and reviews across
+multiple interfaces (e.g., perspectives (e.g., and principles that are part of the design system. teams to ensure designs
+desktop, mobile) and with accessibility, brand, of the design system. • Acts as the owner use the right components
+different user platform user experience). • Ensures designs meet approving the ship and principles that are part
+configurations. expectations from various readiness of designs by of the design system.
+
+P r o duct D es i gn | 8
+Key Responsibilities (Professional/Individual Contributor)
+Product Design P1 (G6) Product Design P2 (G7) Product Design P3 (G8) Product Design P4 (G9) Product Design P5 (G10) Product Design P6 (G11)
+• Develops understanding • Ensures own designs meet perspectives (e.g., considering various • Acts as the owner
+and ability to ensure expectations in multiple accessibility, brand, perspectives (e.g., approving the ship
+designs work in multiple interfaces (e.g., desktop, platform user experience). accessibility, brand, readiness by considering
+scenarios depending on mobile) and with different • Ensures designs meet platform user experience). various perspectives (e.g.,
+user type/setup and point user configurations. expectations in multiple • Provides advanced accessibility, brand,
+of user journey (e.g., empty • Provides support to ensure interfaces (e.g., desktop, consultation to ensure platform user experience).
+states, edge cases). designs work in multiple mobile) and with different designs meet expectations • Provides expert
+scenarios depending on user configurations. in multiple interfaces (e.g., consultation to ensure
+user type/setup and point • Ensures designs work in desktop, mobile) and with designs meet expectations
+of user journey (e.g., empty multiple scenarios different user in multiple interfaces (e.g.,
+states, edge cases). depending on user configurations. desktop, mobile) and with
+type/setup and point of • Provides advanced different user
+user journey (e.g., empty consultation to ensure configurations.
+states, edge cases). designs work in multiple • Provides expert
+scenarios depending on consultation to ensure
+user type/setup and point designs work in multiple
+of user journey (e.g., empty scenarios depending on
+states, edge cases). user type/setup and point
+of user journey (e.g., empty
+states, edge cases).
+Visual Design • Produces visual designs • Produces visual designs • Produces visual designs • Produces high quality • Leads the production of • Leads the production of
+from concept to delivery from concept to delivery from concept to delivery. designs from concept to visual designs from concept visual designs from concept
+under the guidance of with limited guidance from • Creates needed visual delivery. to delivery. to delivery.
+senior team members. senior team members. design deliverables • Creates needed visual • Creates, evangelizes, and • Creates, evangelizes, and
+• Assists the creation needed • Creates needed visual including assets, design deliverables oversees needed visual oversees needed visual
+visual design deliverables design deliverables animations, and flows. including assets, animations, design deliverables design deliverables
+including assets, animations, including assets, • Advocates for brand and flows. including assets, including assets,
+and flows with guidance. animations, and flows with adherence and promotion • Advocates for and oversees animations, and flows. animations, and flows.
+• Follows direction to apply guidance. of inclusivity principles. brand adherence and • Communicates and • Communicates and
+visual patterns in different • Follows direction to apply • Applies visual patterns in promotion of inclusivity executes strategic product executes strategic product
+interfaces (e.g., web, mobile, visual patterns in different different interfaces (e.g., principles, ensuring designs visual design direction to visual design direction to
+console, desktop interfaces (e.g., web, mobile, web, mobile, console, are accessible. leaders at all stages from leaders at all stages from
+applications) with guidance. console, desktop desktop applications). • Applies visual patterns in intent to implementation to intent to implementation to
+applications). • Makes recommendations different interfaces (e.g., ensure alignment. ensure alignment.
+for accessible designs that web, mobile, console, • Champions and oversees • Champions and sets
+consider possible scenarios desktop applications). brand adherence and expectations for brand
+and user personas. promotion of inclusivity adherence and promotion
+
+P r o duct D es i gn | 9
+Key Responsibilities (Professional/Individual Contributor)
+Product Design P1 (G6) Product Design P2 (G7) Product Design P3 (G8) Product Design P4 (G9) Product Design P5 (G10) Product Design P6 (G11)
+• Produces accessible designs principles, ensuring designs of inclusivity principles,
+that consider possible are accessible. ensuring designs are
+scenarios and user • Applies visual patterns in accessible.
+personas. different interfaces (e.g., • Provides expert solutions
+web, mobile, console, for applying visual patterns
+desktop applications). in different interfaces (e.g.,
+• Leads the production of web, mobile, console,
+accessible designs that desktop applications).
+consider possible scenarios • Champions the production
+and user personas. of accessible designs that
+consider possible scenarios
+and user personas.
+Interaction Design • Assists with the creation of • Creates wireframes, journey • Creates wireframes, journey • Creates wireframes, journey • Identifies and evangelizes • Leads the strategy for and
+wireframes, journey maps, maps, jobs to be done, maps, jobs to be done, maps, jobs to be done, for scenarios that will the development and
+user jobs and scenarios, task scenarios, task flows, and scenarios, task flows, and scenarios, task flows, and ultimately turn into enhancement of product
+flows, and personas in personas in support of personas in support of personas in support of interaction designs for user experiences via
+support of interaction interaction designs for interaction designs for interaction designs for hardware and/or software- creation of interactive
+designs for hardware and/or hardware and/or software- hardware and/or software- hardware and/or software- based experiences. prototypes and detailed
+software-based experiences based experiences under based experiences with based experiences. • Serves as an architect over flows for new and existing
+under the direction of a the direction of a senior minimal guidance. • Conceptualizes and delivers the strategy for a product hardware and/or software-
+senior team member. team member. • Conceptualizes and delivers artifacts at needed levels of design and for multiple based experiences while
+• Conceptualizes and delivers • Conceptualizes and delivers artifacts at needed levels of fidelity. systems. serving as a liaison between
+artifacts at needed levels of artifacts at needed levels of fidelity with minimal • Contributes to and begins • Directs team to develop users and products.
+fidelity following clear fidelity with guidance. guidance. to lead development and and enhance product user • Leads team to ensure the
+directions. • Participates in the • Participates in the enhancement of product experiences via creation of designs of the products
+• Participates in the development and development and user experience via creation interactive prototypes and allow the user to complete
+development and enhancement of product enhancement of product of interactive prototypes detailed flows for new and the desired functions in the
+enhancement of product user experience via creation user experiences via and detailed flows for new existing product features best possible manner.
+user experience via creation of interactive prototypes creation of interactive and existing product while serving as a liaison • Drives creation of
+of interactive prototypes and detailed flows for new prototypes and detailed features while serving as a between users and interactions that adapt to
+and detailed flows for new and existing product flows for new and existing liaison between users and products. different input devices (e.g.,
+and existing product features. product features while products. • Leads team to ensure the keyboard, mouse, voice).
+features. • Assists others to help serving as a liaison between • Ensures that the designs of designs of the products
+• Assists others to help ensure that the designs of users and products. the products allow the user allow the user to complete
+ensure that the designs of the products allow the user • Ensures that the designs of to complete the desired the desired functions in the
+the products allow the user to complete the desired the products allow the user functions in the best best possible manner.
+to complete the desired to complete the desired possible manner.
+
+P r o duct D es i gn | 10
+Key Responsibilities (Professional/Individual Contributor)
+Product Design P1 (G6) Product Design P2 (G7) Product Design P3 (G8) Product Design P4 (G9) Product Design P5 (G10) Product Design P6 (G11)
+functions in the best functions in the best functions in the best • Creates interactions that • Leads creation of
+possible manner. possible manner. possible manner. adapt to different input interactions that adapt to
+• Assists others in creating • Assists others in creating • Creates interactions that devices (e.g., keyboard, different input devices (e.g.,
+interactions that adapt to interactions that adapt to adapt to different input mouse, voice). keyboard, mouse, voice).
+different input devices (e.g., different input devices (e.g., devices (e.g., keyboard,
+keyboard, mouse, voice). keyboard, mouse, voice). mouse, voice).
+Design Systems • Uses prescribed design • Uses prescribed design • Contributes to the use and • Contributes to the use and • Leads the use and adoption • Sets direction for use and
+system primitives and system primitives and adoption of latest design adoption of latest design of latest design system adoption of design system
+components. components. system primitives and system primitives and primitives and components. primitives and components.
+• Shares learnings and • Shares learnings and components. components. • Helps others use the system • Ensures that the team
+collaborates with other collaborates with other • Ensures products are • Ensures products are and drives consistency, tracks an improvement in
+designers to share designers to share aligned with company-wide aligned with company-wide alignment, and standards efficiency and collaboration
+education for team education for team systems. systems. across multiple teams. through the use of the
+improvements. improvements. • Helps others use the system • Helps others use the system system.
+• Leverages design system • Makes sure components are and drives consistency and and drives consistency and • Directs others to use the
+components and follows documented and updates alignment within the team. alignment within the team. system and drives
+documented guidance with documentation when • Provides support to ensure • Ensures components are consistency, alignment, and
+supervision. changes are made with components are accessible. accessible. standards across multiple
+supervision. • Makes sure components are • Makes sure components are teams.
+documented and updates documented and updates
+documentation when documentation when
+changes are made. changes are made.
+Communication • Learns to convey work to • Conveys work to peers and • Conveys work to peers and • Communicates with cross- • Sets context for senior • Conveys a vision for a
+peers and managers within managers within immediate managers within their job disciplinary teams inside leadership stakeholders. product, process, or a
+immediate team so that the team so that the audience family team(s) so that the and across job families • Guides communication with system to senior leadership.
+audience understands. understands. audience understands. through all stages of cross-disciplinary teams • Uses a variety of
+• Communicates in a • Communicates in a • Helps organize ideation, design, and inside and across job techniques, such as
+professional and timely professional and timely communication with cross- development. families through all stages emotional, data driven, and
+fashion. fashion. disciplinary teams inside • Owns communication for of ideation, design, and customer experience driven
+• Begins to identify which and across through all what one is doing in a development. techniques to convey an
+mode of communication stages of ideation, design, proactive way. • Owns communication for idea.
+would be most effective in and development. • Identifies which mode of what one is doing in a • Cultivates communication
+each scenario (e.g., written, • Owns communication for communication would be proactive way. workstreams for effective
+demo videos, calls). what one is doing in a most effective in each • Identifies which mode of communication across
+proactive way. scenario (e.g., written, demo communication would be groups.
+videos, calls). most effective in each
+
+P r o duct D es i gn | 11
+Key Responsibilities (Professional/Individual Contributor)
+Product Design P1 (G6) Product Design P2 (G7) Product Design P3 (G8) Product Design P4 (G9) Product Design P5 (G10) Product Design P6 (G11)
+• Identifies which mode of • Manages tonality, being scenario (e.g., written, demo • Demonstrates executive
+communication would be respectful, inclusive, videos, calls). maturity in communication
+most effective in each concise, and clear. • Leads communication interactions.
+scenario (e.g., written, demo • Communicates up and out workstreams for effective • Recognized by others as an
+videos, calls). to leaders. communication across expert because of
+• Manages tonality, being • Provides clear messages groups. evangelizing designs
+respectful, inclusive, that can be understood • Provides clear messages through communication.
+concise, and clear. across time zones with the that can be understood
+• Provides clear messages needed context. across time zones with the
+that can be understood needed context.
+across time zones with the
+needed context.
+Storytelling • Works with a senior team • Works with a senior team • Recognizes and • Communicates a • Communicates a • Provides thought
+member to create a member to create a communicates user needs compelling, convincing compelling, convincing leadership to the team
+compelling narrative for a compelling narrative for a to team members and product story to a specific product story to a variety of regarding storytelling while
+specific product or feature. specific product or feature. recommends ideas to audience. audiences in a way that connecting the story to
+• Follows guidance to explore • Explores new and create a compelling • Shares stories to leaders inspires excitement and relevant designs across the
+new and interesting ways of interesting ways of telling narrative for the product. and adjusts narrative support of the product. company.
+telling stories (e.g., video stories (e.g., video • Explores new and depending on the audience. • Influences for impact and • Communicates a
+illustrations, sound). illustrations, sound). interesting ways of telling • Shares stories using buy-in from key compelling, convincing
+stories (e.g., video visualizations and stakeholders through product story to a variety of
+illustrations, sound). demonstrations in addition storytelling. audiences in a way that
+to written formats. • Coaches team members on inspires excitement and
+using various storytelling support of the product and
+techniques (e.g., influences buy-in from key
+visualizations, demos). stakeholders.
+• Coaches team members on
+using various storytelling
+techniques (e.g.,
+visualizations, demos).
+Collaboration • Assists with fundamental • Assists with fundamental • Performs fundamental tasks • Works with team members, • Leads collaboration with • Leads workstreams with
+tasks on projects with team tasks on projects with team on projects with team product managers, program team members, product team members, product
+members, product members, product members, product managers, and developers managers, program managers, program
+managers, program managers, program managers, program to define and iterate on new managers, and developers managers, and developers
+managers, and developers managers, and developers managers, and developers and existing product to define and iterate on to define and iterate on
+to define and iterate on new to define and iterate on to define and iterate on features. new and existing product new and existing product
+
+P r o duct D es i gn | 12
+Key Responsibilities (Professional/Individual Contributor)
+Product Design P1 (G6) Product Design P2 (G7) Product Design P3 (G8) Product Design P4 (G9) Product Design P5 (G10) Product Design P6 (G11)
+and existing product new and existing product new and existing product • Collaborates with team features, as well as to make features, as well as to make
+features. features. features. members to deliver product decisions on behalf of the decisions on behalf of the
+• Supports collaborative • Follows guidance to • Collaborates with team design results while guiding organization. organization.
+efforts across the team collaborate with team members to deliver product the team's newer members. • Collaborates with • Leads workstream
+under the direction of members to deliver product design results. • Influences stakeholders leadership and team collaboration with
+senior team members. design results. • Begins to influence across job families (e.g., members to deliver product leadership, team members,
+stakeholders across job Marketing, Sales, design results while guiding and external partners.
+families (e.g., Marketing, Engineering, Product). the other team members. • Serves as an expert to
+Sales, Engineering, Product). • Connects dots between • Influences stakeholders promote the team
+• Works collaboratively by teams to enable across job families (e.g., delivering on key product
+leveraging the work of collaboration, identifying Marketing, Sales, design plans and processes.
+others and contributing to opportunities to build on Engineering, Product). • Influences senior leadership
+the success of others. the work of others and • Connects dots between stakeholders across job
+leverage previous work. teams to enable families (e.g., Marketing,
+collaboration, identifying Sales, Engineering,
+opportunities to build on Product).
+the work of others and • Provides expert-level
+leverage previous work. perspective on how to build
+on and leverage previous
+work.
+
+P r o duct D es i gn | 13
+Key Responsibilities (Manager)
+Product Design M3 (G8) Product Design M4 (G9) Product Design M5 (G10) Product Design M6 (G11)
+Define and Plan • Estimates individual schedule(s) and • Creates alignment on schedules and plan • Creates alignment on schedules and plan • Leads long-term planning and defining of
+creates schedules and planning systems definitions, including dependency tracking, definitions, including dependency tracking user needs to anticipate user experiences
+across teams. across the job family. across solution areas. across products.
+• Defines and prioritizes product plans. • Influences the product strategy and leads • Influences the product strategy across the • Provides high-level guidance to team in
+• Creates clarity for other members of the others in defining needs of large and/or product ecosystem and/or solution areas identifying needs that are not spoken and
+team. complex product designs based on and leads others in defining needs of large including them in an end-to-end design
+• Begins influencing the prioritization of the multiple factors (e.g., user insights, and/or complex product designs based on plan and process.
+product backlog. business needs). user insights. • Leads strategy direction and
+• Identifies needs that are not spoken and • Leads team in identifying needs that are • Leads team and strategy for identifying methodologies for user insight synthesis in
+includes them in an end-to-end design not spoken and including them in an end- needs that are not spoken and including support of user needs.
+plan and process. to-end design plan and process. them in an end-to-end design plan and • Makes the case for investments in product
+• Considers multiple factors (e.g., user • Guides others to develop a synthesis of process. designs to senior leadership.
+insights, business needs) and begins to user insights and compare with data to • Strategizes the development of a synthesis • Leads collaboration with senior leadership
+translate needs into product plans. identify larger issues that may not be of user insights and compares with data to for product management and
+• Develops a synthesis of user insights and apparent for user needs. identify larger issues that may not be development teams to shepherd end-to-
+compares with data to identify larger issues • Makes the case for investments in product apparent for user needs. end experiences from concept to ship
+that may not be apparent for user needs. designs to senior leadership. • Makes the case for investments in product across products.
+• Collaborates with product management • Collaborates with product management designs to senior leadership. • Defines, influences, and builds support for
+and development team members to and development team members to • Leads collaboration with senior product long-term product strategy that situates
+shepherd end-to-end experiences from shepherd end-to-end experiences from management and development team the company's future in the context of
+concept to ship for products. concept to ship for large and/or complex leaders to shepherd end-to-end emerging tech and company growth.
+• Guides team members on applying agile products. experiences from concept to ship for large • Seeks and applies external insights to
+methodologies to split a feature in • Guides team members on applying agile and/or complex products. ensure team members use cutting-edge
+different iterations that are meaningful to methodologies to split a feature in • Coaches team members on applying agile agile methodologies to split a feature in
+users and helps the team learn about the different iterations that are meaningful to methodologies to split a feature in different iterations that are meaningful to
+experience (i.e., ship to learn). users and helps the team learn about the different iterations that are meaningful to users and helps the team learn about the
+• Starts to identify opportunities for building experience (i.e., ship to learn). users and helps the team learn about the experience (i.e., ship to learn).
+experiments to gauge the appetite for a • Identifies opportunities for building experience (i.e., ship to learn). • Encourages team members to identify
+feature. experiments to gauge the appetite for a • Identifies opportunities for building opportunities for building experiments to
+feature. experiments to gauge the appetite for high gauge the appetite for high impact
+impact features. features.
+Ideate • Generates and leads ideation solutions to • Directs others to generate ideation • Sets direction across teams for ideation to • Leads long-term vision and planning for
+improve product designs. solutions for products involving generate solutions for products involving large scale ideation plans, processes, and
+• Utilizes a variety of perspectives when moderately complex challenges (e.g., complex challenges (e.g., involving many procedures to ensure optimal product
+ideating (e.g., business, experience, involving many constraints, needing constraints, needing workarounds, designs across an entire family of products.
+technology). workarounds, requiring holistic view of requiring holistic view of interconnected • Provides leadership and expert input on the
+systems) to improve product designs. strategic utilization of a variety of
+
+P r o duct D es i gn | 14
+Key Responsibilities (Manager)
+Product Design M3 (G8) Product Design M4 (G9) Product Design M5 (G10) Product Design M6 (G11)
+• Synthesizes ideation solutions to a concise interconnected systems) to improve • Manages complexities and provides perspectives when ideating (e.g., technology,
+articulation of user needs and subsequent product designs. leadership on the strategic utilization of a business, marketing).
+solutions. • Brings diverse teams together and provides variety of perspectives when ideating (e.g., • Provides high-level feedback and guidance
+• Facilitates engagement for an ideation input on the strategic utilization of a technology, business, marketing). for team members synthesizing ideation
+exercise as part of a design discovery variety of perspectives when ideating (e.g., • Provides high-level feedback and guidance solutions for highly complex problems into a
+process. business, experience, technology). for team members synthesizing ideation concise articulation of user and client needs
+• Supports the ideation process using • Synthesizes ideation solutions to a concise solutions for complex problems to a and solutions.
+existing research and makes articulation of user needs and subsequent concise articulation of user and client • Provides guidance and feedback regarding
+recommendations to conduct new studies solutions. needs and subsequent solutions. processes across the company for continuity
+as needed. • Informs the ideation process using existing • Informs the ideation process using existing in design overall for the organization.
+research and identifies needs to conduct research and identifies needs to conduct • Guides others on the ideation process using
+new studies. new studies. existing research and approves
+recommendations to conduct new studies
+with widespread impact.
+Prototyping • Leads prototyping for new products as • Leads prototyping for new products as • Leads prototyping at large scale for new • Oversees work as a thought leader for new
+efficiently as possible. efficiently as possible. products as efficiently as possible. products and directs which design
+• Evaluates and enables digital and physical • Provides guidance to other team members • Provides guidance to other team members concepts to prototype across all major
+tools to demonstrate design to teams, about what the prototype should about what the prototype should products of significant impact.
+customers, and/or stakeholders and then communicate and how to find the right communicate and how to identify the right • Leads the vision for new designs based on
+gauge feasibility and customer prototype for a problem. prototype for a problem. broad industry insights, provides feedback
+perceptions/needs. • Seeks to understand user needs and • Oversees processes to understand user to leadership about proposed designs, and
+• Leverages prototyping frameworks in propose a design prototype, evaluate its needs, guides others on proposing design collaborates with executives to promote
+accordance with company's brand and usefulness, and determine next steps to prototypes, evaluates design usefulness, long-term product design visions and buy-
+guidelines and evolves guidelines when ensure optimal product designs. and leads the process of determining next in for current and proposed product
+existing guidelines are unclear. • Ensures prototypes are in accordance with steps to ensure optimal flows. designs, while ensuring alignment with
+company's brand and guidelines and • Contributes to the vision for new designs strategic interests.
+evolves guidelines when existing guidelines based on broad industry trends and • Ensures prototypes are built in accordance
+are unclear. collaborates with leadership on long-term with company's brand and guidelines and
+product design visions and buy-in for directs the development of guidelines
+current and proposed product designs. when existing guidelines are unclear, and
+• Ensures prototypes are in accordance with upholds and shares guidelines across
+company's brand and guidelines and teams and areas.
+directs the development of guidelines
+when existing guidelines are unclear, and
+upholds and shares guidelines across
+teams and areas.
+
+P r o duct D es i gn | 15
+Key Responsibilities (Manager)
+Product Design M3 (G8) Product Design M4 (G9) Product Design M5 (G10) Product Design M6 (G11)
+Design Quality • Provides guidance to support collaboration • Directs collaboration with teams across the • Directs collaboration with teams across the • Establishes collaborations with teams
+with teams across the company for company for successful design company to provide oversight for across the company to provide oversight
+successful design implementation and implementation and manages quality successful design implementation and for successful design implementation and
+supervises quality checks to ensure the checks to ensure the final design is manages quality checks to ensure the final defines expectations for quality checks to
+final design is implemented as intended. implemented as intended. design is implemented as intended. ensure the final design is implemented as
+• Provides needed deliverables and works • Provides needed deliverables and directs • Ensures deliverables are provided and intended.
+with developers during implementation to collaboration with developers during directs collaboration with senior • Directs collaboration with senior
+iterate further on designs and ensure implementation to iterate further on developers and leadership during developers and leadership during
+optimal designs. designs and ensure optimal designs. implementation to iterate further on implementation to iterate further on
+• Demonstrates ability to challenge • Drives negotiations with Engineering and designs and ensure optimal designs. designs and ensure optimal designs.
+limitations, negotiate with Engineering and Product and pushes design agenda • Drives negotiations with senior leaders in • Drives negotiations with senior leaders in
+Product, adjust to forward while finding compromises and Engineering and Product and pushes Engineering and Product and pushes
+Engineering/Product/Design (EPD) alternatives. design agenda forward while finding design agenda forward while finding
+schedules, find alternatives, and make • Acts as the owner approving the ship compromises and alternatives. compromises and alternatives.
+cases for designs to be implemented in a readiness by considering various • Acts as the owner approving the ship • Acts as the owner approving the ship
+certain way. perspectives (e.g., accessibility, brand, readiness from a design perspective by readiness by considering various
+• Ensures designs use the right components platform user experience). considering various perspectives (e.g., perspectives (e.g., accessibility, brand,
+and principles that are part of the design • Oversees designs to ensure use the right accessibility, brand, platform user platform user experience).
+system. components and principles that are part of experience). • Defines guidelines for ensuring designs
+• Ensures designs meet expectations from the design system. • Oversees designs to ensure designs use use the right components and principles
+various perspectives (e.g., accessibility, • Oversees designs to ensure designs meet the right components and principles that that are part of the design system.
+brand, platform user experience). expectations in multiple interfaces (e.g., are part of the design system. • Outlines processes and expectations to
+• Ensures designs meet expectations in desktop, mobile) and with different user • Oversees designs to ensure designs meet ensure designs meet expectations in
+multiple interfaces (e.g., desktop, mobile) configurations. expectations in multiple interfaces (e.g., multiple interfaces (e.g., desktop, mobile)
+and with different user configurations. • Oversees designs to ensure designs work desktop, mobile) and with different user and with different user configurations.
+• Ensures designs work in multiple scenarios in multiple scenarios depending on user configurations. • Provides expert consultation to ensure
+depending on user type/setup and point of type/setup and point of user journey (e.g., • Oversees designs to ensure designs work designs work in multiple scenarios
+user journey (e.g., empty states, edge empty states, edge cases). in multiple scenarios depending on user depending on user type/setup and point of
+cases). type/setup and point of user journey (e.g., user journey (e.g., empty states, edge
+empty states, edge cases). cases).
+Visual Design • Produces visual designs from concept to • Leads the production of visual designs • Leads the production of visual designs • Leads the long-term vision and strategy for
+delivery. from concept to delivery. from concept to delivery. the production of visual designs from
+• Creates needed visual design deliverables • Creates, evangelizes, and oversees needed • Creates, evangelizes, and oversees needed concept to delivery to design products.
+including assets, animations, and flows. visual design deliverables including assets, visual design deliverables including assets, • Leads team to ensure high-quality designs
+• Advocates for and oversees brand animations, and flows. animations, and flows. which manifest into artifacts for
+adherence and promotion of inclusivity • Communicates and executes strategic • Communicates and executes strategic engineering implementation.
+principles, ensuring designs are accessible. product visual design direction to leaders product visual design direction to leaders
+
+P r o duct D es i gn | 16
+Key Responsibilities (Manager)
+Product Design M3 (G8) Product Design M4 (G9) Product Design M5 (G10) Product Design M6 (G11)
+• Applies visual patterns in different at all stages from intent to implementation at all stages from intent to implementation • Works collaboratively with senior
+interfaces (e.g., web, mobile, console, to ensure alignment. to ensure alignment. leadership across the company to create
+desktop applications). • Supervises brand adherence and • Champions and sets expectations for brand state-of-the-art product designs.
+• Produces accessible designs that consider promotion of inclusivity principles, adherence and promotion of inclusivity • Communicates and executes a strategic
+possible scenarios and user personas. ensuring designs are accessible. principles, ensuring designs are accessible. visual design direction to top level leaders
+• Guides others on applying visual patterns • Oversees application of visual patterns in from intent to implementation for
+in different interfaces (e.g., web, mobile, different interfaces (e.g., web, mobile, products, tools, and services.
+console, desktop applications). console, desktop applications). • Establishes brand and inclusivity principles.
+• Leads the production of accessible designs • Encourages teams to produce accessible • Defines and sets expectations for applying
+that consider possible scenarios and user designs that consider possible scenarios visual patterns in different interfaces (e.g.,
+personas. and user personas. web, mobile, console, desktop
+applications).
+• Encourages teams to produce accessible
+designs that consider possible scenarios
+and user personas.
+Interaction Design • Creates wireframes, journey maps, jobs to • Identifies and evangelizes for scenarios • Leads the strategy for and the • Leads the long-term strategy and vision for
+be done, scenarios, task flows, and that will ultimately turn into interaction development and enhancement of product the development and enhancement of
+personas in support of interaction designs designs for hardware and/or software- user experiences via creation of interactive product user experiences via creation of
+for hardware and/or software-based based experiences. models and detailed flows for new and interactive prototypes and detailed flows
+experiences. • Serves as an architect over the strategy for existing hardware and/or software-based for new and existing hardware and/or
+• Conceptualizes and delivers artifacts at a product design and multiple systems. experiences while serving as a liaison software-based experiences while serving
+needed levels of fidelity. • Directs team to develop and enhance between users and products. as a high-level liaison between users and
+• Contributes to and begins to lead product user experiences via creation of • Leads team to ensure the designs of the products.
+development and enhancement of product interactive prototypes and detailed flows products allow the user to complete the • Develops buy-in from executive
+user experience via creation of interactive for new and existing product features while desired functions in the best possible stakeholders to ensure the designs of the
+prototypes and detailed flows for new and serving as a liaison between users and manner. products allow the user to complete the
+existing product features while serving as a products. • Reviews the creation of interactions to desired functions in the best possible
+liaison between users and products. • Guides team to ensure the designs of the ensure they adapt to different input manner.
+• Ensures that the designs of the products products allow the user to complete the devices (e.g., keyboard, mouse, voice). • Oversees the creation of interactions to
+allow the user to complete the desired desired functions in the best possible ensure they adapt to different input
+functions in the best possible manner. manner. devices (e.g., keyboard, mouse, voice).
+• Creates interactions that adapt to different • Ensures creation of interactions adapt to
+input devices (e.g., keyboard, mouse, different input devices (e.g., keyboard,
+voice). mouse, voice).
+
+P r o duct D es i gn | 17
+Key Responsibilities (Manager)
+Product Design M3 (G8) Product Design M4 (G9) Product Design M5 (G10) Product Design M6 (G11)
+Design Systems • Contributes to the use and adoption of • Leads the use and adoption of latest • Sets direction for use and adoption of • Sets the direction and long-term vision for
+latest design system primitives and design system primitives and components. design system primitives and components. the use of design systems as they evolve.
+components. • Guides team to ensure products are • Ensures that the team tracks an • Ensures that the team tracks an
+• Ensures products are aligned with aligned with company-wide systems. improvement in efficiency and improvement in efficiency and
+company-wide systems. • Helps others use the system and drives collaboration through the use of the collaboration through the use of these
+• Helps others use the system and drives consistency, alignment, and standards system. systems.
+consistency and alignment within the team. across multiple teams. • Sets guidelines for ensuring products are • Leverages deep industry knowledge to
+aligned with company-wide systems. drive improvement plans and ensure
+• Directs others to use the system and drives consistency across the company.
+consistency, alignment, and standards
+across multiple teams.
+Communication • Communicates with cross-disciplinary • Sets context for senior leadership • Conveys a vision for a product, process, or • Conveys a long-term vision for a product,
+teams inside and across job families stakeholders. a system to senior leadership. process, or a system to senior leadership.
+through all stages of ideation, design, and • Guides communication with cross- • Uses a variety of techniques, such as • Leads long-term strategy and vision for
+development. disciplinary teams inside and across job emotional, data driven, and customer effective communication with cross-
+• Owns communication for what one is families through all stages of ideation, experience driven techniques to convey an disciplinary teams inside and across job
+doing in a proactive way. design, and development. idea. families through all stages of ideation,
+• Identifies which mode of communication • Leads communication workstreams for • Cultivates communication workstreams for design, and development.
+would be most effective in each scenario effective communication across groups. effective communication across groups. • Leads collaboration efforts with senior
+(e.g., written, demo videos, calls). • Demonstrates executive maturity in leadership to ensure they are informed and
+• Manages tonality, being respectful, communication interactions. aligned with product design strategy and
+inclusive, concise, and clear. • Recognized by others as an expert because long-term plan.
+• Communicates up and out to leaders. of evangelizing designs through • Demonstrates executive maturity in
+communication. communication interactions.
+• Recognized by others as an expert because
+of evangelizing designs through
+communication.
+Storytelling • Communicates a compelling, convincing • Communicates a compelling, convincing • Provides thought leadership to the team • Provides thought leadership to the team
+product story to a specific audience. product story to a variety of audiences in a regarding storytelling, while connecting regarding storytelling while connecting the
+• Shares stories to leaders and adjusts way that inspires excitement and support the story to relevant designs across the story to relevant designs across the
+narrative depending on the audience. of the product. company. company.
+• Coaches their team on applying various • Influences for impact and buy-in from key • Communicates a compelling, convincing • Communicates a compelling, convincing
+storytelling techniques (e.g., visualizations, stakeholders through storytelling. product story to a variety of audiences in a product story to a variety of audiences in a
+demos). • Coaches teams on applying various way that inspires excitement and support way that inspires excitement and support
+storytelling techniques (e.g., visualizations, of the product, and influences buy-in from of the product, and influences buy-in from
+demos). key stakeholders. key stakeholders.
+
+P r o duct D es i gn | 18
+Key Responsibilities (Manager)
+Product Design M3 (G8) Product Design M4 (G9) Product Design M5 (G10) Product Design M6 (G11)
+• Coaches teams on applying various • Conveys a clear vision by applying various
+storytelling techniques (e.g., visualizations, storytelling techniques (e.g., visualizations,
+demos). demos).
+Collaboration • Works with team members, product • Leads collaboration with team members, • Leads workstreams with team members, • Leads long-term strategy and vision for
+managers, program managers, and product managers, program managers, and product managers, program managers, team leaders and develops relationships
+developers to define and iterate on new developers across teams to define and and developers across the organization to with key executives.
+and existing product features. iterate on new and existing product define and iterate on new and existing • Defines and provides feedback on
+• Supervises collaboration across team features, as well as to make decisions on product features, as well as to make iterations of new and existing product
+members to deliver product design results behalf of the organization. decisions on behalf of the organization. designs and features to successfully
+while guiding the team's newer members. • Coordinates collaboration between • Leads workstream collaboration with collaborate on design outcomes.
+• Influences stakeholders across job families leadership and team members to deliver leadership, team members, and external • Influences senior leadership across the
+(e.g., Marketing, Sales, Engineering, product design results while providing partners. company relevant to product design.
+Product). guidance to team members. • Serves as an expert to promote the team • Serves as a subject matter expert in the
+• Connects dots between teams to enable • Influences stakeholders across job families delivering on key product design plans and industry.
+collaboration, identifying opportunities to (e.g., Marketing, Sales, Engineering, processes. • Evolves the collaboration between Design
+build on the work of others and leverage Product). • Influences senior leadership stakeholders and other groups (e.g., Engineering and
+previous work. • Connects dots between teams to enable across job families (e.g., Marketing, Sales, Product).
+collaboration, identifying opportunities to Engineering, Product).
+build on the work of others and leverage • Provides expert-level perspective on how
+previous work. to build on and leverage previous work.
+
+P r o duct D es i gn | 19
+Skills
+Skill Key
+1 Critical/Important and Required Upon Hire
+2 Critical/Important and NOT Required Upon Hire
+- Not Important/Critical
+P1 P2 P3 P4 P5 P6 M3 M4 M5 M6
+Skill Cluster Name Skill Name Skill Definition
+(G6) (G7) (G8) (G9) (G10) (G11) (G8) (G9) (G10) (G11)
+The ability to understand and deliver information through a
+Communications contextually appropriate medium that is tailored to the audience. This 2 2 1 1 1 1 1 1 1 1
+includes oral and written communication in English for work matters.
+The ability to manage conflict, disharmony, and strife among people
+Conflict Resolution - - 1 1 1 1 1 1 1 1
+and situations, while recognizing and addressing sensitivities.
+The skill to influence others, develop and maintain working
+Consulting relationships, and deliver results and/or expertise for a client in a - 2 1 1 1 1 1 1 1 1
+professional manner.
+The ability to garner support for initiatives by gaining the respect of
+Influence Others - 2 1 1 1 1 1 1 1 1
+others and inspiring trust and confidence.
+The ability to represent various products, projects, programs, and the
+Communication and
+company in a narrative format. This includes the ability to communicate
+Influence
+value and pitch ideas by sharing stories with stakeholders as well as
+Narrative Storytelling 2 1 1 1 1 1 1 1 1 1
+using narrative examples to highlight potential impact. Includes skill in
+using narratives and stories to enhance others' understanding of work
+being completed or envisioned.
+The ability to engage others in ideas both inside and outside the
+Persuasion/Storytelling company with anecdotes, data, customer scenarios, and product 2 1 1 1 1 1 1 1 1 1
+features by leveraging their strong communication skills.
+The ability to tell a story in a visual format in order to convey
+information and emotion. This includes the ability to use images,
+Visual Storytelling 2 1 1 1 1 1 1 1 1 1
+motion, and conceptual animation to explain concepts, technologies,
+pathways, and customer journeys.
+The ability to make decisions in a fast-paced, rapidly changing
+Data Driven Decision environment. This includes the ability to define, diagnose, and
+Making and Problem Decision Making determine an appropriate resolution, recommendation, or decision - - 1 1 1 1 1 1 1 1
+Solving while considering alternatives and factors (e.g., resources, costs,
+tradeoffs).
+
+P r o duct D es i gn | 20
+The ability to identify problems and review related information to
+Problem Solving 2 1 1 1 1 1 1 1 1 1
+develop and evaluate options and implement solutions.
+Knowledge of competitors and their products or services in the market;
+Competitor Intelligence this includes the understanding of the relative advantages and - 2 1 1 1 1 1 1 1 1
+disadvantages of GitHub's products or services.
+Industry Trends and The ability to understand the industry/vertical emerging trends, explore
+Market Acumen Emerging Industry how industry-specific business challenges are being solved through 2 2 1 1 1 1 1 1 1 1
+Solutions unique vendor and/or partner solutions.
+Knowledge of the market context in which the business operates,
+Market Knowledge including understanding market trends and how they will impact - 2 2 1 1 1 1 1 1 1
+customers and the business.
+The ability to communicate across teams, which consists of
+Cross-team communicating through various means. This includes presentations
+2 2 1 1 1 1 1 1 1 1
+Communication and other communication methods to receive consensus, buy-in, or
+informing key stakeholders of current process/project status.
+The ability to apply principles, systems, tools, and strategic insights to
+Operational Excellence sustainably improve key performance indicator (KPI) metrics and drive - 2 1 1 1 1 1 1 1 1
+operational efficiencies.
+Knowledge of and the ability to carry out the process of planning,
+organizing, and managing tasks and resources to accomplish a well-
+defined objective. This includes the ability to manage and provide
+Project Management - 2 1 1 1 1 1 1 1 1
+project deliverables, optimize the contribution of the people involved,
+Project and Program and assess the impact of project decisions on quality, productivity,
+Management schedules, cost, performance, etc.
+The ability to manage a project schedule, defining and sequencing
+Project Planning activities, estimating activity durations, and developing and controlling - - 1 1 1 1 1 1 1 1
+the schedule.
+The ability to manage project stakeholders and stakeholder
+Project Stakeholder engagements. This includes identifying stakeholders, prioritizing their
+- 1 1 1 1 1 1 1 1 1
+Management concerns, managing expectations, and planning and monitoring
+stakeholder engagements.
+The ability to analyze and recognize how a system's parts interrelate
+and how sub-systems work over time within the context of larger
+Systems Thinking 2 2 1 1 1 1 1 1 1 1
+systems. This includes the ability to view systems with a broad
+perspective and identify overall structures, patterns, and cycles.
+The ability to efficiently and effectively develop and deliver
+Accessibility 2 1 1 1 1 1 1 1 1 1
+accessibility, diversity and inclusion strategies, and plans.
+The ability to apply ingenuity, inventiveness, and imagination to the
+User Experience and
+Creativity inclusive design and construction of a product, service, program, or 2 2 1 1 1 1 1 1 1 1
+Design
+initiative.
+Knowledge of accessible technology to help inform the development
+Inclusive Design 2 1 1 1 1 1 1 1 1 1
+of programs and/or courses for users.
+
+P r o duct D es i gn | 21
+Knowledge of the design between users and products through
+Interaction Design interaction design. This includes understanding how to integrate user 2 2 1 1 1 1 1 1 1 1
+desires into product design.
+The ability to apply graphic design principles to filmmaking and video
+production through the use of animation and visual effects. This
+Motion Design - - 2 1 1 1 - - - -
+includes the ability to effectively integrate the elements of time, sound,
+and space into messages and designs.
+Knowledge of and ability to design products through prototyping and
+providing designs for new products. This includes an understanding of
+Product Design 2 2 1 1 1 1 1 1 1 1
+the design process of design fundamentals, such as storytelling,
+wireframes, and modeling products.
+Knowledge of and ability to use cutting-edge applications and current
+Product Design Tools 2 2 1 1 1 1 1 1 2 2
+design tools in support of product design process.
+Knowledge of the process of bringing a new product to market,
+including standardized product development methods that comply
+Product Development - 2 1 1 1 1 1 1 1 1
+with established procedures, documentation frameworks, and product
+development standards.
+Knowledge of and ability to develop prototypes in support of an
+Prototyping iterative development/design process. This includes knowledge of and - - 1 1 1 1 2 - - -
+ability to assess needs, create a prototype, and produce a model.
+Knowledge of technical design. This includes technical areas of
+Technical Design - 1 1 1 1 1 1 1 1 1
+interaction, prototyping, visual design, and related processes.
+The ability to use knowledge of user experience (UX), user experience
+design (UXD, UED), or experience design (XD) to enhance user
+User Experience (UX) 1 1 1 1 1 1 1 1 1 1
+satisfaction with a product. This includes improving the usability and
+accessibility provided in the interaction with the product.
+Knowledge of user interface design, which is the interaction where
+users and computers interact. This includes an understanding of how to
+User Interface Design 2 1 1 1 1 1 1 1 1 1
+provide an optimal industrial design experience through User Interface
+(UI) Design.
+Knowledge of using user-centered design, which consists of evaluating
+user desires at each phase of the iterative design process. This includes
+User-Centered Design - 1 1 1 1 1 1 1 1 1
+pursuing user insights throughout the process to ensure ideal user
+design.
+
