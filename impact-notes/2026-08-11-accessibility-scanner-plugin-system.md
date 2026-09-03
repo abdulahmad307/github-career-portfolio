@@ -20,7 +20,9 @@ The merged plugin system turned the scanner from a single-purpose implementation
 - [Core UX discussion #2026: Plugin system announcement](https://github.com/github/core-ux/discussions/2026)
 - A new built-in reflow plugin is available for any scanner user.
 - [Accessibility scanner alt-text plugin: Example of a plugin loadable from npm](https://github.com/github/accessibility-scanner-alt-text-plugin)
-- Best evidence to add later: links to the reflow and npm-loading changes, plugin adoption, and feedback from scanner users or the Core UX discussion.
+- [Feedback from Lindsey Wild](../feedback/FY27-Q1-peer-feedback.md) validating the plugin system's quality and noting that it empowered Tetralogical to create custom plugins and supported several customer meetings and demos.
+- [Feedback from Clay Miller](../feedback/FY27-Q1-peer-feedback.md) documenting sustained planning, problem-solving, and code-review collaboration across the scanner's development.
+- Best evidence to add later: links to the reflow and npm-loading changes, broader plugin adoption, and feedback from scanner users or the Core UX discussion.
 
 ## How I worked
 
@@ -29,6 +31,10 @@ I addressed the scanner's architectural limitation by designing an extension poi
 ## Who benefited
 
 Users and contributors of the open-source accessibility scanner, including GitHub teams that need built-in or custom accessibility scan types and Core UX practitioners exploring more advanced scanning workflows.
+
+## Kudos and feedback
+
+Lindsey Wild said the plugin system was "no small task," that its plan and code met GitHub's standards, and that it unlocked future scanner updates, custom plugins from Tetralogical, and several customer meetings and demos. Clay Miller described my customer-zero input as invaluable and highlighted the depth and pragmatism of my reviews: proposing sound refactors, clearly labeling suggestions as optional when a ship was time-sensitive, following up on prioritization, and creating a reference implementation rather than leaving drive-by feedback. Their [exact feedback is preserved in the FY27 Q1 feedback log](../feedback/FY27-Q1-peer-feedback.md).
 
 ## Questions to answer later
 

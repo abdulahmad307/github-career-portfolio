@@ -48,6 +48,7 @@ The accessibility team became the scanner's first user, creating an internal pro
 - [Implementation PR #4238](https://github.com/github/accessibility-scorecard/pull/4238)
 - [Implementation PR #4258](https://github.com/github/accessibility-scorecard/pull/4258)
 - [Implementation PR #4460](https://github.com/github/accessibility-scorecard/pull/4460)
+- [Feedback from Clay Miller](../feedback/FY27-Q1-peer-feedback.md) describing my customer-zero insights as invaluable and documenting my review of 40 of his 55 approved scanner PRs across two repositories.
 - Qualitative cost reduction from removing the Datadog dependency.
 - Qualitative development-speed improvement from consolidating ownership and reducing cross-team approval dependencies.
 - Best evidence to add later: specific weekly-update anchors, Datadog cost savings, number of services and pages scanned, issue and sub-issue counts, and before-and-after development cycle time.
@@ -66,6 +67,10 @@ I used the migration to simplify the whole operating model rather than performin
 - Accessibility engineers who maintain and extend the scanning workflow, who gained consolidated ownership, easier testing and recovery, and fewer external approval dependencies.
 - Teams responsible for unauthenticated pages and GitHub subdomains such as `admin.github.com`, whose pages could now be included in scanning.
 - External users of the open-source accessibility scanner, who could benefit from bugs and usability issues being found through GitHub's early internal adoption.
+
+## Kudos and feedback
+
+Clay Miller described my insights as the scanner's customer zero as "invaluable" and said he frequently sought my help with planning and problem-solving across action outputs, cache collisions, escaped characters, and cache data. He documented that I reviewed 28 of his 35 approved PRs in the scanner's earlier repository and 12 of his 20 approved PRs in `github/accessibility-scanner`. His [exact feedback is preserved in the FY27 Q1 feedback log](../feedback/FY27-Q1-peer-feedback.md).
 
 ## Questions to answer later
 
