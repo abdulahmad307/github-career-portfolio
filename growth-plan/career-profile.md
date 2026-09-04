@@ -6,7 +6,7 @@ Lightweight career context for Copilot workflows. Fill this in once, then keep i
 
 **Role title:** Software Engineer II
 
-**Job family:** Accessibility Engineering
+**Job family:** Software Engineering
 
 **Current grade/level:** Level II
 
