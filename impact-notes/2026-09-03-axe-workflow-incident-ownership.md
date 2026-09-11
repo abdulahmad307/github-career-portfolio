@@ -10,7 +10,7 @@ In another incident, Lindsey Wild was the First Responder investigating failures
 
 ## Why it mattered
 
-The scanning workflow generates accessibility findings that service teams rely on, so failures interrupt the creation and maintenance of actionable issue data. The addition of plugin-based scan capabilities increased the amount of data being transferred until it exceeded what GitHub Actions inputs and outputs could handle.
+The scanning workflow generates accessibility findings that service teams rely on, so failures interrupt the creation and maintenance of actionable issue data. The addition of plugin-based scan capabilities increased the amount of data being transferred until it exceeded what GitHub Actions inputs and outputs could handle. The scale change is visible in rough issue counts: the axe-only workflow generated approximately 50 to 80 issues, while the workflow generates approximately 250 to 300 with Reflow scanning contributing.
 
 These incidents also tested whether ownership of the migrated system would continue after launch. Restoring the workflow required both accountability for a migration defect and support for First Responders who did not yet have the same system context.
 

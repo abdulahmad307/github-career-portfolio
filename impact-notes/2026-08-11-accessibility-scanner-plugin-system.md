@@ -12,7 +12,9 @@ Before this work, the scanner could perform only one type of scan: non-interacti
 
 ## What changed
 
-The merged plugin system turned the scanner from a single-purpose implementation into an extensible platform. Since it shipped, contributors have added a built-in reflow plugin that anyone can use and enhanced the system to load plugins from npm, including a user-owned alt-text plugin. I did not build these follow-on plugins, but the extension architecture I created unlocked their development and made new scan types possible without adding them directly to the scanner's original fixed implementation.
+The merged plugin system turned the scanner from a single-purpose implementation into an extensible platform. Since it shipped, contributors have added a built-in Reflow plugin that anyone can use and enhanced the system to load plugins from the file system or npm, including a user-owned alt-image scanning plugin. Tetralogical, GitHub's third-party accessibility partner, also opened a large pull request with enhanced plugins for additional forms of accessibility scanning. I did not build these follow-on plugins, but the extension architecture I created unlocked their development and made new scan types possible without adding them directly to the scanner's original fixed implementation.
+
+Some plugin-based checks now contribute to GitHub's daily internal workflow, which was renamed from the axe scanner workflow to the accessibility scanner workflow because it performs more than axe scanning. The original axe-only workflow generated roughly 50 to 80 issues in total. With Reflow scanning contributing, it now generates roughly 250 to 300 issues, approximately 3 to 6 times the prior volume across the rough ranges. This increase is a signal of broader detection coverage: the workflow is finding accessibility violations beyond what axe alone reported.
 
 ## Evidence
 
@@ -20,9 +22,11 @@ The merged plugin system turned the scanner from a single-purpose implementation
 - [Core UX discussion #2026: Plugin system announcement](https://github.com/github/core-ux/discussions/2026)
 - A new built-in reflow plugin is available for any scanner user.
 - [Accessibility scanner alt-text plugin: Example of a plugin loadable from npm](https://github.com/github/accessibility-scanner-alt-text-plugin)
+- [Tetralogical enhanced scanner plugins](https://github.com/github/tetralogical-playwright/pull/8)
 - [Feedback from Lindsey Wild](../feedback/FY27-Q1-peer-feedback.md) validating the plugin system's quality and noting that it empowered Tetralogical to create custom plugins and supported several customer meetings and demos.
 - [Feedback from Clay Miller](../feedback/FY27-Q1-peer-feedback.md) documenting sustained planning, problem-solving, and code-review collaboration across the scanner's development.
-- Best evidence to add later: links to the reflow and npm-loading changes, broader plugin adoption, and feedback from scanner users or the Core UX discussion.
+- Rough internal issue-volume signal: approximately 50 to 80 issues with axe-only scanning compared with 250 to 300 issues after Reflow joined the daily workflow.
+- Best evidence to add later: links to the Reflow and file-system/npm-loading changes, dated issue-count sources, volume by plugin type, broader plugin adoption, and feedback from scanner users or the Core UX discussion.
 
 ## How I worked
 
@@ -30,7 +34,7 @@ I addressed the scanner's architectural limitation by designing an extension poi
 
 ## Who benefited
 
-Users and contributors of the open-source accessibility scanner, including GitHub teams that need built-in or custom accessibility scan types and Core UX practitioners exploring more advanced scanning workflows.
+Users and contributors of the open-source accessibility scanner, including GitHub teams that need built-in or custom accessibility scan types, service teams receiving earlier notice of a broader set of accessibility violations, Tetralogical as GitHub's third-party accessibility partner, and Core UX practitioners exploring more advanced scanning workflows.
 
 ## Kudos and feedback
 

@@ -6,6 +6,8 @@
 
 I independently identified and fixed a problem in the audit issue label validator. When all missing or incorrect label violations were resolved, the validator left the existing report issue open instead of closing it.
 
+I identified this problem during the same audit-label report cleanup process that exposed a separate [incomplete-reporting defect](2026-09-10-complete-audit-label-reporting.md). The two problems were related by discovery context but required distinct fixes: this change corrected stale report lifecycle state, while the companion change ensured each report included the full known set of label errors.
+
 I updated the validator to close the report once all violations are resolved and to explain why a report is being closed.
 
 ## Why it mattered
@@ -24,6 +26,7 @@ This makes the lifecycle and current status of audit reports clearer.
 ## Evidence
 
 - [Audit issue label validator fix](https://github.com/github/accessibility-scorecard/pull/5376)
+- [Companion fix for complete audit label reporting](2026-09-10-complete-audit-label-reporting.md)
 
 ## How I worked
 

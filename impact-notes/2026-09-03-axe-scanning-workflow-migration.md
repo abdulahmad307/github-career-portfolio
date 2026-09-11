@@ -40,15 +40,20 @@ I also changed issue generation so each axe violation became a sub-issue of a pa
 
 The accessibility team became the scanner's first user, creating an internal proving ground where we could find bugs and quality-of-life improvements before external users adopted it.
 
+The migration itself changed where axe scans ran but did not materially change the number of axe violation issues generated. At that point, the workflow generated roughly 50 to 80 issues in total. After the later plugin system enabled additional scan types, the workflow expanded beyond axe and was renamed the accessibility scanner workflow. With Reflow scanning contributing to the daily workflow, it now generates roughly 250 to 300 issues. This is approximately 3 to 6 times the original issue volume, depending on where each rough range falls.
+
+The increase represents broader accessibility coverage rather than more axe findings from the migration itself. Reflow and other plugin-based checks can identify violations that axe does not cover, allowing service teams to address more accessibility gaps earlier. Additional scan types are expected to increase issue volume further, but that future growth has not yet been measured.
+
 ## Evidence
 
-| Measure                 | Before                                                         | After                                                                 |
-| ----------------------- | -------------------------------------------------------------- | --------------------------------------------------------------------- |
-| Scanning implementation | Split across the monolith and a separate processing repository | Consolidated into one repository owned by the accessibility team      |
-| Scan-result transport   | Uploaded to and downloaded from Datadog                        | Processed directly without relying on Datadog                         |
-| Cache                   | GitHub Actions cache that expired after a few days             | Persistent, inspectable cache stored on an orphan branch              |
-| Page coverage           | Authenticated pages in the supported domain setup              | Added unauthenticated pages and subdomains such as `admin.github.com` |
-| Violation tracking      | Multiple violations listed in one service issue                | Individual violations represented as trackable sub-issues             |
+| Measure                  | Before                                                         | After                                                                 |
+| ------------------------ | -------------------------------------------------------------- | --------------------------------------------------------------------- |
+| Scanning implementation  | Split across the monolith and a separate processing repository | Consolidated into one repository owned by the accessibility team      |
+| Scan-result transport    | Uploaded to and downloaded from Datadog                        | Processed directly without relying on Datadog                         |
+| Cache                    | GitHub Actions cache that expired after a few days             | Persistent, inspectable cache stored on an orphan branch              |
+| Page coverage            | Authenticated pages in the supported domain setup              | Added unauthenticated pages and subdomains such as `admin.github.com` |
+| Violation tracking       | Multiple violations listed in one service issue                | Individual violations represented as trackable sub-issues             |
+| Approximate issue volume | 50 to 80 total issues after the axe migration                  | 250 to 300 total issues with Reflow contributing to daily scanning    |
 
 - [GitHub accessibility update: Company commitment to MAS C](https://thehub.github.com/news/2023-03-06-a11y-update/)
 - [Microsoft Accessibility Standards measurement guidance](https://github.com/github/accessibility/blob/main/docs/measuring-ourselves/microsoft-accessibility-standards.md)
@@ -60,10 +65,11 @@ The accessibility team became the scanner's first user, creating an internal pro
 - [Implementation PR #4238](https://github.com/github/accessibility-scorecard/pull/4238)
 - [Implementation PR #4258](https://github.com/github/accessibility-scorecard/pull/4258)
 - [Implementation PR #4460](https://github.com/github/accessibility-scorecard/pull/4460)
+- [Tetralogical enhanced scanner plugins](https://github.com/github/tetralogical-playwright/pull/8)
 - [Feedback from Clay Miller](../feedback/FY27-Q1-peer-feedback.md) describing my customer-zero insights as invaluable and documenting my review of 40 of his 55 approved scanner PRs across two repositories.
 - Qualitative cost reduction from removing the Datadog dependency.
 - Qualitative development-speed improvement from consolidating ownership and reducing cross-team approval dependencies.
-- Best evidence to add later: specific weekly-update anchors, Datadog cost savings, number of services and pages scanned, issue and sub-issue counts, and before-and-after development cycle time.
+- Best evidence to add later: specific weekly-update anchors, Datadog cost savings, number of services and pages scanned, a dated source for the rough 50-to-80 and 250-to-300 issue ranges, issue counts by plugin type, and before-and-after development cycle time.
 
 ## How I worked
 
