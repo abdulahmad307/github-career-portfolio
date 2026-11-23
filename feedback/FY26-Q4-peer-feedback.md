@@ -44,6 +44,8 @@ Capture feedback the day it happens. A quick note now is better than trying to r
 
 **User sharing preference:** `Okay to reuse in manager prep`
 
+**Promotion prep sharing preference:** `Okay to reuse`
+
 ---
 
 ### From: Joyce Zhu, Senior Software Engineer -- 2026-04-17
@@ -65,5 +67,7 @@ Capture feedback the day it happens. A quick note now is better than trying to r
 **Why it might matter later:** Specific evidence for promotion calibration, reflections, and manager conversations across Technical Depth, Leadership and Communication, and Scope and Impact, including architecture ownership, collaborative design validation, team-inclusive communication, shipped adoption, and future customer leverage.
 
 **User sharing preference:** `Ask me before using`
+
+**Promotion prep sharing preference:** `Okay to reuse`
 
 ---

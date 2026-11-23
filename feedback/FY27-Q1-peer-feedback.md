@@ -44,6 +44,8 @@ Capture feedback the day it happens. A quick note now is better than trying to r
 
 **User sharing preference:** `Not decided yet`
 
+**Promotion prep sharing preference:** `Okay to reuse`
+
 **To add later:** Original feedback date and source channel or system.
 
 ---
@@ -67,6 +69,8 @@ Capture feedback the day it happens. A quick note now is better than trying to r
 **Why it might matter later:** Specific peer evidence for promotion calibration, reflections, and 1:1s across technical judgment, execution, collaboration, pragmatic prioritization, and sustained contribution to another engineer's success.
 
 **User sharing preference:** `Not decided yet`
+
+**Promotion prep sharing preference:** `Okay to reuse`
 
 **To add later:** Original feedback date and source channel or system.
 
