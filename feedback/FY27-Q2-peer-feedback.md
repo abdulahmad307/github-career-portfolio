@@ -101,3 +101,29 @@ Capture feedback the day it happens. A quick note now is better than trying to r
 **To add later:** Original date unknown; November 23 is the capture date. Add the original feedback date and source when available.
 
 ---
+
+### From: Danyal Siddiqui, Software Engineer III, Port team -- 2026-11-24
+
+**Source:** Source to add later
+
+**Context:** Close collaboration on the Accessibility scorecard migration to Port, where I served as Danyal's point of contact for the scorecard. The feedback covers requirements clarification, migration momentum, cross-team communication, and validation of data accuracy in Port.
+
+**Feedback type:** Exact quote
+
+**Feedback:**
+
+> I worked closely with Abdul on the Accessibility scorecard migration, where he served as my point of contact for the scorecard. I was super impressed by how quickly he stepped in to understand our goals and ask the right questions to get clarity. He played an instrumental role in driving the migration across the finish line by staying consistently reachable, highly motivated, and proactive about keeping momentum going. Beyond writing code, he went the extra mile to help validate that all data in Port was accurate, which was essential to making the migration a success. His communication was consistently clear, and his thoroughness gave me real confidence throughout the process. I hope Abdul keeps bringing this same curiosity, end-to-end ownership, and clear communication to future initiatives!
+>
+> Above all, Abdul should keep doing the great work he’s already doing especially continuing to take on cross-team collaboration projects. His curiosity, clear communication, thorough data validation, and collaborative spirit make a real impact, and continuing in that direction will help him, the team, and GitHub succeed.
+
+**Signal strength:** High
+
+**Why it might matter later:** Specific partner feedback for promotion prep across Breadth, Leadership and Communication, Technical Depth, and Scope and Impact: clarifying goals, sustaining migration momentum, validating data accuracy, and building partner confidence through end-to-end ownership.
+
+**User sharing preference:** `Not decided yet`
+
+**Promotion prep sharing preference:** `Okay to reuse`
+
+**To add later:** Original date unknown; November 24 is the capture date. Add the original feedback date and source when available.
+
+---
